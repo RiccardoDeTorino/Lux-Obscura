@@ -44,7 +44,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -115,9 +115,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Riccardo DeTorino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Persona Non Grata"
   location         : "Somewhere"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
