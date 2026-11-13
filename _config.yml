@@ -22,7 +22,7 @@ title                    : "Lux Obscura"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Riccardo DeTorino"
-description              : "An amazing website."
+description              : "Riccardo DeTorino's independent online publication, a digital magazine focused on political exposés, an independent watchdog writer."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -117,8 +117,8 @@ analytics:
 author:
   name             : "Riccardo DeTorino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Persona Non Grata"
-  location         : "Somewhere"
+  bio              : "An independent watchdog writer"
+  location         : "Persona Non Grata"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
