@@ -1,0 +1,81 @@
+/* ==========================================================================
+   Matrix / Terminal skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #0a0f0a !default;
+$text-color: #00ff41 !default;
+$primary-color: #00ff41 !default;
+$secondary-color: #00cc33 !default;
+$border-color: #003311 !default;
+$code-background-color: #0d1a0d !default;
+$code-background-color-dark: #112211 !default;
+$form-background-color: #0d1a0d !default;
+$footer-background-color: #050f05 !default;
+$link-color: #00ff41 !default;
+$link-color-hover: #00cc33 !default;
+$link-color-visited: #008822 !default;
+$masthead-link-color: #00ff41 !default;
+$masthead-link-color-hover: #00cc33 !default;
+$navicon-link-color-hover: #113311 !default;
+$success-color: #00ff41 !default;
+$focus-color: #00ff41 !default;
+$active-color: #003311 !default;
+$muted-text-color: #00661a !default;
+
+/* Syntax highlighting - Matrix green theme */
+$base00: #0a0f0a !default;
+$base01: #0d1a0d !default;
+$base02: #112211 !default;
+$base03: #003311 !default;
+$base04: #008822 !default;
+$base05: #00ff41 !default;
+$base06: #80ff9f !default;
+$base07: #c8ffd6 !default;
+$base08: #ff4444 !default;
+$base09: #ff8800 !default;
+$base0a: #ffff00 !default;
+$base0b: #00ff41 !default;
+$base0c: #00ffff !default;
+$base0d: #4488ff !default;
+$base0e: #cc44ff !default;
+$base0f: #ff44aa !default;
+
+/* Typography - Force monospace everywhere */
+$global-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
+$header-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
+$monospace: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
+
+/* Social icons inherit text color */
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
+
+/* Selection color */
+::selection {
+  background-color: #003311;
+  color: #00ff41;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0f0a;
+}
+::-webkit-scrollbar-thumb {
+  background: #003311;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #004411;
+}

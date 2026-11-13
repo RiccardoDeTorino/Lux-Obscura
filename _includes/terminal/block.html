@@ -1,0 +1,16 @@
+<!-- Terminal block include - combines prompt and output -->
+<!-- Usage: {% include terminal/block.html prompt="user@host:~$" command="ls -la" output="file1.txt\nfile2.txt" %} -->
+<div class="terminal-block">
+  {% if include.prompt %}
+  <div class="terminal-prompt">
+    <code>{{ include.prompt }} {{ include.command }}</code>
+  </div>
+  {% else %}
+  <div class="terminal-prompt">
+    <code>{{ include.command }}</code>
+  </div>
+  {% endif %}
+  {% if include.output %}
+  <div class="terminal-output">{{ include.output }}</div>
+  {% endif %}
+</div>
