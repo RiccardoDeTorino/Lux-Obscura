@@ -1,0 +1,207 @@
+/* ==========================================================================
+   Terminal / Matrix custom styles (plain CSS for GitHub Pages)
+   ========================================================================== */
+
+/* Force monospace font everywhere */
+html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input, textarea, select, .sidebar__title, .taxonomy__term, .pagination__item, .notice, blockquote, table, code, pre, kbd, samp, .highlight {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+}
+
+/* Social icons inherit text color */
+.author__urls.social-icons i, .author__urls.social-icons .svg-inline--fa, .page__footer-follow .social-icons i, .page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: #0d1a0d;
+}
+
+/* Selection color */
+::selection {
+  background-color: #003311;
+  color: #00ff41;
+}
+
+/* Terminal prompt style */
+.terminal-prompt {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace;
+  color: #00ff41;
+  background: #0a0f0a;
+  border: 1px solid #003311;
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+  position: relative;
+}
+
+.terminal-prompt::before {
+  content: "user@lux-obscura:~$ ";
+  color: #00ff41;
+  opacity: 0.7;
+}
+
+.terminal-prompt code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  font-size: inherit;
+}
+
+/* Terminal output block */
+.terminal-output {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace;
+  color: #00cc33;
+  background: #0d1a0d;
+  border: 1px solid #003311;
+  border-radius: 4px;
+  padding: 1rem 1.5rem;
+  margin: 1rem 0;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Command style inline */
+.cmd {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace;
+  background: #0d1a0d;
+  color: #00ff41;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  border: 1px solid #003311;
+  font-size: 0.9em;
+}
+
+/* Path style */
+.path {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace;
+  color: #00aa33;
+}
+
+/* Neon glow text */
+.neon-green {
+  color: #00ff41;
+  text-shadow: 0 0 10px #00ff41;
+}
+
+/* Header/title terminal style */
+.terminal-header {
+  font-family: "JetBrains Mono", monospace;
+  color: #00ff41;
+  border-bottom: 2px solid #003311;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.terminal-header::before {
+  content: "> ";
+  opacity: 0.5;
+}
+
+/* Code block enhancements */
+.highlight {
+  background: #0d1a0d !important;
+  border: 1px solid #003311 !important;
+  border-radius: 4px !important;
+}
+
+.highlight pre {
+  background: none !important;
+  border: none !important;
+}
+
+.highlight .linenos {
+  background: #0a0f0a !important;
+  border-right: 1px solid #003311 !important;
+  color: #00661a !important;
+}
+
+/* Button terminal style */
+.btn {
+  font-family: "JetBrains Mono", monospace !important;
+  border: 1px solid #003311 !important;
+  background: #0d1a0d !important;
+  color: #00ff41 !important;
+  transition: all 0.2s ease !important;
+}
+
+.btn:hover {
+  background: #003311 !important;
+  color: #00ff41 !important;
+}
+
+.btn--primary {
+  background: #003311 !important;
+  border-color: #00ff41 !important;
+}
+
+.btn--primary:hover {
+  background: #00ff41 !important;
+  color: #0a0f0a !important;
+}
+
+/* Form inputs terminal style */
+input[type="text"], input[type="email"], input[type="search"], textarea {
+  font-family: "JetBrains Mono", monospace !important;
+  background: #0d1a0d !important;
+  border: 1px solid #003311 !important;
+  color: #00ff41 !important;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="search"]:focus, textarea:focus {
+  border-color: #00ff41 !important;
+  outline: none !important;
+}
+
+/* Table terminal style */
+table { border-color: #003311 !important; }
+th { background: #0d1a0d !important; color: #00ff41 !important; border-color: #003311 !important; }
+td { border-color: #003311 !important; }
+tr:nth-child(even) td { background: #0d1a0d !important; }
+
+/* Blockquote terminal style */
+blockquote {
+  border-left: 3px solid #00ff41 !important;
+  color: #00cc33 !important;
+  background: #0d1a0d !important;
+  font-family: "JetBrains Mono", monospace !important;
+  font-style: normal !important;
+}
+
+/* Footer terminal style */
+.page__footer { border-top: 1px solid #003311 !important; }
+
+/* Sidebar terminal style */
+.sidebar__title {
+  font-family: "JetBrains Mono", monospace !important;
+  color: #00ff41 !important;
+  border-bottom: 1px solid #003311 !important;
+  padding-bottom: 0.5rem;
+}
+
+/* Pagination terminal style */
+.pagination__item {
+  font-family: "JetBrains Mono", monospace !important;
+  border: 1px solid #003311 !important;
+  color: #00ff41 !important;
+}
+
+.pagination__item--current {
+  background: #003311 !important;
+  color: #00ff41 !important;
+}
+
+/* Notice/admonition terminal style */
+.notice {
+  font-family: "JetBrains Mono", monospace !important;
+  border-left: 4px solid #00ff41 !important;
+  background: #0d1a0d !important;
+  border-color: #003311 !important;
+}
+
+.notice--primary { border-left-color: #00ff41 !important; }
+.notice--info { border-left-color: #00ffff !important; }
+.notice--warning { border-left-color: #ffff00 !important; }
+.notice--danger { border-left-color: #ff4444 !important; }
+.notice--success { border-left-color: #00ff41 !important; }
