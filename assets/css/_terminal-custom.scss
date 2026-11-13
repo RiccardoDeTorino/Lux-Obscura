@@ -1,40 +1,19 @@
 /* ==========================================================================
-   Terminal / Matrix custom styles (GitHub Pages compatible)
+   Terminal / Matrix custom styles (GitHub Pages compatible - minimal)
    ========================================================================== */
 
-/* Force monospace font everywhere - applied after theme compiles */
-html,
-body,
-h1, h2, h3, h4, h5, h6,
-p, li, span, div, a,
-.nav__list,
-.btn,
-input, textarea, select,
-.sidebar__title,
-.taxonomy__term,
-.pagination__item,
-.notice,
-blockquote,
-table,
-code, pre, kbd, samp,
-.highlight,
-.author__urls.social-icons i,
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa {
-  font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+/* Force monospace font everywhere */
+html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input, textarea, select, .sidebar__title, .taxonomy__term, .pagination__item, .notice, blockquote, table, code, pre, kbd, samp, .highlight {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /* Social icons inherit text color */
-.author__urls.social-icons i,
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa {
+.author__urls.social-icons i, .author__urls.social-icons .svg-inline--fa, .page__footer-follow .social-icons i, .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
 
 .ais-search-box .ais-search-box--input {
-  background-color: $form-background-color;
+  background-color: #0d1a0d;
 }
 
 /* Selection color */
@@ -116,11 +95,7 @@ code, pre, kbd, samp,
 /* Neon glow text */
 .neon-green {
   color: #00ff41;
-  text-shadow:
-    0 0 5px #00ff41,
-    0 0 10px #00ff41,
-    0 0 20px #00ff41,
-    0 0 40px #00ff41;
+  text-shadow: 0 0 5px #00ff41, 0 0 10px #00ff41, 0 0 20px #00ff41, 0 0 40px #00ff41;
 }
 
 /* Header/title terminal style */
@@ -137,7 +112,7 @@ code, pre, kbd, samp,
   opacity: 0.5;
 }
 
-/* Code block enhancements for terminal look */
+/* Code block enhancements */
 .highlight {
   background: #0d1a0d;
   border: 1px solid #003311;
@@ -153,11 +128,6 @@ code, pre, kbd, samp,
   background: #0a0f0a;
   border-right: 1px solid #003311;
   color: #00661a;
-}
-
-/* Navbar terminal style */
-.nav__list {
-  font-family: "JetBrains Mono", monospace;
 }
 
 /* Button terminal style */
@@ -186,43 +156,24 @@ code, pre, kbd, samp,
 }
 
 /* Form inputs terminal style */
-input[type="text"],
-input[type="email"],
-input[type="search"],
-textarea {
+input[type="text"], input[type="email"], input[type="search"], textarea {
   font-family: "JetBrains Mono", monospace;
   background: #0d1a0d;
   border: 1px solid #003311;
   color: #00ff41;
 }
 
-input[type="text"]:focus,
-input[type="email"]:focus,
-input[type="search"]:focus,
-textarea:focus {
+input[type="text"]:focus, input[type="email"]:focus, input[type="search"]:focus, textarea:focus {
   border-color: #00ff41;
   box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
   outline: none;
 }
 
 /* Table terminal style */
-table {
-  border-color: #003311;
-}
-
-th {
-  background: #0d1a0d;
-  color: #00ff41;
-  border-color: #003311;
-}
-
-td {
-  border-color: #003311;
-}
-
-tr:nth-child(even) td {
-  background: #0d1a0d;
-}
+table { border-color: #003311; }
+th { background: #0d1a0d; color: #00ff41; border-color: #003311; }
+td { border-color: #003311; }
+tr:nth-child(even) td { background: #0d1a0d; }
 
 /* Blockquote terminal style */
 blockquote {
@@ -234,9 +185,7 @@ blockquote {
 }
 
 /* Footer terminal style */
-.page__footer {
-  border-top: 1px solid #003311;
-}
+.page__footer { border-top: 1px solid #003311; }
 
 /* Sidebar terminal style */
 .sidebar__title {
@@ -244,12 +193,6 @@ blockquote {
   color: #00ff41;
   border-bottom: 1px solid #003311;
   padding-bottom: 0.5rem;
-}
-
-/* Archive/taxonomy terminal style */
-.taxonomy__term {
-  font-family: "JetBrains Mono", monospace;
-  color: #00ff41;
 }
 
 /* Pagination terminal style */
@@ -272,22 +215,8 @@ blockquote {
   border-color: #003311;
 }
 
-.notice--primary {
-  border-left-color: #00ff41;
-}
-
-.notice--info {
-  border-left-color: #00ffff;
-}
-
-.notice--warning {
-  border-left-color: #ffff00;
-}
-
-.notice--danger {
-  border-left-color: #ff4444;
-}
-
-.notice--success {
-  border-left-color: #00ff41;
-}
+.notice--primary { border-left-color: #00ff41; }
+.notice--info { border-left-color: #00ffff; }
+.notice--warning { border-left-color: #ffff00; }
+.notice--danger { border-left-color: #ff4444; }
+.notice--success { border-left-color: #00ff41; }
