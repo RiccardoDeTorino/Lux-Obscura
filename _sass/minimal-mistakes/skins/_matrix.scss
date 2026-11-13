@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Matrix / Terminal skin - Variable overrides only
+   Matrix / Terminal skin - Color variables only
    ========================================================================== */
 
 /* Colors */
@@ -40,8 +40,3 @@ $base0c: #00ffff !default;
 $base0d: #4488ff !default;
 $base0e: #cc44ff !default;
 $base0f: #ff44aa !default;
-
-/* Typography - Force monospace everywhere */
-$global-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
-$header-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
-$monospace: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;

@@ -1,12 +1,35 @@
 /* ==========================================================================
-   Terminal / Matrix custom styles
+   Terminal / Matrix custom styles (GitHub Pages compatible)
    ========================================================================== */
+
+/* Force monospace font everywhere - applied after theme compiles */
+html,
+body,
+h1, h2, h3, h4, h5, h6,
+p, li, span, div, a,
+.nav__list,
+.btn,
+input, textarea, select,
+.sidebar__title,
+.taxonomy__term,
+.pagination__item,
+.notice,
+blockquote,
+table,
+code, pre, kbd, samp,
+.highlight,
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+}
 
 /* Social icons inherit text color */
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
 .page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
+.page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
 
@@ -18,22 +41,6 @@
 ::selection {
   background-color: #003311;
   color: #00ff41;
-}
-
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-::-webkit-scrollbar-track {
-  background: #0a0f0a;
-}
-::-webkit-scrollbar-thumb {
-  background: #003311;
-  border-radius: 4px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #004411;
 }
 
 /* Terminal prompt style */
@@ -106,91 +113,10 @@
   margin-left: 2px;
 }
 
-/* Matrix rain canvas (optional background effect) */
-.matrix-bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: -1;
-  opacity: 0.03;
-}
-
-/* Scanline overlay */
-.scanlines::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: repeating-linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.1),
-    rgba(0, 0, 0, 0.1) 1px,
-    transparent 1px,
-    transparent 3px
-  );
-  pointer-events: none;
-  z-index: 9999;
-  opacity: 0.1;
-}
-
-/* Glitch text effect */
-.glitch {
-  position: relative;
-  color: #00ff41;
-  font-family: "JetBrains Mono", monospace;
-}
-
-.glitch::before,
-.glitch::after {
-  content: attr(data-text);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.glitch::before {
-  animation: glitch-1 2s infinite linear alternate-reverse;
-  clip-path: polygon(0 0, 100% 0, 100% 35%, 0 35%);
-  -webkit-clip-path: polygon(0 0, 100% 0, 100% 35%, 0 35%);
-  color: #00ffff;
-}
-
-.glitch::after {
-  animation: glitch-2 3s infinite linear alternate-reverse;
-  clip-path: polygon(0 65%, 100% 65%, 100% 100%, 0 100%);
-  -webkit-clip-path: polygon(0 65%, 100% 65%, 100% 100%, 0 100%);
-  color: #ff00ff;
-}
-
-@keyframes glitch-1 {
-  0% { transform: translate(0); }
-  20% { transform: translate(-2px, 2px); }
-  40% { transform: translate(-2px, -2px); }
-  60% { transform: translate(2px, 2px); }
-  80% { transform: translate(2px, -2px); }
-  100% { transform: translate(0); }
-}
-
-@keyframes glitch-2 {
-  0% { transform: translate(0); }
-  20% { transform: translate(2px, -2px); }
-  40% { transform: translate(2px, 2px); }
-  60% { transform: translate(-2px, -2px); }
-  80% { transform: translate(-2px, 2px); }
-  100% { transform: translate(0); }
-}
-
 /* Neon glow text */
 .neon-green {
   color: #00ff41;
-  text-shadow: 
+  text-shadow:
     0 0 5px #00ff41,
     0 0 10px #00ff41,
     0 0 20px #00ff41,
@@ -213,50 +139,50 @@
 
 /* Code block enhancements for terminal look */
 .highlight {
-  background: #0d1a0d !important;
-  border: 1px solid #003311 !important;
-  border-radius: 4px !important;
+  background: #0d1a0d;
+  border: 1px solid #003311;
+  border-radius: 4px;
 }
 
 .highlight pre {
-  background: none !important;
-  border: none !important;
+  background: none;
+  border: none;
 }
 
 .highlight .linenos {
-  background: #0a0f0a !important;
-  border-right: 1px solid #003311 !important;
-  color: #00661a !important;
+  background: #0a0f0a;
+  border-right: 1px solid #003311;
+  color: #00661a;
 }
 
 /* Navbar terminal style */
 .nav__list {
-  font-family: "JetBrains Mono", monospace !important;
+  font-family: "JetBrains Mono", monospace;
 }
 
 /* Button terminal style */
 .btn {
-  font-family: "JetBrains Mono", monospace !important;
-  border: 1px solid #003311 !important;
-  background: #0d1a0d !important;
-  color: #00ff41 !important;
-  transition: all 0.2s ease !important;
+  font-family: "JetBrains Mono", monospace;
+  border: 1px solid #003311;
+  background: #0d1a0d;
+  color: #00ff41;
+  transition: all 0.2s ease;
 }
 
 .btn:hover {
-  background: #003311 !important;
-  color: #00ff41 !important;
-  box-shadow: 0 0 10px rgba(0, 255, 65, 0.3) !important;
+  background: #003311;
+  color: #00ff41;
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.3);
 }
 
 .btn--primary {
-  background: #003311 !important;
-  border-color: #00ff41 !important;
+  background: #003311;
+  border-color: #00ff41;
 }
 
 .btn--primary:hover {
-  background: #00ff41 !important;
-  color: #0a0f0a !important;
+  background: #00ff41;
+  color: #0a0f0a;
 }
 
 /* Form inputs terminal style */
@@ -264,104 +190,104 @@ input[type="text"],
 input[type="email"],
 input[type="search"],
 textarea {
-  font-family: "JetBrains Mono", monospace !important;
-  background: #0d1a0d !important;
-  border: 1px solid #003311 !important;
-  color: #00ff41 !important;
+  font-family: "JetBrains Mono", monospace;
+  background: #0d1a0d;
+  border: 1px solid #003311;
+  color: #00ff41;
 }
 
 input[type="text"]:focus,
 input[type="email"]:focus,
 input[type="search"]:focus,
 textarea:focus {
-  border-color: #00ff41 !important;
-  box-shadow: 0 0 10px rgba(0, 255, 65, 0.2) !important;
-  outline: none !important;
+  border-color: #00ff41;
+  box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
+  outline: none;
 }
 
 /* Table terminal style */
 table {
-  border-color: #003311 !important;
+  border-color: #003311;
 }
 
 th {
-  background: #0d1a0d !important;
-  color: #00ff41 !important;
-  border-color: #003311 !important;
+  background: #0d1a0d;
+  color: #00ff41;
+  border-color: #003311;
 }
 
 td {
-  border-color: #003311 !important;
+  border-color: #003311;
 }
 
 tr:nth-child(even) td {
-  background: #0d1a0d !important;
+  background: #0d1a0d;
 }
 
 /* Blockquote terminal style */
 blockquote {
-  border-left: 3px solid #00ff41 !important;
-  color: #00cc33 !important;
-  background: #0d1a0d !important;
-  font-family: "JetBrains Mono", monospace !important;
-  font-style: normal !important;
+  border-left: 3px solid #00ff41;
+  color: #00cc33;
+  background: #0d1a0d;
+  font-family: "JetBrains Mono", monospace;
+  font-style: normal;
 }
 
 /* Footer terminal style */
 .page__footer {
-  border-top: 1px solid #003311 !important;
+  border-top: 1px solid #003311;
 }
 
 /* Sidebar terminal style */
 .sidebar__title {
-  font-family: "JetBrains Mono", monospace !important;
-  color: #00ff41 !important;
-  border-bottom: 1px solid #003311 !important;
+  font-family: "JetBrains Mono", monospace;
+  color: #00ff41;
+  border-bottom: 1px solid #003311;
   padding-bottom: 0.5rem;
 }
 
 /* Archive/taxonomy terminal style */
 .taxonomy__term {
-  font-family: "JetBrains Mono", monospace !important;
-  color: #00ff41 !important;
+  font-family: "JetBrains Mono", monospace;
+  color: #00ff41;
 }
 
 /* Pagination terminal style */
 .pagination__item {
-  font-family: "JetBrains Mono", monospace !important;
-  border: 1px solid #003311 !important;
-  color: #00ff41 !important;
+  font-family: "JetBrains Mono", monospace;
+  border: 1px solid #003311;
+  color: #00ff41;
 }
 
 .pagination__item--current {
-  background: #003311 !important;
-  color: #00ff41 !important;
+  background: #003311;
+  color: #00ff41;
 }
 
 /* Notice/admonition terminal style */
 .notice {
-  font-family: "JetBrains Mono", monospace !important;
-  border-left: 4px solid #00ff41 !important;
-  background: #0d1a0d !important;
-  border-color: #003311 !important;
+  font-family: "JetBrains Mono", monospace;
+  border-left: 4px solid #00ff41;
+  background: #0d1a0d;
+  border-color: #003311;
 }
 
 .notice--primary {
-  border-left-color: #00ff41 !important;
+  border-left-color: #00ff41;
 }
 
 .notice--info {
-  border-left-color: #00ffff !important;
+  border-left-color: #00ffff;
 }
 
 .notice--warning {
-  border-left-color: #ffff00 !important;
+  border-left-color: #ffff00;
 }
 
 .notice--danger {
-  border-left-color: #ff4444 !important;
+  border-left-color: #ff4444;
 }
 
 .notice--success {
-  border-left-color: #00ff41 !important;
+  border-left-color: #00ff41;
 }
