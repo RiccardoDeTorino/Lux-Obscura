@@ -79,19 +79,6 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
   color: #00aa33;
 }
 
-/* Blinking cursor animation */
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-
-.cursor-blink::after {
-  content: "_";
-  animation: blink 1s infinite;
-  color: #00ff41;
-  margin-left: 2px;
-}
-
 /* Neon glow text */
 .neon-green {
   color: #00ff41;
