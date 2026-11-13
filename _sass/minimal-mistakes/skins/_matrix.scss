@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Matrix / Terminal skin
+   Matrix / Terminal skin - Variable overrides only
    ========================================================================== */
 
 /* Colors */
@@ -45,37 +45,3 @@ $base0f: #ff44aa !default;
 $global-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
 $header-font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
 $monospace: "JetBrains Mono", "Fira Code", "SF Mono", "Monaco", "Consolas", "Liberation Mono", "Courier New", monospace !default;
-
-/* Social icons inherit text color */
-.author__urls.social-icons i,
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
-  color: inherit;
-}
-
-.ais-search-box .ais-search-box--input {
-  background-color: $form-background-color;
-}
-
-/* Selection color */
-::selection {
-  background-color: #003311;
-  color: #00ff41;
-}
-
-/* Scrollbar styling */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-::-webkit-scrollbar-track {
-  background: #0a0f0a;
-}
-::-webkit-scrollbar-thumb {
-  background: #003311;
-  border-radius: 4px;
-}
-::-webkit-scrollbar-thumb:hover {
-  background: #004411;
-}
