@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Terminal / Matrix custom styles (GitHub Pages compatible - minimal)
+   Terminal / Matrix custom styles (GitHub Pages compatible - ultra minimal)
    ========================================================================== */
 
 /* Force monospace font everywhere */
@@ -79,10 +79,10 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
   color: #00aa33;
 }
 
-/* Neon glow text */
+/* Neon glow text - single shadow only */
 .neon-green {
   color: #00ff41;
-  text-shadow: 0 0 5px #00ff41, 0 0 10px #00ff41, 0 0 20px #00ff41, 0 0 40px #00ff41;
+  text-shadow: 0 0 10px #00ff41;
 }
 
 /* Header/title terminal style */
@@ -129,7 +129,6 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
 .btn:hover {
   background: #003311;
   color: #00ff41;
-  box-shadow: 0 0 10px rgba(0, 255, 65, 0.3);
 }
 
 .btn--primary {
@@ -152,7 +151,6 @@ input[type="text"], input[type="email"], input[type="search"], textarea {
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="search"]:focus, textarea:focus {
   border-color: #00ff41;
-  box-shadow: 0 0 10px rgba(0, 255, 65, 0.2);
   outline: none;
 }
 
