@@ -123,13 +123,13 @@ author:
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
+      icon: "fa-regular fa-envelope"
       url: "mailto:riccardodetorino@tutanota.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "My Links"
+      icon: "fa-solid fa-link"
+      url: "https://riccardodetorino.github.io/linkyee/"
     - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
+      icon: "fa-brands fa-twitter"
       url: "https://x.com/DeTorino33"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
