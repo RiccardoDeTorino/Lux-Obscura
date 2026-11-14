@@ -1,11 +1,11 @@
-![Image alt](/path/to/image.jpg)
-
 ---
 title: "My First Exposé"
 date: 2026-11-14
 categories: [exposes]
 tags: [investigation, daily]
 ---
+
+![Image alt](/path/to/image.jpg)
 
 # The Hidden Cost of Free VPNs
 
