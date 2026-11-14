@@ -7,6 +7,45 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
   font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
 }
 
+/* Post content text - white for readability */
+.page__content,
+.e-content,
+.page__content p,
+.page__content li,
+.page__content blockquote,
+.page__content td,
+.page__content th {
+  color: #e0e0e0 !important;
+}
+
+/* Keep headings green */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #00ff41 !important;
+}
+
+/* Keep code green */
+.page__content code,
+.page__content pre,
+.page__content kbd,
+.page__content samp {
+  color: #00ff41 !important;
+}
+
+/* Links stay green */
+.page__content a {
+  color: #00ff41 !important;
+}
+
+.page__content a:hover {
+  color: #00cc33 !important;
+}
+
 /* Social icons inherit text color */
 .author__urls.social-icons i, .author__urls.social-icons .svg-inline--fa, .page__footer-follow .social-icons i, .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
