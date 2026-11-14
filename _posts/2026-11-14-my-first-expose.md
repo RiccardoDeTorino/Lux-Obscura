@@ -1,4 +1,5 @@
 ![Image alt](/path/to/image.jpg)
+
 ---
 title: "My First Exposé"
 date: 2026-11-14
