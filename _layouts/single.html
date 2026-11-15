@@ -36,6 +36,9 @@ layout: default
             <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>
           {%- endif %}
+          {% if page.tagline %}
+            <p class="page__subtitle" style="color: #00cc33; font-size: 1.1em; margin-top: 0.5em; margin-bottom: 1em;">{{ page.tagline | markdownify }}</p>
+          {% endif %}
           {% include page__meta.html locale=locale %}
         </header>
       {% endunless %}
