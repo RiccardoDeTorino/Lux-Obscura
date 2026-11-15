@@ -11,8 +11,19 @@
   .page__content section,
   article.page,
   .sidebar,
-  .page__sidebar {
+  .page__sidebar,
+  .page__hero,
+  .page__hero--overlay,
+  .wrapper,
+  .page__footer {
     background-color: #0a0f0a !important;
+  }
+
+  /* Ensure no transparent backgrounds */
+  .page__hero,
+  .page__hero--overlay {
+    background-color: #0a0f0a !important;
+    background-image: none !important;
   }
 
 /* Force monospace font everywhere */
