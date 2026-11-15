@@ -38,6 +38,7 @@
   font-weight: normal !important;
   color: #00661a !important;
   text-shadow: none !important;
+  font-size: 0.75em !important;
 }
 
 .page__taxonomy-item {
@@ -91,6 +92,12 @@
 .entries-list .page__meta i,
 .list__item .page__meta i {
   font-size: 0.85em !important;
+}
+
+/* Ensure meta labels (Updated, date) same size as text */
+.page__meta-date i,
+.page__meta-readtime i {
+  font-size: 0.75em !important;
 }
 
 /* Override archive list meta size to match single page */
