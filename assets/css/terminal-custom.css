@@ -44,8 +44,9 @@
   font-size: 0.8em !important;
 }
 
+/* Remove hover glow on tags */
 .page__taxonomy-item:hover {
-  color: #00ff41 !important;
+  color: #00cc33 !important;
 }
 
 .sep {
@@ -89,6 +90,12 @@
 .entries-list .page__meta i,
 .list__item .page__meta i {
   font-size: 0.85em !important;
+}
+
+/* Override archive list meta size to match single page */
+.list__item .page__meta,
+.archive__item .page__meta {
+  font-size: 0.75em !important;
 }
 
 /* Force monospace font everywhere */
