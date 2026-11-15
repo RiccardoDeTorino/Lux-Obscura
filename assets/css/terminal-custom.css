@@ -45,9 +45,9 @@
   font-size: 0.8em !important;
 }
 
-/* Remove hover glow on tags */
+/* Hover glow on tag links */
 .page__taxonomy-item:hover {
-  color: #00cc33 !important;
+  color: #00ff41 !important;
 }
 
 .sep {
