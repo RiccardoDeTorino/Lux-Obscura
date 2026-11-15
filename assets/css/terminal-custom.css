@@ -26,6 +26,30 @@
     background-image: none !important;
   }
 
+/* Make tags/categories smaller */
+.page__taxonomy {
+  font-size: 0.85em !important;
+  margin-top: 0.25em !important;
+}
+
+.page__taxonomy strong {
+  font-weight: normal !important;
+  color: #00ff41 !important;
+}
+
+.page__taxonomy-item {
+  color: #00cc33 !important;
+  font-size: 0.9em !important;
+}
+
+.page__taxonomy-item:hover {
+  color: #00ff41 !important;
+}
+
+.sep {
+  color: #00661a !important;
+}
+
 /* Force monospace font everywhere */
 html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input, textarea, select, .sidebar__title, .taxonomy__term, .pagination__item, .notice, blockquote, table, code, pre, kbd, samp, .highlight {
   font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
