@@ -28,8 +28,8 @@
 
 /* Make tags/categories smaller */
 .page__taxonomy {
-  font-size: 0.85em !important;
-  margin-top: 0.25em !important;
+  font-size: 0.75em !important;
+  margin-top: 0.15em !important;
 }
 
 .page__taxonomy strong {
@@ -39,7 +39,7 @@
 
 .page__taxonomy-item {
   color: #00cc33 !important;
-  font-size: 0.9em !important;
+  font-size: 0.8em !important;
 }
 
 .page__taxonomy-item:hover {
@@ -48,6 +48,16 @@
 
 .sep {
   color: #00661a !important;
+}
+
+/* Bring meta (read time/date) closer to tagline */
+.page__meta {
+  margin-top: 0.25em !important;
+  padding-top: 0 !important;
+}
+
+.page__meta > p {
+  margin-top: 0 !important;
 }
 
 /* Force monospace font everywhere */
