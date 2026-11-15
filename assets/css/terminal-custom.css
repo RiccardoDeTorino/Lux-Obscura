@@ -60,6 +60,20 @@
   margin-top: 0 !important;
 }
 
+/* Make read time and date smaller */
+.page__meta-date,
+.page__meta-readtime {
+  font-size: 0.75em !important;
+}
+
+.page__meta-sep {
+  font-size: 0.75em !important;
+}
+
+.page__meta i {
+  font-size: 0.85em !important;
+}
+
 /* Force monospace font everywhere */
 html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input, textarea, select, .sidebar__title, .taxonomy__term, .pagination__item, .notice, blockquote, table, code, pre, kbd, samp, .highlight {
   font-family: "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
