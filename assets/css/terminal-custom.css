@@ -1,8 +1,3 @@
-/* Body text size - 14px */
-html {
-  font-size: 14px !important;
-}
-
 /* ==========================================================================
    Terminal / Matrix custom styles (plain CSS for GitHub Pages)
    ========================================================================== */
@@ -120,6 +115,10 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
 }
 
 /* Post content text - white for readability */
+.layout--single .page__content {
+  font-size: 14px !important;
+}
+
 .page__content,
 .e-content,
 .page__content p,
