@@ -52,7 +52,7 @@
   color: #00661a !important;
 }
 
-/* Bring meta (read time/date) closer to tagline */
+/* Bring meta (read time/date) closer to tagline - single page only */
 .page__meta {
   margin-top: 0.25em !important;
   padding-top: 0 !important;
@@ -62,17 +62,21 @@
   margin-top: 0 !important;
 }
 
-/* Make read time and date smaller */
+/* Make read time and date smaller - applies to both home and single pages */
 .page__meta-date,
-.page__meta-readtime {
+.page__meta-readtime,
+.archive__item .page__meta-date,
+.archive__item .page__meta-readtime {
   font-size: 0.75em !important;
 }
 
-.page__meta-sep {
+.page__meta-sep,
+.archive__item .page__meta-sep {
   font-size: 0.75em !important;
 }
 
-.page__meta i {
+.page__meta i,
+.archive__item .page__meta i {
   font-size: 0.85em !important;
 }
 
