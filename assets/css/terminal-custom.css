@@ -94,10 +94,13 @@
   font-size: 0.85em !important;
 }
 
-/* Ensure meta labels (Updated, date) same size as text */
-.page__meta-date i,
-.page__meta-readtime i {
-  font-size: 0.75em !important;
+/* Updated label and date slightly smaller than read time */
+.page__meta-date {
+  font-size: 0.7em !important;
+}
+
+.page__meta-date i {
+  font-size: 0.7em !important;
 }
 
 /* Override archive list meta size to match single page (0.75em) */
