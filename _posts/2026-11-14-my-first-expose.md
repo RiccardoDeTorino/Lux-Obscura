@@ -7,7 +7,7 @@ tags: [investigation, daily]
 
 ![Image alt](/path/to/image.jpg)
 
-# The Hidden Cost of Free VPNs
+The Hidden Cost of Free VPNs
 
 Free VPNs claim to protect your privacy. But our investigation found they leak DNS, inject trackers, and sell your bandwidth.
 
