@@ -66,17 +66,28 @@
 .page__meta-date,
 .page__meta-readtime,
 .archive__item .page__meta-date,
-.archive__item .page__meta-readtime {
+.archive__item .page__meta-readtime,
+.entries-list .page__meta-date,
+.entries-list .page__meta-readtime,
+.list__item .page__meta-date,
+.list__item .page__meta-readtime,
+[class*="page__meta-date"],
+[class*="page__meta-readtime"] {
   font-size: 0.75em !important;
 }
 
 .page__meta-sep,
-.archive__item .page__meta-sep {
+.archive__item .page__meta-sep,
+.entries-list .page__meta-sep,
+.list__item .page__meta-sep,
+[class*="page__meta-sep"] {
   font-size: 0.75em !important;
 }
 
 .page__meta i,
-.archive__item .page__meta i {
+.archive__item .page__meta i,
+.entries-list .page__meta i,
+.list__item .page__meta i {
   font-size: 0.85em !important;
 }
 
