@@ -1,7 +1,7 @@
 ---
 title: "My First Exposé"
+tagline: "Traffic analysis reveals DNS leaks, trackers, and bandwidth resale"
 date: 2026-11-14
-categories: [exposes]
 tags: [investigation, daily]
 ---
 
