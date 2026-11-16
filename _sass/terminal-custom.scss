@@ -209,6 +209,20 @@ article.page,
   font-size: 1.5em !important;
 }
 
+/* Header image beneath tagline */
+.page__header-image {
+  margin: 1.5em 0 !important;
+  text-align: center !important;
+}
+
+.page__header-image img {
+  max-width: 100% !important;
+  height: auto !important;
+  border-radius: 4px !important;
+  border: 1px solid #003311 !important;
+  box-shadow: 0 0 15px rgba(0, 255, 65, 0.1) !important;
+}
+
 /* Matrix theme share buttons */
 .btn--matrix {
   font-family: "JetBrains Mono", "Fira Code", "SF Mono", monospace !important;

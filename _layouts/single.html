@@ -39,6 +39,11 @@ layout: default
           {% if page.tagline %}
             <div class="page__subtitle">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</div>
           {% endif %}
+          {% if page.header_image %}
+            <div class="page__header-image">
+              <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" />
+            </div>
+          {% endif %}
           {% include page__meta.html locale=locale %}
         </header>
       {% endunless %}
