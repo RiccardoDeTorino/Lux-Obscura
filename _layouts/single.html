@@ -37,7 +37,7 @@ layout: default
           </h1>
           {%- endif %}
           {% if page.tagline %}
-            <p class="page__subtitle">{{ page.tagline | markdownify }}</p>
+            <div class="page__subtitle">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</div>
           {% endif %}
           {% include page__meta.html locale=locale %}
         </header>
