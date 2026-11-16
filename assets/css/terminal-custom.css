@@ -121,10 +121,12 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
 
 .layout--single .page__title {
   font-size: 21px !important;
+  color: #d0ffe0 !important;  /* white-greenish */
 }
 
 .layout--single .page__subtitle {
   font-size: 16px !important;
+  color: #b8ffc8 !important;  /* slightly dimmer white-greenish */
 }
 
 .page__content,
