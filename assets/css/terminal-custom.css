@@ -119,6 +119,10 @@ html, body, h1, h2, h3, h4, h5, h6, p, li, span, div, a, .nav__list, .btn, input
   font-size: 14px !important;
 }
 
+.layout--single .page__title {
+  font-size: 20px !important;
+}
+
 .page__content,
 .e-content,
 .page__content p,
