@@ -343,15 +343,15 @@ article.page,
   border-radius: $border-radius;
   
   @include breakpoint($small) {
-    max-height: 300px;
+    max-height: 400px;
   }
   
   @include breakpoint($medium) {
-    max-height: 250px;
+    max-height: 350px;
   }
   
   @include breakpoint($large) {
-    max-height: 350px;
+    max-height: 500px;
   }
   
   // Make image fill the container
