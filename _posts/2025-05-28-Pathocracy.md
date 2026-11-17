@@ -6,6 +6,7 @@ tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump,
 
 header:
   image: /assets/images/Pathocracy.jpg
+  teaser: /assets/images/Pathocracy.jpg
 ---
 
 Andrzej Lobaczewski lived through Nazi occupation, then Stalinist rule. Both left a mark on him as a psychologist. He kept noticing something: people with psychopathic traits show up in political leadership far more often than chance would predict. Entire governments end up run by them. That observation sent him digging into the link between psychopathology, psychopathy included, and political power. He gave the pattern a name: pathocracy. His research spelled out what happens when personality disorders go unchecked at the top.
