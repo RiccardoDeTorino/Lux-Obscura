@@ -341,6 +341,18 @@ article.page,
 .grid__item .archive__item-teaser {
   overflow: hidden;
   border-radius: $border-radius;
+  
+  @include breakpoint($small) {
+    max-height: 300px;
+  }
+  
+  @include breakpoint($medium) {
+    max-height: 250px;
+  }
+  
+  @include breakpoint($large) {
+    max-height: 350px;
+  }
 }
 
 // Optional: Hide duplicate title below image in grid view
