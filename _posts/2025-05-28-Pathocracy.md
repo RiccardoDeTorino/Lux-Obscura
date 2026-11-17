@@ -1,0 +1,70 @@
+---
+title: "Pathocracy, the narcissistic power."
+tagline: "The 1%…"
+date: 2025-05-28
+tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump, Musk, Alex Karp, Biden, Benjamin Netanyahu, " Bibi " , authoritarian, corruption, corporate power, Democracy ]
+---
+
+Andrzej Lobaczewski lived through Nazi occupation, then Stalinist rule. Both left a mark on him as a psychologist. He kept noticing something: people with psychopathic traits show up in political leadership far more often than chance would predict. Entire governments end up run by them. That observation sent him digging into the link between psychopathology, psychopathy included, and political power. He gave the pattern a name: pathocracy. His research spelled out what happens when personality disorders go unchecked at the top.
+
+Practicing psychology under communist rule carried real risk. Anyone who refused to bend their expertise toward state propaganda paid for it. Lobaczewski paid more than most. His focus on how political power gets abused made him a target, and the authorities came after him hard.
+
+He put a clear definition on pathocracy: a small group of psychologically abnormal people take control of a population made up mostly of normal people. Studying this from inside a pathocracy was dangerous work, and it cost him. Polish authorities arrested him. They tortured him. His major work, Political Ponerology, didn’t see print until he’d escaped to the United States in the 1980s.
+
+Lobaczewski argued pathocracy starts small: one psychologically disordered person climbs into a position of power. His brutality repels some in the ruling class. But something about his broken personality also pulls in psychologically healthy people, who read his impulsiveness as decisiveness and his recklessness as courage.
+
+Personality disorders show up as fixed patterns, ways of thinking, feeling, and acting that don’t shift much over a lifetime. Narcissistic personality disorder and psychopathy both fall in this category, and both show up in a slice of the population. Control and influence sit at the center of each. People with NPD crave admiration and believe they deserve more than the people around them, and that belief lets them exploit others without a second thought. Psychopaths share the grandiosity and the empathy gap, but they don’t need the outside validation NPD demands. That missing need for validation strips away a constraint, and their behavior gets less restrained because of it.
+
+Once a pathocracy takes hold, people with psychopathic traits flood in fast, chasing the power and influence on offer. Meanwhile, the people with a real moral compass get pushed out. Some quit on their own. Others get purged. Government after government fills up with people who can’t feel empathy or guilt, until a small disordered minority runs the whole apparatus and the psychologically healthy majority ends up under their thumb.
+
+People with real empathy and compassion tend to want no part of power. They’d rather connect with people directly than sit above them. High-status positions isolate you, and that isolation draws the unempathetic in while pushing empathetic people away, sometimes to the point of turning down the job outright. That leaves an opening. Either psychologically disturbed people fill it, or at minimum, people driven by raw ambition and a willingness to do whatever it takes.
+
+Dysfunction at the top spreads through a whole society. Psychopathic leadership can push psychopathic behavior onto people who’d never have shown it otherwise. Pathocracies pull this off with a simple story: national glory waits on the other side, and getting there means crushing or wiping out whichever enemy the regime has picked.
+
+Once pathocrats settle into power, they focus on holding onto it and expanding it. The people they govern barely factor in. None of this lasts. Brutality and a hollowed-out ethics can’t coexist forever with a population that still runs on empathy and conscience, and the whole structure collapses under that mismatch. Lobaczewski watched two versions of this play out firsthand: Nazi Germany, and communist Poland.
+
+Governments use propaganda for more than stirring up hatred of enemies. They build near-worship around their own leadership too. That narrative builds a shared identity, and a shared identity buys loyalty and sacrifice. A promised utopia makes today’s suffering feel small. Mass mobilization on this scale can push individuals toward real barbarity: torture, extermination campaigns.
+
+Picture psychopathy as a spectrum, not a separate species of person. That framing fits the evidence better. On one end sit people free of ruthlessness and cruelty, free of grandiosity and entitlement too. These are the ones who lead with empathy and back it up with real generosity toward others. On the other end sit people defined by ruthlessness and self-centeredness, with a hole where conscience and empathy belong. Drop the diagnostic labels and you’re describing the same thing: people running at extreme levels of ruthlessness and emotional disconnection.
+
+These traits don’t have to be innate. Societal norms and structures can switch them on and amplify them. Stack a system with steep hierarchy and real power imbalances, and some people will start acting superior and exploitative almost as a matter of course. That tracks with a broader theory: leadership roles themselves can grow narcissistic tendencies in people who didn’t start out that way.
+
+Leadership breeds hubris, and there’s an irony in that. A group lifts someone up for what they built together. Then that person starts taking the credit personally. Narcissistic traits grow, and the group they’re supposed to serve ends up worse off for it.
+
+The data backs up Lobaczewski’s link between psychopathology and political power. People with psychopathic and narcissistic traits, or just people running high on ruthlessness and low on empathy, gravitate toward authority. Narcissists get pulled toward influential roles in the first place, and those roles hand them fresh chances at self-aggrandizement, which then feeds the narcissism further.
+
+Roughly 1% of the general population meets the bar for psychopathy. Walk into a corporate office and that number climbs. Studies find psychopathic traits show up far more often among supervisors and senior managers than you’d expect from the base rate. People with psychopathic tendencies also gravitate toward business and commerce degree programs before they ever reach the corner office.
+
+Psychopathy, narcissism, and Machiavellianism together make up the Dark Triad, and it’s become a real focus of study. Each trait stands on its own, but they tend to travel together in the same people, which is why researchers now study them as a set instead of three separate lines of inquiry. Dark Triad traits track with a hunger for control and influence. People carrying these traits show up more often in executive leadership, C-suite included.
+
+Go back to 2000, near the peak of the dot-com boom, and you’d find business leaders splashed across magazine covers with the swagger of rock stars. Compare that to the executives of earlier decades, who stayed out of the spotlight and let PR departments issue their carefully worded statements. Today’s CEOs work differently. Bill Gates, Andy Grove, Steve Jobs, Jeff Bezos, Jack Welch, Donald Trump, Elon Musk, Jensen Huang, Peter Thiel, Alex Karp, they hire their own publicists, write their own books, sit for interviews on a whim, and push their personal philosophies out into the world. Business Week, Time, the Economist, their faces show up on all of them. Business figures now shape public and personal agendas well beyond the office. They tell schools what kids should learn. They tell lawmakers where to put public money. We ask them what’s coming next in e-commerce, and we ask them about the next vaccine too.
+
+Chasing the spotlight like this often signals a narcissistic personality. Narcissists aren’t all bad news for an organization. In a period of radical change, their passion and boldness can drive real innovation. But their flaws can also wreck the place. One fix: pair the narcissistic leader with a trusted sidekick, someone who’ll flag the operational gaps in his grandiose vision and keep him tethered to reality.
+
+Capitalist, individualistic societies built around hierarchy and competition can end up growing psychopathic and narcissistic traits without meaning to. These systems tolerate ruthless competition and exploitation, and that tolerance lets people with high ruthlessness and low empathy thrive. Free of guilt, free of conscience, they manipulate and exploit better than the people around them, and that edge often translates into success.
+
+It makes sense, then, that people with psychopathic traits end up in politics. Politics hands them a stage: power, public acclaim, money, all within reach. Psychopaths hunt for opportunity the way any predator does, and politics is thick with it.
+
+Political figures get measured against their own set of red flags: rhetoric that sounds almost messianic, a personal identity fused with the nation or organization they lead, a conviction that history will vindicate them no matter what, and a dismissive attitude toward the actual mechanics of governing. Landing a leadership role can make existing narcissistic tendencies worse, especially when those same tendencies pulled the person toward power to begin with. It’s the same trap covered earlier: leadership itself pushes bad traits further.
+
+Given how tightly Dark Triad traits track with the pursuit of political power, access to that power deserves real scrutiny. Serious measures need consideration, ways to stop people who combine ruthlessness, narcissism, and a lack of empathy from reaching real authority in the first place.
+
+Democracy exists, at bottom, to guard against tyranny from psychologically unstable autocrats. It protects people from authoritarian figures running on psychopathic or narcissistic fuel. That’s why these figures, throughout history, turn hostile toward democratic principles the moment they gain ground. Once in power, they go after regulatory independence and press freedom, chipping away at democratic institutions because they can’t grasp what democracy is for. They believe they’re superior. They believe dominance belongs to whoever’s most ruthless. Neither belief has room in a democratic system.
+
+Democracies build in safeguards against abuse of power. Those safeguards still let unscrupulous people climb to the top plenty of the time. Lobaczewski traced pathocracy back to exactly this gap, a failure to defend against a power-hungry, pathological minority before it takes hold.
+
+Clive Boddy and others raise the same alarm about corporate psychopathy, and Boddy has proposed screening leadership candidates for psychopathic traits, arguing psychopathy and organizational success don’t mix. Politics could use the same kind of screening.
+
+Psychopathic tendencies show up early, often in childhood, through callous and unemotional traits, weak empathy, and a flatness of affect that doesn’t fit the moment. Digging into a candidate’s early years, talking to old teachers, old classmates, could surface those patterns before the candidate ever reaches office. No single method holds up against a determined manipulator. But layer enough methods together and the picture of a candidate’s real personality, and their fitness for office, gets a lot harder to fake.
+
+An ethical person builds real connection with the people around them. Empathy, compassion, a willingness to give without expecting anything back, all of it feeds into respectful treatment of others and a real commitment to justice and equality. An unethical person runs on detachment instead. Self-interest, indifference, and a missing sense of empathy define them. People carrying psychopathic or narcissistic traits tend toward exploitation, and they help keep unfair systems running. You could describe the whole cluster of traits as a disorder of disconnection. Line up human behavior on a spectrum and the Dark Triad sits at one end, marked by total disconnection, while deep empathy and altruism sit at the other, marked by real connection.
+
+Right now, nobody has to qualify for the most powerful jobs in government. No test, no assessment, nothing mandatory. You need a license to drive a car. You need nothing to run a country. That gap lets the people with the least ethical restraint climb into leadership the fastest. Putting empathetic, morally grounded people into these roles has to become a real priority.
+
+Ancient Athens offers a model worth revisiting: sortition. Officials and assembly members got chosen at random, a system built to represent the population fairly and keep corruption out. Something like it today could block pathocracy before it starts, before personality-disordered people take over the machinery of government.
+
+Psychopathic and narcissistic people hold positions of authority in such numbers that the pattern points to something broken in how we’ve built society. Our culture rewards competition and self-interest. It sidelines compassion and empathy. That combination gives ruthless, amoral people room to thrive. Fixing it means rethinking our values and our institutions from the ground up, and building toward egalitarian, responsible principles that make ruthlessness and self-absorption less attractive, not more.
+
+A handful of disordered people in the corner office can bring a corporation to its knees. The same math plays out at the level of whole societies, the whole world even. A small number of disordered politicians in positions of real power do the damage. We owe it to each other to change that.
+
+What is your proposed course of action for resolving this situation?
