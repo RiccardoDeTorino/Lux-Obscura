@@ -387,3 +387,8 @@ article.page,
     }
   }
 }
+
+// Hide duplicate original title in grid
+.grid__item .archive__item-title {
+  display: none;
+}
