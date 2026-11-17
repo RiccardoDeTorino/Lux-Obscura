@@ -315,15 +315,18 @@ article.page,
   border-radius: $border-radius;
   
   @include breakpoint($small) {
-    height: 400px;
+    height: 400px !important;
+    max-height: none !important;
   }
   
   @include breakpoint($medium) {
-    height: 350px;
+    height: 350px !important;
+    max-height: none !important;
   }
   
   @include breakpoint($large) {
-    height: 500px;
+    height: 500px !important;
+    max-height: none !important;
   }
   
   .archive__item-teaser-link {
