@@ -15,7 +15,12 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
+        <a href="{{ post.url | relative_url }}" class="archive__item-teaser-link">
+          <img src="{{ teaser | relative_url }}" alt="{{ title }}">
+          <div class="archive__item-teaser-overlay">
+            <h3 class="archive__item-teaser-title">{{ title }}</h3>
+          </div>
+        </a>
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc p-name" itemprop="headline">
