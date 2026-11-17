@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Riccardo DeTorino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An independent watchdog writer"
+  bio              : "An independent watchdog writer."
   location         : "Persona Non Grata"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
