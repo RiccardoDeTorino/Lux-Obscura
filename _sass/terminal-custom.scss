@@ -343,23 +343,20 @@ article.page,
   border-radius: $border-radius;
   
   @include breakpoint($small) {
-    min-height: 400px;
-    max-height: 400px;
+    height: 400px;
   }
   
   @include breakpoint($medium) {
-    min-height: 350px;
-    max-height: 350px;
+    height: 350px;
   }
   
   @include breakpoint($large) {
-    min-height: 500px;
-    max-height: 500px;
+    height: 500px;
   }
   
-  // Make image fill the container
   .archive__item-teaser-link {
     display: block;
+    width: 100%;
     height: 100%;
     
     img {
