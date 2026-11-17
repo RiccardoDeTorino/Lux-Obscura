@@ -353,6 +353,19 @@ article.page,
   @include breakpoint($large) {
     max-height: 350px;
   }
+  
+  // Make image fill the container
+  .archive__item-teaser-link {
+    display: block;
+    height: 100%;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+  }
 }
 
 // Optional: Hide duplicate title below image in grid view
