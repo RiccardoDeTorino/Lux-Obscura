@@ -19,6 +19,9 @@
           <img src="{{ teaser | relative_url }}" alt="{{ title }}">
         </a>
       </div>
+      <h3 class="archive__item-teaser-title">
+        <a href="{{ post.url | relative_url }}">{{ title }}</a>
+      </h3>
     {% endif %}
     <h2 class="archive__item-title no_toc p-name" itemprop="headline">
       {% if post.link %}
