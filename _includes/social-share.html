@@ -30,39 +30,41 @@
 </section>
 
 <script>
-document.querySelectorAll('.copy-link-btn').forEach(function(btn) {
-  btn.addEventListener('click', function() {
-    var url = this.getAttribute('data-url');
-    var originalHTML = this.innerHTML;
-    
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url).then(function() {
-        btn.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i><span> Copied!</span>';
-        setTimeout(function() { btn.innerHTML = originalHTML; }, 2000);
-      }).catch(function() {
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.copy-link-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var url = this.getAttribute('data-url');
+      var originalHTML = this.innerHTML;
+      
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function() {
+          btn.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i><span> Copied!</span>';
+          setTimeout(function() { btn.innerHTML = originalHTML; }, 2000);
+        }).catch(function() {
+          fallbackCopy(url, btn, originalHTML);
+        });
+      } else {
         fallbackCopy(url, btn, originalHTML);
-      });
-    } else {
-      fallbackCopy(url, btn, originalHTML);
+      }
+    });
+    
+    function fallbackCopy(url, btn, originalHTML) {
+      var textArea = document.createElement('textarea');
+      textArea.value = url;
+      textArea.style.position = 'fixed';
+      textArea.style.opacity = '0';
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      try {
+        document.execCommand('copy');
+        btn.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i><span> Copied!</span>';
+      } catch (err) {
+        btn.innerHTML = '<i class="fas fa-fw fa-times" aria-hidden="true"></i><span> Failed</span>';
+      }
+      document.body.removeChild(textArea);
+      setTimeout(function() { btn.innerHTML = originalHTML; }, 2000);
     }
   });
-  
-  function fallbackCopy(url, btn, originalHTML) {
-    var textArea = document.createElement('textarea');
-    textArea.value = url;
-    textArea.style.position = 'fixed';
-    textArea.style.opacity = '0';
-    document.body.appendChild(textArea);
-    textArea.focus();
-    textArea.select();
-    try {
-      document.execCommand('copy');
-      btn.innerHTML = '<i class="fas fa-fw fa-check" aria-hidden="true"></i><span> Copied!</span>';
-    } catch (err) {
-      btn.innerHTML = '<i class="fas fa-fw fa-times" aria-hidden="true"></i><span> Failed</span>';
-    }
-    document.body.removeChild(textArea);
-    setTimeout(function() { btn.innerHTML = originalHTML; }, 2000);
-  }
-}
+});
 </script>
