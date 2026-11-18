@@ -368,6 +368,12 @@ article.page,
   }
 }
 
+// Author name and bio - bright white
+.author__name,
+.author__bio {
+  color: #ffffff !important;
+}
+
 // Title below image in grid
 .grid__item .archive__item-teaser-title {
   margin: 0.75rem 0 0;
