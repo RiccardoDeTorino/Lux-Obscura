@@ -97,10 +97,6 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-mastodon:
-  instance               : # e.g., "mastodon.social" for share button
-instagram:
-  username               : # for profile link button
 og_image                 : # Open Graph/Twitter default site image
 og_image_alt             : # Alt text for Open Graph/Twitter default site image
 # For specifying social profiles

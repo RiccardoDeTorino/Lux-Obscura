@@ -1,4 +1,5 @@
 {% assign locale = include.locale | default: site.locale %}
+{% assign mastodon_instance = site.mastodon.instance | default: "mastodon.social" %}
 <section class="page__share">
   <h4 class="page__share-title">{{ site.data.ui-text[locale].share_on_label | default: "Share on" }}</h4>
 
@@ -18,15 +19,11 @@
     <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span> Bluesky</span>
   </a>
 
-  {% if site.mastodon.instance %}
-  <a href="https://{{ site.mastodon.instance }}/share?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--matrix" aria-label="Share on Mastodon" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} Mastodon">
+  <a href="https://{{ mastodon_instance }}/share?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--matrix" aria-label="Share on Mastodon" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[locale].share_on_label | default: 'Share on' }} Mastodon">
     <i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span> Mastodon</span>
   </a>
-  {% endif %}
 
-  {% if site.instagram.username %}
-  <a href="https://www.instagram.com/{{ site.instagram.username }}/" class="btn btn--matrix" aria-label="Visit on Instagram" target="_blank" rel="noopener" title="Visit on Instagram">
-    <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span> Instagram</span>
-  </a>
-  {% endif %}
+  <button class="btn btn--matrix" aria-label="Copy link" onclick="navigator.clipboard.writeText('{{ page.url | absolute_url }}'); this.innerHTML = '<i class=\"fas fa-fw fa-check\" aria-hidden=\"true\"></i><span> Copied!</span>'; setTimeout(() => this.innerHTML = '<i class=\"fas fa-fw fa-copy\" aria-hidden=\"true\"></i><span> Copy Link</span>', 2000);" title="Copy link to share on Instagram, etc.">
+    <i class="fas fa-fw fa-copy" aria-hidden="true"></i><span> Copy Link</span>
+  </button>
 </section>
