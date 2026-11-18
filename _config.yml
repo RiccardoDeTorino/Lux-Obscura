@@ -31,7 +31,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 
 # Favicons (place in assets/images/favicons/)
 # Uncomment and configure:
- favicon:
+# favicon:
    path: "/assets/images/favicons/favicon-32x32.png"
    type: "png"
    sizes: "32x32"
