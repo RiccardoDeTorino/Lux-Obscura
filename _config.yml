@@ -119,8 +119,8 @@ author:
   name             : "Riccardo DeTorino"
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "An independent watchdog writer."
-  location         : "Persona Non Grata"
-  motto            : "— Ex Veritas Ad Lux —"
+  # location         : "Persona Non Grata"
+  motto            : "Ex Veritas Ad Lux"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
