@@ -120,7 +120,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "An independent watchdog writer."
   # location         : "Persona Non Grata"  # disabled
-  motto            : "Ex Veritas Ad Lux"
+  # motto            : "Ex Veritas Ad Lux"   # disabled
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
