@@ -31,17 +31,17 @@ logo                     : # path of logo image to display in the masthead, e.g.
 
 # Favicons (place in assets/images/favicons/)
 # Uncomment and configure:
-# favicon:
-#   path: "/assets/images/favicons/favicon-32x32.png"
-#   type: "png"
-#   sizes: "32x32"
-#   ico: "/assets/images/favicons/favicon.ico"
-#   svg: "/assets/images/favicons/favicon.svg"
-#   apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
-#   manifest: "/assets/images/favicons/site.webmanifest"
-#   theme_color: "#0a0f0a"
-#   ms_tile_color: "#0a0f0a"
-#   ms_tile_image: "/assets/images/favicons/ms-icon-144x144.png"
+ favicon:
+   path: "/assets/images/favicons/favicon-32x32.png"
+   type: "png"
+   sizes: "32x32"
+   ico: "/assets/images/favicons/favicon.ico"
+   svg: "/assets/images/favicons/favicon.svg"
+   apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
+   manifest: "/assets/images/favicons/site.webmanifest"
+   theme_color: "#0a0f0a"
+   ms_tile_color: "#0a0f0a"
+   ms_tile_image: "/assets/images/favicons/ms-icon-144x144.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
