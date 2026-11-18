@@ -28,6 +28,20 @@ baseurl                  : "/Lux-Obscura"
 repository               : "RiccardoDeTorino/Lux-Obscura"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+
+# Favicons
+# favicon:
+#   path: "/assets/images/favicon-32x32.png"        # main favicon
+#   type: "png"                                     # png, ico, svg
+#   sizes: "32x32"
+#   ico: "/assets/images/favicon.ico"               # fallback for old browsers
+#   svg: "/assets/images/favicon.svg"               # modern browsers
+#   apple_touch_icon: "/assets/images/apple-touch-icon.png"
+#   manifest: "/assets/images/site.webmanifest"     # PWA manifest
+#   theme_color: "#0a0f0a"                          # browser UI color
+#   ms_tile_color: "#0a0f0a"                        # Windows tile color
+#   ms_tile_image: "/assets/images/ms-icon-144x144.png"
+
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200

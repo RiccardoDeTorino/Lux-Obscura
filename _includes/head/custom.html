@@ -1,6 +1,37 @@
 <!-- start custom head snippets -->
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<!-- Favicons - configure in _config.yml -->
+{% if site.favicon %}
+  <link rel="icon" type="image/{{ site.favicon.type | default: 'png' }}" sizes="{{ site.favicon.sizes | default: '32x32' }}" href="{{ site.favicon.path | relative_url }}">
+{% endif %}
+
+{% if site.favicon.ico %}
+  <link rel="shortcut icon" href="{{ site.favicon.ico | relative_url }}">
+{% endif %}
+
+{% if site.favicon.svg %}
+  <link rel="icon" type="image/svg+xml" href="{{ site.favicon.svg | relative_url }}">
+{% endif %}
+
+{% if site.favicon.apple_touch_icon %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.favicon.apple_touch_icon | relative_url }}">
+{% endif %}
+
+{% if site.favicon.manifest %}
+  <link rel="manifest" href="{{ site.favicon.manifest | relative_url }}">
+{% endif %}
+
+{% if site.favicon.theme_color %}
+  <meta name="theme-color" content="{{ site.favicon.theme_color }}">
+{% endif %}
+
+{% if site.favicon.ms_tile_color %}
+  <meta name="msapplication-TileColor" content="{{ site.favicon.ms_tile_color }}">
+{% endif %}
+
+{% if site.favicon.ms_tile_image %}
+  <meta name="msapplication-TileImage" content="{{ site.favicon.ms_tile_image | relative_url }}">
+{% endif %}
 
 <!-- JetBrains Mono font for terminal aesthetic -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
