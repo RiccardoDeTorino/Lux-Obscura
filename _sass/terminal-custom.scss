@@ -426,6 +426,33 @@ button:focus::after {
   51%, 100% { opacity: 0; }
 }
 
+// Share buttons uniform width
+.page__share {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  
+  .page__share-title {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
+  
+  .btn {
+    flex: 1 1 auto;
+    min-width: 120px;
+    max-width: 180px;
+    justify-content: center;
+    white-space: nowrap;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.8rem;
+  }
+  
+  .copy-link-btn {
+    flex: 0 0 auto;
+  }
+}
+
 // Author name and bio - bright white
 .author__name,
 .author__bio {
