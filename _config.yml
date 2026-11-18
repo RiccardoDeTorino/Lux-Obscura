@@ -30,17 +30,18 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 
 # Favicons (place in assets/images/favicons/)
+# Uncomment and configure:
 # favicon:
-   path: "/assets/images/favicons/favicon-32x32.png"        # main favicon
-   type: "png"                                     # png, ico, svg
-   sizes: "32x32"
-   ico: "/assets/images/favicons/favicon.ico"               # fallback for old browsers
-   svg: "/assets/images/favicons/favicon.svg"               # modern browsers
-   apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
-   manifest: "/assets/images/favicons/site.webmanifest"     # PWA manifest
-   theme_color: "#0a0f0a"                          # browser UI color
-   ms_tile_color: "#0a0f0a"                        # Windows tile color
-   ms_tile_image: "/assets/images/favicons/ms-icon-144x144.png"
+#   path: "/assets/images/favicons/favicon-32x32.png"
+#   type: "png"
+#   sizes: "32x32"
+#   ico: "/assets/images/favicons/favicon.ico"
+#   svg: "/assets/images/favicons/favicon.svg"
+#   apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
+#   manifest: "/assets/images/favicons/site.webmanifest"
+#   theme_color: "#0a0f0a"
+#   ms_tile_color: "#0a0f0a"
+#   ms_tile_image: "/assets/images/favicons/ms-icon-144x144.png"
 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
