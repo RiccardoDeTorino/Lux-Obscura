@@ -453,13 +453,7 @@ button:focus::after {
   }
 }
 
-// Author name and bio - bright white
-.author__name,
-.author__bio {
-  color: #ffffff !important;
-}
-
-// Author motto line
+// Author motto line - match bio exactly
 .author__motto {
   font-size: inherit;
   line-height: 1.5;
@@ -471,6 +465,13 @@ button:focus::after {
     margin-right: 0.5rem;
     opacity: 0.7;
   }
+}
+
+// Author bio - ensure consistent sizing
+.author__bio {
+  font-size: inherit !important;
+  line-height: 1.5 !important;
+  color: #ffffff !important;
 }
 
 // Title below image in grid
