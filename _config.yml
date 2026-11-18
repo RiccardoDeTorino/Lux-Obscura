@@ -120,6 +120,8 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "An independent watchdog writer."
   location         : "— Ex Veritas Ad Lux —"
+  location_label   : "Motto"          # Custom label (optional)
+  location_icon    : "fa-quote-left"  # Custom icon (optional, FontAwesome class)
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:

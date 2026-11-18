@@ -28,7 +28,9 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-location-dot" aria-hidden="true"></i> <span itemprop="name" class="p-locality">{{ author.location }}</span>
+          <i class="fas fa-fw {% if author.location_icon %}{{ author.location_icon }}{% else %}fa-location-dot{% endif %}" aria-hidden="true"></i> 
+          {% if author.location_label %}<span class="label">{{ author.location_label }}</span>{% endif %}
+          <span itemprop="name" class="p-locality">{{ author.location }}</span>
         </li>
       {% endif %}
 
