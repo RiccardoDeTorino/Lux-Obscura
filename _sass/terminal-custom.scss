@@ -459,6 +459,7 @@ button:focus::after {
   line-height: 1.5;
   color: inherit;
   margin-top: 0.5rem;
+  margin-bottom: 1.5rem;  // added space below
   font-style: italic;
   
   i {
