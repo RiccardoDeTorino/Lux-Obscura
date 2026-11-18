@@ -1,37 +1,16 @@
 <!-- start custom head snippets -->
 
-<!-- Favicons - configure in _config.yml -->
-{% if site.favicon %}
-  <link rel="icon" type="image/{{ site.favicon.type | default: 'png' }}" sizes="{{ site.favicon.sizes | default: '32x32' }}" href="{{ site.favicon.path | relative_url }}">
-{% endif %}
-
-{% if site.favicon.ico %}
-  <link rel="shortcut icon" href="{{ site.favicon.ico | relative_url }}">
-{% endif %}
-
-{% if site.favicon.svg %}
-  <link rel="icon" type="image/svg+xml" href="{{ site.favicon.svg | relative_url }}">
-{% endif %}
-
-{% if site.favicon.apple_touch_icon %}
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.favicon.apple_touch_icon | relative_url }}">
-{% endif %}
-
-{% if site.favicon.manifest %}
-  <link rel="manifest" href="{{ site.favicon.manifest | relative_url }}">
-{% endif %}
-
-{% if site.favicon.theme_color %}
-  <meta name="theme-color" content="{{ site.favicon.theme_color }}">
-{% endif %}
-
-{% if site.favicon.ms_tile_color %}
-  <meta name="msapplication-TileColor" content="{{ site.favicon.ms_tile_color }}">
-{% endif %}
-
-{% if site.favicon.ms_tile_image %}
-  <meta name="msapplication-TileImage" content="{{ site.favicon.ms_tile_image | relative_url }}">
-{% endif %}
+<!-- Favicons - add files to assets/images/favicons/ and uncomment below -->
+<!--
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicons/favicon-32x32.png' | relative_url }}">
+<link rel="shortcut icon" href="{{ '/assets/images/favicons/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicons/favicon.svg' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/favicons/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/assets/images/favicons/site.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#0a0f0a">
+<meta name="msapplication-TileColor" content="#0a0f0a">
+<meta name="msapplication-TileImage" content="{{ '/assets/images/favicons/ms-icon-144x144.png' | relative_url }}">
+-->
 
 <!-- JetBrains Mono font for terminal aesthetic -->
 <link rel="preconnect" href="https://fonts.googleapis.com">

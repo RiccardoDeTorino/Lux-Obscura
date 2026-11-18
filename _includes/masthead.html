@@ -1,10 +1,5 @@
 {% assign locale = include.locale | default: site.locale %}
 {% assign logo_path = site.logo %}
-{% if logo_path == empty %}
-  {% if site.favicon and site.favicon.path and site.favicon.path != empty %}
-    {% assign logo_path = site.favicon.path %}
-  {% endif %}
-{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
