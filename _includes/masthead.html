@@ -1,5 +1,5 @@
 {% assign locale = include.locale | default: site.locale %}
-{% assign logo_path = site.logo | default: '' %}
+{% assign logo_path = site.logo | default: site.favicon.path | default: '' %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
