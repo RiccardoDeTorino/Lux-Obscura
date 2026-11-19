@@ -62,6 +62,14 @@ layout: default
       </section>
 
       <footer class="page__meta">
+        {% if site.comment_link.url %}
+          <div class="page__comment-link">
+            <a href="{{ site.comment_link.url }}" class="btn btn--matrix" target="_blank" rel="noopener">
+              <i class="fas fa-fw fa-comments" aria-hidden="true"></i> <span>{{ site.comment_link.text | default: "Comments" }}</span>
+            </a>
+          </div>
+        {% endif %}
+        
         {% if site.data.ui-text[locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[locale].meta_label }}</h4>
         {% endif %}
