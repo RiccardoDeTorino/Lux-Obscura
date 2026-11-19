@@ -80,9 +80,9 @@ Validation of cross-hospital, cross-state strategy, critical in real multi-juris
 U.S. and International Investment
 The exercise and broader infrastructure are supported by rising federal investment and global action:
 
-ASPR FY2025-26 Budget: A $3.8B base, plus $10.5B flex fund for pandemic preparedness and technology (full budget doc ).
+ASPR FY2025-26 Budget: A $3.8B base, plus $10.5B flex fund for pandemic preparedness and technology ([full budget doc](https://aspr.hhs.gov/AboutASPR/BudgetandFunding/Pages/2025POTUS-budget-highlights.aspx)).
 
-Pandemic Fund (World Bank): Over $2.1B pooled from the U.S., EU, Australia, China, Japan, UAE, the Gates/Rockefeller/Wellcome Foundations, etc. (see thepandemicfund.org ).
+Pandemic Fund (World Bank): Over $2.1B pooled from the U.S., EU, Australia, China, Japan, UAE, the Gates/Rockefeller/Wellcome Foundations, etc. ([see thepandemicfund.org](https://www.thepandemicfund.org/)).
 
 Rapid third-round grants >$885M in 75 countries.
 
@@ -90,22 +90,22 @@ Directly funds diagnostic readiness, One Health collaborations, early warning, a
 
 Hospital and System Preparedness
 
-Hospital Preparedness Program (HPP) : Only federal stream for hospital system readiness, supporting coalitions, drills, surge plans, comms systems. Vital for integrating hospitals with public health, EMS, and biocontainment units.
+[Hospital Preparedness Program (HPP)](https://healthresponsealliance.org/breakdown-the-hospital-preparedness-program-and-the-fy2026-budget-threat) : Only federal stream for hospital system readiness, supporting coalitions, drills, surge plans, comms systems. Vital for integrating hospitals with public health, EMS, and biocontainment units.
 
-NIOSH ERHMS guidelines : Set out a whole-cycle approach to physical/mental health screening, PPE, credentialing, monitoring, and debrief for staff in deployments.
+[NIOSH ERHMS guidelines](https://www.cdc.gov/niosh/docs/2025-107/pdfs/2025-107.pdf) : Set out a whole-cycle approach to physical/mental health screening, PPE, credentialing, monitoring, and debrief for staff in deployments.
 
 ### **Global Science, Data, and Innovation Ecosystem**
 
 Tranquil Passport’s operational advances rest on wider shifts:
 
 Digital Preparedness
-PANDEM-2 dashboard (paper ):
+PANDEM-2 dashboard ([paper](https://publichealth.jmir.org/2025/1/e52119)):
 
 An EU-funded, GDPR-compliant platform for data fusion, risk analytics, scenario modeling, and hospital coordination, built and tested in real cross-border pandemic drills.
 
 Modular, user-customizable, and supports scenario-based stress-testing for health agencies across Europe.
 
-AI and forecasting (Nature review ):
+AI and forecasting ([Nature review](https://www.nature.com/articles/s41746-021-00459-8)):
 
 AI/ML now central to outbreak forecasting, triage, contaminated zone mapping, supply demand, genomic variant detection, and more.
 
@@ -113,13 +113,13 @@ Still, translation of advanced modeling into “operational” products lags, mo
 
 ### **OECD and Eu**
 
-OECD Smart Spending 2025 :
+[OECD Smart Spending 2025](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/03/smart-spending-to-combat-global-health-threats_9985a31e/166d7c57-en.pdf) :
 
 Tracking GPGs (Global Public Goods) for health, measuring country-by-country investment in PPR: high-income nations spent $122/capita on PPR vs. $2.6 in lower-middle and $3.5 in low-income as of 2022.
 
 Emphasizes the need for resilient, primary care as the base for response, and warns of trade-offs (funding pandemic response often crowds out nutrition/water/basic care).
 
-EU4Health and CEPS governance review : $4.4B (2021-27), with focus on interoperable data, regional stockpiles, supply chain monitoring, digital health integration, and pandemic “stress tests.”
+[EU4Health and CEPS governance review](https://health.ec.europa.eu/funding/eu4health-programme-2021-2027-vision-healthier-european-union_en) : $4.4B (2021-27), with focus on interoperable data, regional stockpiles, supply chain monitoring, digital health integration, and pandemic “stress tests.”
 
 ### **How Measurement, Drills, Simulation Fit In**
 
@@ -128,11 +128,11 @@ Hands-on validation of theory: Tranquil Passport is the real-world test for “O
 
 Monitoring and evaluation (M&E): The Pandemic Fund’s M&E Guidelines mandate after-action reviews; JEE/SPAR/PVS indicators; on-the-ground drills; custom simulation exercises; integration of learning into country capacities.
 
-Global health science and policy lessons: OECD COVID-19, Resilience, and the Interface Between Science, Policy and Society : Emphasizes multisector “meta-learning,” ongoing drills, data-sharing, mutual trust between science and policy, consistent investment post-crisis, and continuous improvement.
+Global health science and policy lessons: OECD [COVID-19, Resilience, and the Interface Between Science, Policy and Society](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/07/covid-19-resilience-and-the-interface-between-science-policy-and-society_e9949b14/9ab1fbb7-en.pdf) : Emphasizes multisector “meta-learning,” ongoing drills, data-sharing, mutual trust between science and policy, consistent investment post-crisis, and continuous improvement.
 
 ### **The Drill in the Real-World System**
 
-From the Fairfax Times coverage :
+From the [Fairfax Times coverage](https://www.fairfaxtimes.com/articles/u-s-tests-new-biocontainment-transport-system-during-dulles-exercise/article_610fe1ca-989d-4504-a389-42040700161a.html) :
 
 150+ observers, including delegations/AUSMAT, involved at Dulles.
 
@@ -151,16 +151,16 @@ Biocontainment transport goes from being “a future wish” to an operational a
 Gaps
 Funding volatility: OECD and World Bank data show major spikes and dips in PPR financing. Multiple reports warn of underfunding (in both high and low resource settings), and the risk that new funds (like the Pandemic Fund) are too “donor-dominated” or fragmented to hit systemic, long-term gaps in hospital and cross-border readiness.
 
-Hospital/systemic churn: U.S. forecasts suggest core preparedness streams (like HPP) are under threat from budget/bureaucratic reshuffling, with unclear successor programs (details ).
+Hospital/systemic churn: U.S. forecasts suggest core preparedness streams (like HPP) are under threat from budget/bureaucratic reshuffling, with unclear successor programs ([details](https://healthresponsealliance.org/breakdown-the-hospital-preparedness-program-and-the-fy2026-budget-threat)).
 
-Cyber-resilience: ASPR warns cyberattacks are increasing; many hospital and health system crises now “begin digitally” (see summary ).
+Cyber-resilience: ASPR warns cyberattacks are increasing; many hospital and health system crises now “begin digitally” ([see summary](https://www.facebook.com/ASPRgov/posts/1178728104284279/)).
 
 Opportunities and Structural Shifts
 Open science/data/collaboration: The emphasis on dashboards (like PANDEM-2) and transparent, “privacy-by-design” open architectures means international trust/learning can actually outlast a crisis.
 
 Integration of “One Health” and environmental monitoring: Real operational drills are now integrating animal, environmental, and human surveillance—the hallmark of next-gen PPR.
 
-Simulation as continuous improvement: Drills and data feeds loop into future grants and priority setting, not just in the U.S., but also in multi-country capacity-building (e.g., WHO Southeast Asia One Health collaborative ).
+Simulation as continuous improvement: Drills and data feeds loop into future grants and priority setting, not just in the U.S., but also in multi-country capacity-building (e.g., [WHO Southeast Asia One Health collaborative](https://www.who.int/southeastasia/news/detail/22-01-2025-multi-country-init-launch)).
 
 ### **Lessons and Implications**
 
@@ -168,15 +168,15 @@ The Tranquil Passport exercise is much more than a block-and-tackle drill. It’
 
 Key themes:
 
-Preparedness as everyday work: Drills, simulation, and scenario planning move from “annual box ticks” to real, continuous improvement/error-finding.
+*Preparedness as everyday work:* Drills, simulation, and scenario planning move from “annual box ticks” to real, continuous improvement/error-finding.
 
-Open, collaborative science: Data flow, simulation platforms, and One Health collaborations are integrated into daily and crisis workflows.
+*Open, collaborative science:* Data flow, simulation platforms, and One Health collaborations are integrated into daily and crisis workflows.
 
-Pragmatic innovation: Tools like the PBCU are no longer special-purpose but scalable, multi-jurisdictional assets, built for the demands of international response.
+*Pragmatic innovation:* Tools like the PBCU are no longer special-purpose but scalable, multi-jurisdictional assets, built for the demands of international response.
 
-Equity and institutional memory: Budget cuts must not mean eroded capacity; new investment flows must prioritize both new tech and core health system basics.
+*Equity and institutional memory:* Budget cuts must not mean eroded capacity; new investment flows must prioritize both new tech and core health system basics.
 
-Resilience beyond technology: Multi-sector engagement (across human, animal, and environmental health), open evaluation of after-action lessons, and public trust are as vital as any equipment.
+*Resilience beyond technology:* Multi-sector engagement (across human, animal, and environmental health), open evaluation of after-action lessons, and public trust are as vital as any equipment.
 
 The future:
 
