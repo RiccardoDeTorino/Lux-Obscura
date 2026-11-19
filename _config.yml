@@ -65,7 +65,7 @@ comments:
 # Comment link (button between article and tags)
 comment_link:
   url: "https://your-comment-platform.com/your-article"
-  text: "Comments"  # button text (optional, defaults to "Comments")
+  text: "Leave Your Comments"  # button text (optional, defaults to "Comments")
 
 # Comments providers
 comments:
