@@ -1,6 +1,6 @@
 ---
 title: "The Illusion of Choice: How Democracy Manufactures Consent"
-tagline: "From Athenian Assembly to Polarized Electorates—The Cycle of Power, Delusion, and Revolt."
+tagline: "From Athenian Assembly to Polarized Electorates — The Cycle of Power, Delusion, and Revolt."
 date: 2025-07-17
 tags: [Government, politics, leaders, society, Biden, power, Hugo Chávez, Donald Trump, Alex Karp, Benjamin Netanyahu, George W. Nush, J.D. Vance, electorates, illusion of choice, authoritarian, Democracy]
 
