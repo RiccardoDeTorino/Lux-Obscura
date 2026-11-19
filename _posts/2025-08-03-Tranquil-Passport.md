@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/Tranquil-Passport.jpg
 ---
 
-####**Introduction**
+#### **Introduction**
 
 The “Tranquil Passport” exercise, conducted in late June 2025, marks a watershed in U.S. and international special pathogen response. The multi-phase drill tested the full cycle of responding to international cases of high-consequence infectious diseases (HCID), from airport reception to regional treatment center care, leveraging the first-of-its-kind Portable Biocontainment Unit (PBCU), a technology for multi-patient, long-distance transport with in-transit medical support and infection containment.
 
