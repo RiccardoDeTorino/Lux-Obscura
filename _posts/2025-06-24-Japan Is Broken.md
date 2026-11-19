@@ -2,7 +2,7 @@
 title: "Japan Is Broken."
 tagline: "Japan’s Economic Crisis and Its Global Implications"
 date: 2025-06-24
-tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump, Musk, Alex Karp, Biden, Benjamin Netanyahu, " Bibi " , authoritarian, corruption, corporate power, Democracy ]
+tags: [Government, politics, Japan, markets, CBDC, Japan's Economic crisis, 2025, digital dolar, Donal Trump, currency, debt monetization, digital currency, corruption, FIAT, corruption, digital ecosystem, De-dollarization, corporate power, currency reserves, consumer, crypto, financial engineering, Democracy ]
 
 header:
   image: /assets/images/Pathocracy.jpg
