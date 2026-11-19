@@ -5,8 +5,8 @@ date: 2025-06-24
 tags: [Government, politics, Japan, markets, CBDC, Japan's Economic crisis, digital dolar, Donal Trump, currency, debt monetization, digital currency, corruption, FIAT, corruption, digital ecosystem, De-dollarization, corporate power, currency reserves, consumer, crypto, financial engineering, Democracy ]
 
 header:
-  image: /assets/images/Japan Is Broken.jpg
-  teaser: /assets/images/Japan Is Broken.jpg
+  image: /assets/images/Japan-Is-Broken.jpg
+  teaser: /assets/images/Japan-Is-Broken.jpg
 ---
 
 Japan makes up 2% of the world’s population and controls a share of global financial stability that dwarfs that number. First-quarter 2025 data shows the economy contracting. The three biggest automakers, the companies that built Japan’s postwar industrial reputation, posted earnings that missed expectations, and management at all three warned of rougher quarters ahead. They pointed to supply chain disruptions and a squeeze where weakening consumer demand meets rising operational costs.
