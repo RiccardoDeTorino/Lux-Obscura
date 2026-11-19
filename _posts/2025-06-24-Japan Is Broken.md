@@ -2,7 +2,7 @@
 title: "Japan Is Broken"
 tagline: "Japan’s Economic Crisis and Its Global Implications"
 date: 2025-06-24
-tags: [Government, politics, Japan, markets, CBDC, Japan's Economic crisis, digital dolar, Donal Trump, currency, debt monetization, digital currency, corruption, FIAT, corruption, digital ecosystem, De-dollarization, corporate power, currency reserves, consumer, crypto, financial engineering, Democracy ]
+tags: [Government, politics, Japan, markets, CBDC, Japan's Economic crisis, digital dolar, Donal Trump, currency, debt monetization, digital currency, corruption, FIAT, corruption, digital ecosystem, De-dollarization, corporate power, currency reserves, consumer, crypto, financial engineering, Democracy]
 
 header:
   image: /assets/images/Japan-is-Broken.jpg
