@@ -27,7 +27,7 @@ Major sources & photos:
 
 [Fairfax County Times coverage with on-the-ground photos](https://www.fairfaxtimes.com/articles/u-s-tests-new-biocontainment-transport-system-during-dulles-exercise/article_610fe1ca-989d-4504-a389-42040700161a.html)
 
-**What Did Tranquil Passport Test?**
+### **What Did Tranquil Passport Test?**
 
 Scenario:
 
@@ -55,7 +55,7 @@ Security: Airport handoff to ambulance, tailored briefing for local and federal 
 
 Public communications: Media presence, on-site observers from multiple countries (e.g., AUSMAT from Australia, Japan, Taiwan), cross-learning for future international outbreaks.
 
-**The National Special Pathogen System (NSPS)**
+### **The National Special Pathogen System (NSPS)**
 
 Tranquil Passport's real intent was to put the U.S. National Special Pathogen System (NSPS) through its paces. NSPS is a tiered network of frontline hospitals, healthcare coalitions, and 13 federally funded Regional Emerging Special Pathogen Treatment Centers (RESPTCs) serving as biocontainment hubs (network map and detail ). NSPS links federal, state, and hospital partners through:
 
@@ -75,7 +75,7 @@ Testing new triage/evacuation/drill protocols for hypothetical “provider down�
 
 Validation of cross-hospital, cross-state strategy, critical in real multi-jurisdiction outbreaks.
 
-**Major Funding, Governance, and Policy Backdrop**
+### **Major Funding, Governance, and Policy Backdrop**
 
 U.S. and International Investment
 The exercise and broader infrastructure are supported by rising federal investment and global action:
@@ -94,7 +94,7 @@ Hospital Preparedness Program (HPP) : Only federal stream for hospital system re
 
 NIOSH ERHMS guidelines : Set out a whole-cycle approach to physical/mental health screening, PPE, credentialing, monitoring, and debrief for staff in deployments.
 
-**Global Science, Data, and Innovation Ecosystem**
+### **Global Science, Data, and Innovation Ecosystem**
 
 Tranquil Passport’s operational advances rest on wider shifts:
 
@@ -111,7 +111,7 @@ AI/ML now central to outbreak forecasting, triage, contaminated zone mapping, su
 
 Still, translation of advanced modeling into “operational” products lags, most scalable solutions have come from real-world public health–oriented tools built during COVID-19 and after.
 
-**OECD and Eu**
+### **OECD and Eu**
 
 OECD Smart Spending 2025 :
 
@@ -121,7 +121,7 @@ Emphasizes the need for resilient, primary care as the base for response, and wa
 
 EU4Health and CEPS governance review : $4.4B (2021-27), with focus on interoperable data, regional stockpiles, supply chain monitoring, digital health integration, and pandemic “stress tests.”
 
-**How Measurement, Drills, Simulation Fit In**
+### **How Measurement, Drills, Simulation Fit In**
 
 The Exercise: What Was Actually Measured/Validated?
 Hands-on validation of theory: Tranquil Passport is the real-world test for “One Health” policies and ambitious grant guidelines funded by the Pandemic Fund, grounding dashboards, chains of command, and protocol audits in practice.
@@ -130,7 +130,7 @@ Monitoring and evaluation (M&E): The Pandemic Fund’s M&E Guidelines mandate af
 
 Global health science and policy lessons: OECD COVID-19, Resilience, and the Interface Between Science, Policy and Society : Emphasizes multisector “meta-learning,” ongoing drills, data-sharing, mutual trust between science and policy, consistent investment post-crisis, and continuous improvement.
 
-**The Drill in the Real-World System**
+### **The Drill in the Real-World System**
 
 From the Fairfax Times coverage :
 
@@ -146,7 +146,7 @@ Multi-jurisdiction collaboration is now doctrine, not just theory.
 
 Biocontainment transport goes from being “a future wish” to an operational asset, thanks to years of incremental scientific, engineering, and clinical investment.
 
-**Governance, Gaps, and Open Questions**
+### **Governance, Gaps, and Open Questions**
 
 Gaps
 Funding volatility: OECD and World Bank data show major spikes and dips in PPR financing. Multiple reports warn of underfunding (in both high and low resource settings), and the risk that new funds (like the Pandemic Fund) are too “donor-dominated” or fragmented to hit systemic, long-term gaps in hospital and cross-border readiness.
@@ -162,7 +162,7 @@ Integration of “One Health” and environmental monitoring: Real operational d
 
 Simulation as continuous improvement: Drills and data feeds loop into future grants and priority setting, not just in the U.S., but also in multi-country capacity-building (e.g., WHO Southeast Asia One Health collaborative ).
 
-**Lessons and Implications**
+### **Lessons and Implications**
 
 The Tranquil Passport exercise is much more than a block-and-tackle drill. It’s a “live audit” of a decade’s worth of policy, technology, and system innovation, touching on every insight wrestled from COVID-19 and Ebola, and aiming to ensure we don’t repeat past mistakes:
 
