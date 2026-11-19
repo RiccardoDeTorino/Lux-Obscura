@@ -1,5 +1,5 @@
 ---
-title: "Pathocracy, the narcissistic power."
+title: "Pathocracy, The Narcissistic Power"
 tagline: "The 1%…"
 date: 2025-05-28
 tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump, Musk, Alex Karp, Biden, Benjamin Netanyahu, " Bibi " , authoritarian, corruption, corporate power, Democracy ]
