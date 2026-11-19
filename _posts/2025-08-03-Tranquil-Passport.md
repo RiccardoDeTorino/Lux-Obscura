@@ -57,7 +57,7 @@ Public communications: Media presence, on-site observers from multiple countries
 
 ### **The National Special Pathogen System (NSPS)**
 
-Tranquil Passport's real intent was to put the U.S. National Special Pathogen System (NSPS) through its paces. NSPS is a tiered network of frontline hospitals, healthcare coalitions, and 13 federally funded Regional Emerging Special Pathogen Treatment Centers (RESPTCs) serving as biocontainment hubs (network map and detail ). NSPS links federal, state, and hospital partners through:
+Tranquil Passport's real intent was to put the U.S. National Special Pathogen System (NSPS) through its paces. NSPS is a tiered network of frontline hospitals, healthcare coalitions, and 13 federally funded Regional Emerging Special Pathogen Treatment Centers (RESPTCs) serving as biocontainment hubs ([network map and detail](https://netec.org/about-netec/partners-regional-contacts/)). NSPS links federal, state, and hospital partners through:
 
 National exercises (like Tranquil Passport)
 
