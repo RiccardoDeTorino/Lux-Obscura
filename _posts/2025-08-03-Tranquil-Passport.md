@@ -19,7 +19,7 @@ But behind the headlines is a deeper story: years of scientific and operational 
 
 Major sources & photos:
 
-Johns Hopkins Medicine drill overview
+[https://www.hopkinsmedicine.org/news/articles/2025/07/johns-hopkins-biocontainment-unit-hosts-national-infectious-disease-transport-drill "Johns Hopkins Medicine drill overview"]
 
 MedStar Health exercise details
 
