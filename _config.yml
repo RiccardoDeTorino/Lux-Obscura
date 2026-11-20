@@ -322,6 +322,8 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+remote_theme           : "mmistakes/minimal-mistakes@4.28.1"
+
 category_archive:
   type: liquid
   path: /categories/
@@ -330,7 +332,6 @@ tag_archive:
   path: /tags/
 show_taxonomy: true
 
-# jekyll-archives plugin (enabled via GitHub Actions build)
 jekyll-archives:
   enabled:
     - categories
