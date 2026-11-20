@@ -32,10 +32,15 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: bundle install
+        run: |
+          bundle config set --local path 'vendor/bundle'
+          bundle install
+
+      - name: Verify jekyll-archives
+        run: bundle exec jekyll-archives --version || echo "jekyll-archives not available as command"
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --destination ./_site
+        run: bundle exec jekyll build --destination ./_site --verbose
         env:
           JEKYLL_ENV: production
 
