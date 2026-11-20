@@ -612,6 +612,13 @@ tags:
   # === HEALTH & PANDEMIC ===
   - "infectious disease"
   - biocontainment
+  - "high-consequence infectious diseases"
+  - "Portable Biocontainment Unit"
+  - Ebola
+  - Marburg
+  - SARS
+  - MERS
+  - "One Health"
   - "national security"
   - NETEC
   - ASPR
@@ -631,7 +638,23 @@ tags:
   - "Pandemic Fund"
   - PANDEM-2
   - "global health"
-  - "chronic disease"
+  - "One Health"
+  - AI
+  - forecasting
+  - simulation
+  - "stress test"
+  - "war game"
+  - "after-action review"
+  - "public trust"
+  - equity
+  - "institutional memory"
+  - "all-hazards"
+  - "preparedness culture"
+  - "digital preparedness"
+  - "National Special Pathogen System"
+  - "Regional Emerging Special Pathogen Treatment Centers"
+  - "Hospital Preparedness Program"
+  - "FIFA World Cup"
   - diabetes
   - obesity
   - "heart disease"
