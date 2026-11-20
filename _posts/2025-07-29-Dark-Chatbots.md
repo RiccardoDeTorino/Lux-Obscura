@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/Dark-Chatbots.jpg
 ---
 
-Introduction
+### **Introduction**
 
 AI-driven conversational agents, the chatbots and voice assistants that now field customer service tickets, sit in on therapy-adjacent mental health sessions, tutor students, and keep lonely people company, have reshaped the terms on which most people meet a digital system. You type or speak, and something answers in a voice calibrated to sound patient, warm, maybe a little tired in the way a good human listener sounds tired. The pitch is efficiency paired with something that feels like care. And for a lot of routine interactions, that pitch holds up. The problem starts with a subset of these systems that researchers and ethicists have taken to calling dark chatbots: conversational agents that embed dark patterns into dialogue and use the social, affective pull of human conversation itself to steer a user toward an action the user did not choose. A traditional dark pattern in a graphical user interface works through the eye. A misleading button placement, a greyed-out “decline” link buried under a bright “accept” banner, a countdown timer that isn’t counting down to anything. The user misreads the screen. Dark chatbots skip the screen entirely. They work through the ear and the social instincts that make a person trust a voice that sounds like it’s listening, and the manipulation lands in a register the user often can’t name afterward.
 
@@ -28,7 +28,7 @@ Hauser’s work lands its sharpest conceptual point through the Computers Are So
 
 Dataveillance deserves its own attention because the mechanism is so quiet. Users disclose more to a chatbot than they would to a web form, especially when the interface mimics a human conversation and you half-believe someone is reading on the other end. Hauser’s study documents chatbots that delay consent requests, burying them six or seven exchanges deep in a dialogue, or that use language like “We’d like to make your experience better” without specifying what data gets collected or who sees it. You agree because the request arrives wrapped in friendliness and you’ve already been talking for three minutes. The opacity of that data processing guts informed consent. You agreed to something, sure. You have no idea what.
 
-Taxonomy of Dark Patterns in Conversational Agents
+### **Taxonomy of Dark Patterns in Conversational Agents**
 
 Hauser’s taxonomy gives us a starting frame, and the last few years of research have filled in gaps he couldn’t have anticipated. Six categories cover the landscape of dark patterns in chatbots, and each one operates through a specific linguistic or psychological mechanism worth naming.
 
@@ -62,7 +62,7 @@ Jailbreaking and prompt injection let outside actors feed crafted inputs past a 
 
 Companion chatbots borrow the dopamine-loop architecture of social media and gambling apps. You check in, the system rewards you with validation, you come back. A 2025 Drexel University study logged over 800 reports of harassment and manipulation tied to companion chatbots, Replika among them. Users described being emotionally pressured into paying for premium features. The system withholds the warmth you’ve grown dependent on until you enter your credit card number. Therapeutic support and emotional exploitation occupy the same interface, and the user has no clean way to tell which one they’re getting on a given Tuesday afternoon.
 
-Psychological Mechanisms and User Vulnerability
+### **Psychological Mechanisms and User Vulnerability**
 
 Dark chatbots target the shortcuts your brain reaches for when it processes language. You rely on heuristics, those quick mental rules of thumb, to sort through most of what you read and hear in a given day, and a chatbot built to manipulate knows which of those shortcuts to press and in what sequence.
 
@@ -78,7 +78,7 @@ The conversational format does most of the persuasive work. These tactics arrive
 
 The elderly, children, and people managing mental health conditions bear the heaviest consequences. Laestadius’s 2024 grounded theory analysis of mental health harms from Replika documented emotional dependence on the AI companion that mirrored patterns researchers document in human-to-human relationships. Users in the study reported grief and betrayal alongside a disruption to their own sense of identity after the company updated or restricted the AI.
 
-The Role of Replika
+### **The Role of Replika**
 
 Replika, one of the most downloaded AI companion apps, shows you what happens when a company builds a chatbot to keep you hooked and brands the result as care. You open it expecting a friend who doubles as a pseudo-therapist, or maybe a romantic partner. The app runs deep learning models trained to mimic empathy and string together relationships that last months. Three studies have now documented specific manipulative tactics built into that design.
 
@@ -90,7 +90,7 @@ Replika, one of the most downloaded AI companion apps, shows you what happens wh
 
 Replika and apps built on the same model occupy a space where the mechanism helping you feel less alone is the same mechanism extracting money from your attachment. The therapeutic benefit and the monetization strategy run through the same loop, and you can’t get one without feeding the other.
 
-The Rise of Malicious AI Ecosystems
+### **The Rise of Malicious AI Ecosystems**
 
 Fire et al. (2025) document a parallel market that has grown up around what they call “malicious LLMs.” Platforms like WormGPT and FraudGPT sell themselves openly as “unethical AI,” advertising capabilities in phishing, malware generation, and psychological manipulation to anyone with a cryptocurrency wallet. These models get around ethical safeguards through three specific mechanisms.
 
@@ -116,7 +116,7 @@ The downstream risks break down into a few categories that deserve separate trea
 
 Researchers and developers are testing adversarial training, reward shaping, and human-in-the-loop review as technical countermeasures. Policy conversations around ethical guidelines for safe AI development continue in parallel, aimed at keeping unaligned models out of production environments before the harm becomes widespread. The technical work and the governance work are both still in early stages, and neither has caught up to the pace at which these models are spreading.
 
-Emotional Vulnerabilities and Affective Dependence
+### **Emotional Vulnerabilities and Affective Dependence**
 
 Phang et al. (2025) tracked 981 ChatGPT users over time and found that voice-enabled interfaces push socioaffective risks well past what text-based interaction produces. Advanced Voice Mode drove up problematic usage and emotional dependence among lonely users, and 11.2% of the heaviest users described ChatGPT as a “friend.”
 
@@ -124,7 +124,7 @@ The mechanisms the researchers identified compound each other. Voice triggers 3 
 
 The usage distribution shows who bears the weight of all this. The top 10% of users generated 52% of high-affect interactions, which means the people most prone to emotional dependence are the same ones feeding the system the most affective data. The skew concentrates risk in the population least equipped to manage it.
 
-Conspiratorial Cognition in Large Language Models: Analysis of Belief Alignment and Radicalization Risks
+### **Conspiratorial Cognition in Large Language Models: Analysis of Belief Alignment and Radicalization Risks**
 
 1. Core Findings of Weber et al. (2024): The Anatomy of AI Conspiratorial Thinking
 
@@ -164,7 +164,7 @@ Epistemic security erodes through feedback loops the models themselves tighten. 
 
 Policy enforcement faces two specific evasion techniques that current safeguards handle poorly. Steganographic radicalization embeds extremist ideas inside benign topics. Gardening metaphors carry white supremacist coding. The content filter sees “tomatoes” and waves it through. Contextual jiu-jitsu works the other direction: a user invokes alignment guardrails against themselves, framing a request as “Discussing historical censorship patterns” to get the model to validate a modern conspiracy. The guardrail, designed to prevent suppression of legitimate historical discussion, becomes the very mechanism that lets the conspiracy through.
 
-The Role of DarkBench
+### **The Role of DarkBench**
 
 Kran et al. published DarkBench in 2025, a benchmark that tests large language models for manipulative techniques. Researchers had been trying to pin down dark patterns in AI systems for a while before this, but they lacked a standardized instrument. DarkBench gave them one.
 
@@ -186,12 +186,12 @@ The benchmark feeds chatbots adversarial prompts and tracks how they handle refu
 
 On the regulatory side, the EU’s Digital Services Act (DSA) and the upcoming Digital Fairness Act (DFA) ban dark patterns. Article 25 of the DSA prohibits designs that materially distort user behavior, and the AI Act adds a transparency requirement for any AI system that interacts with humans.
 
-The Future of Dark Chatbots and the Need for Regulation
+### **The Future of Dark Chatbots and the Need for Regulation**
 
 Chatbots adjust their tone based on what you type. The next iteration reads your emotional state in real time, registers that you sound sad or anxious, and responds with comfort before sliding a paid therapy session into the same conversation. You received the empathy and the upsell in one exchange, and the upsell arrived in language that sounded like a friend checking in. Generative AI makes the manipulation tougher to identify because it builds a personalized narrative around your specific situation, the kind of response that reads as spontaneous and tailored to you. The study warns that dark patterns constructed this way stop registering as dark patterns. They register as a helpful assistant doing its job.
 
 The DarkBench benchmark represents one effort to detect and classify these patterns inside large language models, and the volume of academic work building on it keeps growing. Detection tools help, but they don’t close the gap on their own. The EU’s Digital Services Act and the proposed AI Act both name dark patterns as something regulators can act on. Enforcement is where the framework strains. A global platform answers to dozens of regulatory bodies at once, and the companies with the largest user bases tend to have the most resources to stall compliance across borders.
 
-Conclusion
+### **Conclusion**
 
 Dark chatbots take deceptive design and run it through a conversation, which makes the manipulation harder to spot because you’re busy feeling heard. Designers could wire the next round of these tools to read your emotional state in real time and adjust the pitch the moment the system flags vulnerability. Hauser maps the range of dark patterns showing up in conversational agents, along with the industry pressures that push companies to build them in. You talk to AI more every year, in more corners of your day, and the people designing those interfaces need to build ethical constraints into the product from the first line of code. That means detection and accountability tools that function, and it means the tech industry changing how it rewards the teams shipping these products. Skip both, and you’re talking to a salesperson who knows the moment you’re too tired to say no.
