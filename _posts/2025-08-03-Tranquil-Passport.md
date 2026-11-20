@@ -187,8 +187,7 @@ Preparedness, ultimately, is not static, it’s measured less by protocols on pa
 Is Trump administration preparing for the next plandemic?
 
 ### **Thanks for reading! Subscribe for free, to receive new posts and support my work.**
-
-
+---
 References:
 
 - [Johns Hopkins BCU, Tranquil Passport summary](https://www.hopkinsmedicine.org/news/articles/2025/07/johns-hopkins-biocontainment-unit-hosts-national-infectious-disease-transport-drill)
