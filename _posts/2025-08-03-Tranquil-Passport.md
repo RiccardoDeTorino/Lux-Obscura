@@ -2,7 +2,7 @@
 title: "Tranquil Passport, Pathogen Security, and the Global Pivot in Preparedness"
 tagline: "June/July 2025 — An Integrated Policy and Science Overview Report"
 date: 2025-08-03
-tags: [Government, politics, Pandemic, vírus, health, Donald Trump, Pathogen Security, Tranquil Passport, Plandemic, COVID, authoritarian, Democracy]
+tags: [Government, politics, Pandemic, vírus, health, Donald Trump, Pathogen Security, Tranquil Passport, Plandemic, COVID, authoritarian, Democracy, infectious disease, biocontainment, national security, WHO, World Bank, OECD, NETEC, ASPR, HHS, cybersecurity, preparedness, readiness, transport, drill, exercise, NIOSH, ERHMS, CEPS, EU, "Southeast Asia", "Pandemic Fund", PANDEM-2, "global health", "One Health", "high-consequence infectious diseases", "Portable Biocontainment Unit", Ebola, Marburg, SARS, MERS, "FIFA World Cup", "Regional Emerging Special Pathogen Treatment Centers", "National Special Pathogen System", "Hospital Preparedness Program", "digital preparedness", AI, forecasting, simulation, "stress test", "war game", "after-action review", "public trust", equity, "institutional memory", resilience, "all-hazards", "preparedness culture", "digital currency", CBDC, "digital dolar", FIAT, "digital ecosystem", "De-dollarization", "corporate power", "currency reserves", consumer, crypto, "financial engineering", Democracy, Pathocracy, CEOs, narcissism, leaders, Trump, Musk, "Alex Karp", Biden, "Benjamin Netanyahu", "Bibi", authoritarian, corruption, "corporate power", society, power]
 
 header:
   image: /assets/images/Tranquil-Passport.jpg
