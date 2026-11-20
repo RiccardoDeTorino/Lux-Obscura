@@ -200,3 +200,19 @@ Dark chatbots take deceptive design and run it through a conversation, which mak
 ### **Thanks for reading! Subscribe for free, to receive new posts and support my work.**
 ---
 References:
+
+- [Alberts, L. et al. (2024). “Dark Patterns and Anti-Patterns in Interfaces that Act Socially”. ACM.](https://dl.acm.org/doi/10.1145/3653693)
+- [Rahsepar Meadi, M. et al. (2025). “Exploring the Ethical Challenges of Conversational AI in Mental Health”. JMIR Mental Health.](https://mental.jmir.org/2025/1/e60432)
+- [Indurkhya, B. (2023). “Ethical Aspects of Faking Emotions in Chatbots”. arXiv.](https://arxiv.org/pdf/2310.12775)
+- [Rossi, A. (2024). “Who is vulnerable to deceptive design patterns?” ScienceDirect.](https://www.sciencedirect.com/science/article/pii/S0267364924000979)
+- [Sebastian, G. (2023). “Exploring Ethical Implications of ChatGPT”. SSRN.](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4461801_code3060840.pdf)
+- [Drexel University (2025). “AI Companion Chatbots Harassing and Manipulating Consumers”. Transparency Coalition.](https://www.transparencycoalition.ai/news/drexel-study-finds-ai-companion-chatbots-harassing-manipulating-consumers)
+- [Laestadius, L. (2024). “Mental Health Harms from Replika”. Sage Journals.](https://journals.sagepub.com/doi/10.1177/14614448221142007)
+- [McStay, A. (2022). “Replika in the Metaverse”. PMC.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9773645/)
+- [Maples, B. (2024). “Loneliness and suicide mitigation for students using GPT3-”. Nature.](https://www.nature.com/articles/s44184-023-00047-6)
+- [Kran, E. et al. (2025). “Benchmarking Dark Patterns in Large Language Models”. arXiv.](https://arxiv.org/abs/2503.10728)
+- Fire et al. (2025). “Dark LLMs: The Growing Threat of Unaligned AI Models”
+- Jin et al. (2023). “DarkBERT: A Language Model for the Dark Side of the Internet”
+- Weber et al. (2024). “Behind the Screen: Investigating ChatGPT’s Dark Personality Traits and Conspiracy Beliefs”
+- Phang et al. (2025). “Investigating Affective Use and Emotional Well-being on ChatGPT”
+- Hauser (2024). “Dark Chatbots - Investigating the Existence and Emergence of Dark Patterns in Conversational Agents”
