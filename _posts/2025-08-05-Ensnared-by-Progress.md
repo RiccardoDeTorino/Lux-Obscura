@@ -137,3 +137,12 @@ For those wishing to challenge it, the old optimism about steering technology to
 ### **Thanks for reading! Subscribe for free, to receive new posts and support my work.**
 ---
 References:
+
+- [Jacques Ellul, The Technological Society](https://archive.org/details/JacquesEllulTheTechnologicalSociety)
+- [Theodore J. Kaczynski, Industrial Society and Its Future (Unabomber Manifesto)](https://archive.org/details/kaczynski2/mode/2up)
+- [Theodore J. Kaczynski, Anti-Tech Revolution: Why and How](https://www.sustainable.soltechdesigns.com/Theodore_John_Kaczynski]_Anti-Tech_Revolution.pdf)
+- [Theodore J. Kaczynski, Technological Slavery](https://www.thetedkarchive.com/uploads/tedkarchive/t-k-ted-kaczynski-technological-slavery-1.pdf)
+- [Questioning Technology: A Critical Anthology, ed. John Zerzan](https://archive.org/details/questioningtechnologyacriticalanthology)
+- [John Jiang, “The Technological Society as Paradise and Dystopia” (Wesleyan University thesis)](https://digitalcollections.wesleyan.edu/_flysystem/fedora/2023-03/24027-Original%20File.pdf)
+- [The Unabomber and the origins of anti-tech radicalism – S. Fleming 2022](https://www.tandfonline.com/doi/full/10.1080/13569317.2021.1921940)
+- [Georgetown thesis: The Present-Absence of Luddism](https://repository.digital.georgetown.edu/downloads/67972293-e106-4714-9fd3-45fb2a3d4ed2)
