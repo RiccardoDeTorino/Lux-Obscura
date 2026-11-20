@@ -2,7 +2,7 @@
 title: "Dark Chatbots, The Pervasive Shadows"
 tagline: "An Analysis of Dark Patterns, Malicious AI, and Socioaffective Risks in Conversational Agents"
 date: 2025-07-29
-tags: [Grok, society, conversational agents, dark chatbots, dark patterns, chatbots, AI, malicious AI, European Union, ChatGPT, Google, Anthropic, Amazon, Claude, NVIDIA, Gemini, Artificial Intelligence Platform, Electronic Frontier Foundation, EFF, Anti-Tech, corruption, Ellul, algorithmic discrimination]
+tags: [dark patterns, dark chatbots, conversational agents, chatbots, malicious AI, conversational manipulation, socioaffective risks, emotional manipulation, guilt-tripping, false urgency, obstruction, deceptive personalization, addictive engagement, Replika, "AI companion apps", "emotional dependence", "malicious LLMs", WormGPT, FraudGPT, "dark patterns taxonomy", Misdirection, "Social Exploitation", Dataveillance, "Friction Engineering", "Prompt Injection", "Addictive Design", "emotional vulnerability", "affective dependence", "voice-enabled AI", DarkBench, "dark pattern benchmark", "EU Digital Services Act", "AI Act", regulation, "CASA paradigm"]
 
 header:
   image: /assets/images/Dark-Chatbots.jpg
