@@ -1,0 +1,31 @@
+---
+layout: single
+title: "{{ page.tag | capitalize }}"
+permalink: /tags/{{ page.tag | slugify }}/
+author_profile: false
+---
+
+<div class="tag-archive">
+  <h1>{{ page.tag }}</h1>
+  
+  <p>{{ site.posts | where_exp: "post", "post.tags contains page.tag" | size }} posts</p>
+  
+  <div class="posts-list">
+    {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+        <article class="archive__item">
+          <h2 class="archive__item-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          <p class="page__meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            {% if post.read_time %} • {{ post.read_time }}{% endif %}
+          </p>
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+          {% endif %}
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
