@@ -1,19 +1,184 @@
-# Curated tag list - copy/paste from here
-# Add new tags here as you create them
+# Curated tag list - organized by topic
+# Add new tags in appropriate section
 
 tags:
+  # === POLITICS & GOVERNANCE ===
   - Government
   - politics
-  - Japan
-  - markets
-  - CBDC
-  - "Japan's Economic crisis"
-  - "digital dolar"
+  - Democracy
+  - authoritarian
+  - authoritarianism
+  - totalitarianism
+  - fascism
+  - communism
+  - socialism
+  - dictatorship
+  - monarchy
+  - aristocracy
+  - oligarchy
+  - plutocracy
+  - technocracy
+  - meritocracy
+  - kleptocracy
+  - cronyism
+  - nepotism
+  - corruption
+  - lobbying
+  - "revolving door"
+  - "regulatory capture"
+  - "public choice"
+  - "rent seeking"
+  - sortition
+  - Athens
+  - "ancient Greece"
+  - "citizen assembly"
+  - "random selection"
+  - "citizen jury"
+  - deliberation
+  - "epistemic democracy"
+  - "participatory democracy"
+  - "direct democracy"
+  - representation
+  - accountability
+  - transparency
+
+  # === WORLD LEADERS & FIGURES ===
+  - Trump
   - "Donal Trump"
+  - Musk
+  - "Alex Karp"
+  - Biden
+  - "Benjamin Netanyahu"
+  - "Bibi"
+  - "Michael Saylor"
+  - "Satoshi Nakamoto"
+  - Nakamoto
+  - "Lynn Alden"
+  - "Clive Boddy"
+  - "Andrzej Lobaczewski"
+
+  # === GEOPOLITICS & REGIONS ===
+  - Japan
+  - "Japan's Economic crisis"
+  - "Southeast Asia"
+  - EU
+  - WHO
+  - World Bank
+  - OECD
+  - "Pandemic Fund"
+  - PANDEM-2
+  - "FIFA World Cup"
+  - "emerging markets"
+  - "developed markets"
+  - "capital flight"
+  - "capital controls"
+  - "financial repression"
+  - "currency war"
+  - "De-dollarization"
+  - "global health"
+  - globalization
+  - "supply chain"
+  - "just in time"
+  - resilience
+  - antifragility
+  - "United States"
+  - "Southeast Asia"
+  - EU
+  - "Russia"
+  - China
+
+  # === COUNTRIES (HYPERINFLATION EXAMPLES) ===
+  - Weimar
+  - Zimbabwe
+  - Venezuela
+  - Argentina
+  - Turkey
+  - Lebanon
+  - Sri Lanka
+
+  # === US STATES ===
+  - Alaska
+  - Alabama
+  - Arizona
+  - Arkansas
+  - California
+  - Colorado
+  - Connecticut
+  - Delaware
+  - Florida
+  - Georgia
+  - Hawaii
+  - Idaho
+  - Illinois
+  - Indiana
+  - Iowa
+  - Kansas
+  - Kentucky
+  - Louisiana
+  - Maine
+  - Maryland
+  - Massachusetts
+  - Michigan
+  - Minnesota
+  - Mississippi
+  - Missouri
+  - Montana
+  - Nebraska
+  - Nevada
+  - "New Hampshire"
+  - "New Jersey"
+  - "New Mexico"
+  - "New York"
+  - "North Carolina"
+  - "North Dakota"
+  - Ohio
+  - Oklahoma
+  - Oregon
+  - Pennsylvania
+  - "Rhode Island"
+  - "South Carolina"
+  - "South Dakota"
+  - Tennessee
+  - Texas
+  - Utah
+  - Vermont
+  - Virginia
+  - Washington
+  - "West Virginia"
+  - Wisconsin
+  - Wyoming
+  - "District of Columbia"
+  - "Puerto Rico"
+  - Guam
+  - "Virgin Islands"
+  - "American Samoa"
+  - "Northern Mariana Islands"
+
+  # === PATHOCRACY & PSYCHOLOGY ===
+  - Pathocracy
+  - ponerology
+  - psychopathy
+  - narcissism
+  - "Dark Triad"
+  - Machiavellianism
+  - "corporate psychopathy"
+  - screening
+  - assessment
+  - "Political Ponerology"
+  - "Andrzej Lobaczewski"
+  - "Clive Boddy"
+  - CEOs
+  - leaders
+  - power
+  - society
+
+  # === ECONOMICS & MONETARY POLICY ===
+  - markets
   - currency
   - "debt monetization"
   - "digital currency"
-  - corruption
+  - CBDC
+  - "digital dolar"
   - FIAT
   - "digital ecosystem"
   - "De-dollarization"
@@ -22,56 +187,10 @@ tags:
   - consumer
   - crypto
   - "financial engineering"
-  - Democracy
-  - Pathocracy
-  - CEOs
-  - narcissism
-  - leaders
-  - Trump
-  - Musk
-  - "Alex Karp"
-  - Biden
-  - "Benjamin Netanyahu"
-  - "Bibi"
-  - authoritarian
-  - "corporate power"
-  - society
-  - power
-  - "infectious disease"
-  - biocontainment
-  - "national security"
-  - WHO
-  - World Bank
-  - OECD
-  - NETEC
-  - ASPR
-  - HHS
-  - cybersecurity
-  - pandemic
-  - preparedness
-  - "global health"
-  - "Pandemic Fund"
-  - PANDEM-2
-  - NIOSH
-  - ERHMS
-  - CEPS
-  - EU
-  - "Southeast Asia"
-  - transport
-  - drill
-  - exercise
-  - readiness
-  - "FIFA World Cup"
-  - Metaplanet
-  - Bitcoin
-  - "carry trade"
-  - BOJ
-  - "Bank of Japan"
-  - "U.S. Treasury"
-  - "yield curve"
-  - bonds
   - inflation
   - deflation
+  - stagflation
+  - hyperinflation
   - demographics
   - aging
   - debt
@@ -82,7 +201,6 @@ tags:
   - "quantitative tightening"
   - recession
   - stagflation
-  - hyperinflation
   - "currency war"
   - gold
   - "safe haven"
@@ -90,17 +208,6 @@ tags:
   - "margin call"
   - liquidation
   - "leverage"
-  - hedge fund
-  - "corporate treasury"
-  - "Michael Saylor"
-  - Metaplanet
-  - "short squeeze"
-  - "pension fund"
-  - insurance
-  - "sovereign debt"
-  - "credit risk"
-  - "default risk"
-  - restructuring
   - "extend and pretend"
   - "Lyn Alden"
   - "financial freedom"
@@ -123,36 +230,26 @@ tags:
   - Gresham's Law
   - Thier's Law
   - hyperbitcoinization
+  - "Bitcoin standard"
   - "Satoshi Nakamoto"
   - Nakamoto
   - consensus
   - "proof of work"
   - mining
-  - hash rate
-  - difficulty adjustment
+  - "hash rate"
+  - "difficulty adjustment"
   - halving
   - "stock to flow"
   - "plan B"
-  - "Bitcoin standard"
-  - hyperinflation
-  - Weimar
-  - Zimbabwe
-  - Venezuela
-  - Argentina
-  - Turkey
-  - Lebanon
-  - Sri Lanka
-  - "emerging markets"
-  - "developed markets"
-  - "capital flight"
-  - "capital controls"
-  - "financial repression"
-  - "negative rates"
-  - ZIRP
-  - NIRP
-  - "yield curve control"
-  - "forward guidance"
-  - "operation twist"
+
+  # === CENTRAL BANKS & BANKING ===
+  - BOJ
+  - "Bank of Japan"
+  - "U.S. Treasury"
+  - "yield curve"
+  - bonds
+  - "quantitative easing"
+  - "quantitative tightening"
   - QE
   - QT
   - "balance sheet"
@@ -168,11 +265,11 @@ tags:
   - "excess reserves"
   - "interest on reserves"
   - IORB
-  - ON RRP
+  - "ON RRP"
   - "reverse repo"
   - "standing repo facility"
   - SRF
-  - discount window
+  - "discount window"
   - "lender of last resort"
   - "too big to fail"
   - moral hazard
@@ -200,247 +297,57 @@ tags:
   - 2026
   - 2027
   - 2030
-  - forecast
-  - prediction
-  - scenario
-  - "stress test"
-  - "war game"
-  - simulation
-  - model
-  - "Lynn Alden"
-  - "Clive Boddy"
-  - "Andrzej Lobaczewski"
-  - "Political Ponerology"
-  - pathocracy
-  - ponerology
-  - psychopathy
-  - narcissism
-  - "Dark Triad"
-  - Machiavellianism
-  - "corporate psychopathy"
-  - screening
-  - assessment
-  - sortition
-  - Athens
-  - democracy
-  - "ancient Greece"
-  - "citizen assembly"
-  - "random selection"
-  - "citizen jury"
-  - deliberation
-  - "epistemic democracy"
-  - "participatory democracy"
-  - "direct democracy"
-  - representation
-  - accountability
-  - transparency
-  - corruption
-  - lobbying
-  - "revolving door"
-  - "regulatory capture"
-  - "public choice"
-  - "rent seeking"
-  - cronyism
-  - nepotism
-  - kleptocracy
-  - oligarchy
-  - plutocracy
-  - technocracy
-  - meritocracy
-  - aristocracy
-  - monarchy
-  - dictatorship
-  - totalitarianism
-  - authoritarianism
-  - fascism
-  - communism
-  - socialism
-  - capitalism
-  - "free market"
-  - "mixed economy"
-  - "state capitalism"
-  - "crony capitalism"
-  - neoliberalism
-  - austerity
-  - privatization
-  - deregulation
-  - globalization
-  - "supply chain"
-  - "just in time"
-  - resilience
-  - antifragility
-  - "black swan"
-  - "gray rhino"
-  - "tail risk"
-  - "fat tail"
-  - kurtosis
-  - skewness
-  - "normal distribution"
-  - "power law"
-  - Pareto
-  - "80/20 rule"
-  - "winner take all"
-  - "Matthew effect"
-  - compounding
-  - "compound interest"
-  - "exponential growth"
-  - doubling
-  - "rule of 72"
-  - "time value of money"
-  - discounting
-  - NPV
-  - IRR
-  - "capital budgeting"
-  - "cost of capital"
-  - WACC
-  - "risk free rate"
-  - "equity risk premium"
-  - beta
-  - alpha
-  - "CAPM"
-  - "Fama-French"
-  - "factor investing"
-  - "smart beta"
-  - "passive investing"
-  - "active investing"
-  - indexing
-  - "ETF"
-  - "mutual fund"
-  - hedge fund
-  - "private equity"
-  - "venture capital"
-  - "angel investing"
-  - "seed stage"
-  - "Series A"
-  - "Series B"
-  - "Series C"
-  - IPO
-  - SPAC
-  - "direct listing"
-  - "dual class shares"
-  - governance
-  - "board of directors"
-  - "shareholder activism"
-  - "proxy fight"
-  - "hostile takeover"
-  - poison pill
-  - "golden parachute"
-  - "say on pay"
-  - "executive compensation"
-  - "stock options"
-  - RSU
-  - "performance shares"
-  - clawback
-  - "long term incentive"
-  - LTIP
-  - "short term incentive"
-  - STIP
-  - bonus
-  - salary
-  - "deferred compensation"
-  - pension
-  - 401k
-  - IRA
-  - Roth
-  - "defined benefit"
-  - "defined contribution"
-  - annuity
-  - "social security"
-  - Medicare
-  - Medicaid
-  - "Obamacare"
-  - ACA
-  - "single payer"
-  - "universal healthcare"
-  - "health insurance"
-  - "pre-existing condition"
-  - "individual mandate"
-  - "employer mandate"
-  - subsidy
-  - "tax credit"
-  - "penalty"
-  - "Cadillac tax"
-  - "medical loss ratio"
-  - MLR
-  - "essential health benefits"
-  - EHB
-  - "preventive care"
-  - wellness
-  - "chronic disease"
-  - diabetes
-  - obesity
-  - "heart disease"
-  - cancer
-  - Alzheimer's
-  - dementia
-  - "long term care"
-  - "nursing home"
-  - "home health"
-  - hospice
-  - palliative
-  - "advance directive"
-  - "living will"
-  - "power of attorney"
-  - guardianship
-  - conservatorship
-  - "elder law"
-  - "estate planning"
-  - trust
-  - will
-  - probate
-  - "tax planning"
-  - "estate tax"
-  - "gift tax"
-  - "generation skipping tax"
-  - GST
-  - "step up basis"
-  - "carryover basis"
-  - "like-kind exchange"
-  - "1031 exchange"
-  - "qualified opportunity zone"
-  - QOZ
-  - "Opportunity Zone"
-  - "capital gains"
-  - "dividend tax"
-  - "income tax"
-  - "payroll tax"
-  - "corporate tax"
-  - "pass-through"
-  - "S corp"
-  - "C corp"
-  - LLC
-  - partnership
-  - "sole proprietorship"
-  - nonprofit
-  - 501c3
-  - "donor advised fund"
-  - DAF
-  - "private foundation"
-  - "public charity"
-  - "charitable deduction"
-  - "itemized deduction"
-  - "standard deduction"
-  - SALT
-  - "mortgage interest"
-  - "property tax"
-  - "state tax"
-  - "local tax"
-  - "federal tax"
-  - "tax bracket"
-  - "marginal rate"
-  - "effective rate"
-  - "tax credit"
-  - "tax deduction"
-  - "tax exemption"
-  - "tax deferral"
-  - "tax free"
-  - "tax advantaged"
-  - "municipal bond"
-  - "treasury bond"
-  - "corporate bond"
-  - "high yield"
-  - "junk bond"
-  - "investment grade"
+  - "yield curve control"
+  - "forward guidance"
+  - "operation twist"
+  - ZIRP
+  - NIRP
+  - "negative rates"
+
+  # === CRYPTO & BITCOIN ===
+  - crypto
+  - Bitcoin
+  - Metaplanet
+  - "carry trade"
+  - "short squeeze"
+  - "corporate treasury"
+  - "Michael Saylor"
+  - "proof of work"
+  - mining
+  - "hash rate"
+  - "difficulty adjustment"
+  - halving
+  - "stock to flow"
+  - "plan B"
+  - "Bitcoin standard"
+  - hyperbitcoinization
+  - "store of value"
+  - "unit of account"
+  - "medium of exchange"
+  - Gresham's Law
+  - Thier's Law
+  - hyperbitcoinization
+  - consensus
+  - "proof of work"
+  - mining
+  - "hash rate"
+  - "difficulty adjustment"
+  - halving
+  - "stock to flow"
+  - "plan B"
+  - "Satoshi Nakamoto"
+  - Nakamoto
+  - consensus
+
+  # === FINANCIAL MARKETS & INSTRUMENTS ===
+  - "yield curve"
+  - bonds
+  - "sovereign debt"
+  - "credit risk"
+  - "default risk"
+  - restructuring
+  - "pension fund"
+  - insurance
   - "credit rating"
   - AAA
   - AA
@@ -462,7 +369,7 @@ tags:
   - "investor pays"
   - "subscription model"
   - "regulatory capture"
-  - "NRSRO"
+  - NRSRO
   - "nationally recognized"
   - "statistical rating organization"
   - SEC
@@ -556,13 +463,13 @@ tags:
   - "cash-out refinance"
   - "rate and term refinance"
   - "streamline refinance"
-  - "HARP"
-  - "HAMP"
+  - HARP
+  - HAMP
   - "making home affordable"
   - "principal reduction"
-  - "forbearance"
-  - "deferment"
-  - "modification"
+  - forbearance
+  - deferment
+  - modification
   - "short sale"
   - "deed in lieu"
   - foreclosure
@@ -572,11 +479,11 @@ tags:
   - "deficiency judgment"
   - "anti-deficiency law"
   - "non-recourse"
-  - "recourse"
+  - recourse
   - "personal liability"
   - "asset protection"
   - "homestead exemption"
-  - "bankruptcy"
+  - bankruptcy
   - "Chapter 7"
   - "Chapter 13"
   - "Chapter 11"
@@ -584,79 +491,548 @@ tags:
   - "Chapter 9"
   - "means test"
   - "automatic stay"
-  - "discharge"
-  - "reaffirmation"
-  - "redemption"
-  - "surrender"
-  - "exemption"
+  - discharge
+  - reaffirmation
+  - redemption
+  - surrender
+  - exemption
   - "wildcard exemption"
-  - "homestead"
-  - "vehicle"
+  - homestead
+  - vehicle
   - "tools of trade"
   - "retirement account"
   - "life insurance"
-  - "wages"
+  - wages
   - "public benefits"
   - "Social Security"
-  - "disability"
-  - "unemployment"
+  - disability
+  - unemployment
   - "workers comp"
   - "veterans benefits"
-  - "Alaska"
-  - "Arizona"
-  - "California"
-  - "Florida"
-  - "Texas"
-  - "New York"
-  - "Illinois"
-  - "Pennsylvania"
-  - "Ohio"
-  - "Georgia"
-  - "North Carolina"
-  - "Michigan"
-  - "New Jersey"
-  - "Virginia"
-  - "Washington"
-  - "Arizona"
-  - "Massachusetts"
-  - "Tennessee"
-  - "Indiana"
-  - "Missouri"
-  - "Maryland"
-  - "Wisconsin"
-  - "Colorado"
-  - "Minnesota"
-  - "South Carolina"
-  - "Alabama"
-  - "Louisiana"
-  - "Kentucky"
-  - "Oregon"
-  - "Oklahoma"
-  - "Connecticut"
-  - "Utah"
-  - "Iowa"
-  - "Nevada"
-  - "Arkansas"
-  - "Mississippi"
-  - "Kansas"
-  - "New Mexico"
-  - "Nebraska"
-  - "West Virginia"
-  - "Idaho"
-  - "Hawaii"
-  - "New Hampshire"
-  - "Maine"
-  - "Rhode Island"
-  - "Montana"
-  - "Delaware"
-  - "South Dakota"
-  - "North Dakota"
-  - "Alaska"
-  - "Vermont"
-  - "Wyoming"
-  - "District of Columbia"
-  - "Puerto Rico"
-  - "Guam"
-  - "Virgin Islands"
-  - "American Samoa"
-  - "Northern Mariana Islands"
+
+  # === INVESTING & FINANCE ===
+  - "financial engineering"
+  - hedge fund
+  - "private equity"
+  - "venture capital"
+  - "angel investing"
+  - "seed stage"
+  - "Series A"
+  - "Series B"
+  - "Series C"
+  - IPO
+  - SPAC
+  - "direct listing"
+  - "dual class shares"
+  - governance
+  - "board of directors"
+  - "shareholder activism"
+  - "proxy fight"
+  - "hostile takeover"
+  - "poison pill"
+  - "golden parachute"
+  - "say on pay"
+  - "executive compensation"
+  - "stock options"
+  - RSU
+  - "performance shares"
+  - clawback
+  - "long term incentive"
+  - LTIP
+  - "short term incentive"
+  - STIP
+  - bonus
+  - salary
+  - "deferred compensation"
+  - pension
+  - 401k
+  - IRA
+  - Roth
+  - "defined benefit"
+  - "defined contribution"
+  - annuity
+  - "capital gains"
+  - "dividend tax"
+  - "income tax"
+  - "payroll tax"
+  - "corporate tax"
+  - "pass-through"
+  - "S corp"
+  - "C corp"
+  - LLC
+  - partnership
+  - "sole proprietorship"
+  - nonprofit
+  - 501c3
+  - "donor advised fund"
+  - DAF
+  - "private foundation"
+  - "public charity"
+  - "charitable deduction"
+  - "itemized deduction"
+  - "standard deduction"
+  - SALT
+  - "mortgage interest"
+  - "property tax"
+  - "state tax"
+  - "local tax"
+  - "federal tax"
+  - "tax bracket"
+  - "marginal rate"
+  - "effective rate"
+  - "tax credit"
+  - "tax deduction"
+  - "tax exemption"
+  - "tax deferral"
+  - "tax free"
+  - "tax advantaged"
+  - "municipal bond"
+  - "treasury bond"
+  - "corporate bond"
+  - "high yield"
+  - "junk bond"
+  - "investment grade"
+  - "capital budgeting"
+  - "cost of capital"
+  - WACC
+  - "risk free rate"
+  - "equity risk premium"
+  - beta
+  - alpha
+  - CAPM
+  - "Fama-French"
+  - "factor investing"
+  - "smart beta"
+  - "passive investing"
+  - "active investing"
+  - indexing
+  - ETF
+  - "mutual fund"
+
+  # === HEALTH & PANDEMIC ===
+  - "infectious disease"
+  - biocontainment
+  - "national security"
+  - NETEC
+  - ASPR
+  - HHS
+  - cybersecurity
+  - pandemic
+  - preparedness
+  - readiness
+  - transport
+  - drill
+  - exercise
+  - NIOSH
+  - ERHMS
+  - CEPS
+  - "World Bank"
+  - OECD
+  - "Pandemic Fund"
+  - PANDEM-2
+  - "global health"
+  - "chronic disease"
+  - diabetes
+  - obesity
+  - "heart disease"
+  - cancer
+  - "Alzheimer's"
+  - dementia
+  - "long term care"
+  - "nursing home"
+  - "home health"
+  - hospice
+  - palliative
+  - "advance directive"
+  - "living will"
+  - "power of attorney"
+  - guardianship
+  - conservatorship
+  - "elder law"
+  - "estate planning"
+  - trust
+  - will
+  - probate
+  - "tax planning"
+  - "estate tax"
+  - "gift tax"
+  - "generation skipping tax"
+  - GST
+  - "step up basis"
+  - "carryover basis"
+  - "like-kind exchange"
+  - "1031 exchange"
+  - "qualified opportunity zone"
+  - QOZ
+  - "Opportunity Zone"
+  - "social security"
+  - Medicare
+  - Medicaid
+  - "Obamacare"
+  - ACA
+  - "single payer"
+  - "universal healthcare"
+  - "health insurance"
+  - "pre-existing condition"
+  - "individual mandate"
+  - "employer mandate"
+  - subsidy
+  - "tax credit"
+  - penalty
+  - "Cadillac tax"
+  - "medical loss ratio"
+  - MLR
+  - "essential health benefits"
+  - EHB
+  - "preventive care"
+  - wellness
+
+  # === RISK & UNCERTAINTY ===
+  - "black swan"
+  - "gray rhino"
+  - "tail risk"
+  - "fat tail"
+  - kurtosis
+  - skewness
+  - "normal distribution"
+  - "power law"
+  - Pareto
+  - "80/20 rule"
+  - "winner take all"
+  - "Matthew effect"
+  - compounding
+  - "compound interest"
+  - "exponential growth"
+  - doubling
+  - "rule of 72"
+  - "time value of money"
+  - discounting
+  - NPV
+  - IRR
+  - "capital budgeting"
+  - "cost of capital"
+  - WACC
+  - "risk free rate"
+  - "equity risk premium"
+  - beta
+  - alpha
+  - CAPM
+  - "Fama-French"
+  - "factor investing"
+  - "smart beta"
+  - "passive investing"
+  - "active investing"
+  - indexing
+  - ETF
+  - "mutual fund"
+  - "private equity"
+  - "venture capital"
+  - "angel investing"
+  - "seed stage"
+  - "Series A"
+  - "Series B"
+  - "Series C"
+  - IPO
+  - SPAC
+  - "direct listing"
+  - "dual class shares"
+  - governance
+  - "board of directors"
+  - "shareholder activism"
+  - "proxy fight"
+  - "hostile takeover"
+  - "poison pill"
+  - "golden parachute"
+  - "say on pay"
+  - "executive compensation"
+  - "stock options"
+  - RSU
+  - "performance shares"
+  - clawback
+  - "long term incentive"
+  - LTIP
+  - "short term incentive"
+  - STIP
+  - bonus
+  - salary
+  - "deferred compensation"
+  - forecast
+  - prediction
+  - scenario
+  - "stress test"
+  - "war game"
+  - simulation
+  - model
+
+  # === TECHNOLOGY & CYBER ===
+  - cybersecurity
+  - "digital ID"
+  - surveillance
+  - privacy
+  - blockchain
+  - decentralization
+  - "digital ecosystem"
+  - "digital currency"
+  - CBDC
+  - "digital dolar"
+  - FIAT
+
+  # === TAX & LEGAL ===
+  - "tax planning"
+  - "estate tax"
+  - "gift tax"
+  - "generation skipping tax"
+  - GST
+  - "step up basis"
+  - "carryover basis"
+  - "like-kind exchange"
+  - "1031 exchange"
+  - "qualified opportunity zone"
+  - QOZ
+  - "Opportunity Zone"
+  - "capital gains"
+  - "dividend tax"
+  - "income tax"
+  - "payroll tax"
+  - "corporate tax"
+  - "pass-through"
+  - "S corp"
+  - "C corp"
+  - LLC
+  - partnership
+  - "sole proprietorship"
+  - nonprofit
+  - 501c3
+  - "donor advised fund"
+  - DAF
+  - "private foundation"
+  - "public charity"
+  - "charitable deduction"
+  - "itemized deduction"
+  - "standard deduction"
+  - SALT
+  - "mortgage interest"
+  - "property tax"
+  - "state tax"
+  - "local tax"
+  - "federal tax"
+  - "tax bracket"
+  - "marginal rate"
+  - "effective rate"
+  - "tax credit"
+  - "tax deduction"
+  - "tax exemption"
+  - "tax deferral"
+  - "tax free"
+  - "tax advantaged"
+  - "municipal bond"
+  - "treasury bond"
+  - "corporate bond"
+  - "high yield"
+  - "junk bond"
+  - "investment grade"
+  - trust
+  - will
+  - probate
+  - "capital gains"
+  - "dividend tax"
+  - "income tax"
+  - "payroll tax"
+  - "corporate tax"
+  - "pass-through"
+  - "S corp"
+  - "C corp"
+  - LLC
+  - partnership
+  - "sole proprietorship"
+  - nonprofit
+  - 501c3
+  - "donor advised fund"
+  - DAF
+  - "private foundation"
+  - "public charity"
+  - "charitable deduction"
+  - "itemized deduction"
+  - "standard deduction"
+  - SALT
+  - "mortgage interest"
+  - "property tax"
+  - "state tax"
+  - "local tax"
+  - "federal tax"
+  - "tax bracket"
+  - "marginal rate"
+  - "effective rate"
+  - "tax credit"
+  - "tax deduction"
+  - "tax exemption"
+  - "tax deferral"
+  - "tax free"
+  - "tax advantaged"
+  - "municipal bond"
+  - "treasury bond"
+  - "corporate bond"
+  - "high yield"
+  - "junk bond"
+  - "investment grade"
+  - "credit rating"
+  - AAA
+  - AA
+  - A
+  - BBB
+  - BB
+  - B
+  - CCC
+  - CC
+  - C
+  - D
+  - default
+  - "Moody's"
+  - "S&P"
+  - Fitch
+  - "rating agency"
+  - "conflict of interest"
+  - "issuer pays"
+  - "investor pays"
+  - "subscription model"
+  - "regulatory capture"
+  - NRSRO
+  - "nationally recognized"
+  - "statistical rating organization"
+  - SEC
+  - "Securities Act"
+  - "Exchange Act"
+  - "Investment Company Act"
+  - "Investment Advisers Act"
+  - "Dodd-Frank"
+  - "Volcker Rule"
+  - "Glass-Steagall"
+  - "Bank Holding Company Act"
+  - "Gramm-Leach-Bliley"
+  - "Community Reinvestment Act"
+  - CRA
+  - redlining
+  - "fair lending"
+  - "equal credit opportunity"
+  - ECOA
+  - "Fair Housing Act"
+  - FHAct
+  - "Home Mortgage Disclosure Act"
+  - HMDA
+  - "Truth in Lending Act"
+  - TILA
+  - "Real Estate Settlement Procedures Act"
+  - RESPA
+  - "Fair Credit Reporting Act"
+  - FCRA
+  - "Fair Debt Collection Practices Act"
+  - FDCPA
+  - "Telephone Consumer Protection Act"
+  - TCPA
+  - "CAN-SPAM"
+  - "Do Not Call"
+  - "robocall"
+  - "spam"
+  - phishing
+  - "identity theft"
+  - "credit freeze"
+  - "fraud alert"
+  - "credit monitoring"
+  - "credit score"
+  - FICO
+  - VantageScore
+  - "credit report"
+  - "credit bureau"
+  - Equifax
+  - Experian
+  - TransUnion
+  - "consumer reporting agency"
+  - CRA
+  - "adverse action"
+  - "risk-based pricing"
+  - "credit denial"
+  - "credit limit"
+  - utilization
+  - "payment history"
+  - "credit mix"
+  - "new credit"
+  - "length of history"
+  - inquiry
+  - "hard inquiry"
+  - "soft inquiry"
+  - "rate shopping"
+  - "mortgage inquiry"
+  - "auto loan inquiry"
+  - "credit card inquiry"
+  - "personal loan inquiry"
+  - "student loan inquiry"
+  - "authorized user"
+  - "joint account"
+  - "co-signer"
+  - guarantor
+  - "secured card"
+  - "unsecured card"
+  - "credit builder loan"
+  - "secured loan"
+  - "unsecured loan"
+  - "personal loan"
+  - "debt consolidation"
+  - "balance transfer"
+  - "cash advance"
+  - "payday loan"
+  - "title loan"
+  - "pawn loan"
+  - "installment loan"
+  - "revolving credit"
+  - "line of credit"
+  - HELOC
+  - "home equity loan"
+  - "cash-out refinance"
+  - "rate and term refinance"
+  - "streamline refinance"
+  - HARP
+  - HAMP
+  - "making home affordable"
+  - "principal reduction"
+  - forbearance
+  - deferment
+  - modification
+  - "short sale"
+  - "deed in lieu"
+  - foreclosure
+  - REO
+  - "real estate owned"
+  - "short sale"
+  - "deficiency judgment"
+  - "anti-deficiency law"
+  - "non-recourse"
+  - recourse
+  - "personal liability"
+  - "asset protection"
+  - "homestead exemption"
+  - bankruptcy
+  - "Chapter 7"
+  - "Chapter 13"
+  - "Chapter 11"
+  - "Chapter 12"
+  - "Chapter 9"
+  - "means test"
+  - "automatic stay"
+  - discharge
+  - reaffirmation
+  - redemption
+  - surrender
+  - exemption
+  - "wildcard exemption"
+  - homestead
+  - vehicle
+  - "tools of trade"
+  - "retirement account"
+  - "life insurance"
+  - wages
+  - "public benefits"
+  - "Social Security"
+  - disability
+  - unemployment
+  - "workers comp"
+  - "veterans benefits"
