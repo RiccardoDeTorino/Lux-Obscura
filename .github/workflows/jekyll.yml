@@ -26,7 +26,6 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
-          cache-version: 2
 
       - name: Setup Pages
         id: pages
@@ -36,11 +35,6 @@ jobs:
         run: |
           bundle config set --local path 'vendor/bundle'
           bundle install
-
-      - name: Verify jekyll-archives
-        run: |
-          bundle exec jekyll -v
-          bundle exec ruby -e "require 'jekyll-archives'; puts Jekyll::Archives::VERSION"
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --destination ./_site --trace
