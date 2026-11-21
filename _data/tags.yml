@@ -1259,7 +1259,6 @@ tags:
   - "data brokers"
   - EFF
   - eIDAS
-  - Aadhaar
   - "shadow profiles"
   - "device fingerprinting"
   - "IP tracking"
@@ -1267,3 +1266,4 @@ tags:
   - "digital gatekeeping"
   - unbanked
   - usability
+  - "recursive SNARKs"
