@@ -2,7 +2,7 @@
 title: "Jewish Anti-Zionism: From Diaspora Solidarity to Global Liberation"
 tagline: "Reclaiming a Suppressed History of Solidarity and Resistance"
 date: 2025-08-11
-tags: [Jewish anti-Zionism, Jewish left, Communist Party USA, CPUSA, Jewish leftists, anti-imperialism, diaspora, solidarity, "Jewish racial subjectivity", "Jewish liminality", whiteness, assimilation, "Jewish Daily Forward", "Workmen's Circle", "Arbeter Ring", Earl Browder, Alexander Bittelman, "Jewish Question", "Socialist Workers Party", SWP, "Hannah Arendt", "Zionism Reconsidered", Mike Gold, "Jews Without Money", "bi-national state", Palestine, Zionism, "Cold War", McCarthyism, "Benjamin Balthaser", "Howard Fast", "Jewish Voice for Peace", "DSA Jewish Solidarity Caucus"]
+tags: [Jewish anti-Zionism, Jewish left, Communist Party USA, CPUSA, anti-imperialism, diaspora, solidarity, "Jewish racial subjectivity", "Jewish liminality", whiteness, assimilation, "Jewish identity", "Jewish Daily Forward", "Workmen's Circle", "Arbeter Ring", Earl Browder, Alexander Bittelman, "Jewish Question", "Socialist Workers Party", SWP, "Hannah Arendt", "Zionism Reconsidered", Mike Gold, "Jews Without Money", "bi-national state", Palestine, Zionism, "Cold War", McCarthyism, "Benjamin Balthaser", "Howard Fast", "Jewish Voice for Peace", "DSA Jewish Solidarity Caucus"]
 
 header:
   image: /assets/images/Jewish-Anti-Zionism.jpg
