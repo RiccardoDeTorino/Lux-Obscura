@@ -208,7 +208,7 @@ References:
 - Maples, B. (2024). ["Loneliness and suicide mitigation for students using GPT3-"](https://www.nature.com/articles/s44184-023-00047-6). Nature.
 - Kran, E. et al. (2025). ["Benchmarking Dark Patterns in Large Language Models"](https://arxiv.org/abs/2503.10728). arXiv.
 - Fire et al. (2025). "Dark LLMs: The Growing Threat of Unaligned AI Models"
-- Jin et al. (2023). ["DarkBERT: A Language Model for the Dark Side of the Internet"](https://arxiv.org/abs/2307.04890)
-- Weber et al. (2024). ["Behind the Screen: Investigating ChatGPT's Dark Personality Traits and Conspiracy Beliefs"](https://arxiv.org/abs/2406.06676)
-- Phang et al. (2025). ["Investigating Affective Use and Emotional Well-being on ChatGPT"](https://arxiv.org/abs/2501.03152)
-- Hauser (2024). ["Dark Chatbots - Investigating the Existence and Emergence of Dark Patterns in Conversational Agents"](https://dl.acm.org/doi/10.1145/3653693)
+- Jin et al. (2023). "DarkBERT: A Language Model for the Dark Side of the Internet"
+- Weber et al. (2024). "Behind the Screen: Investigating ChatGPT's Dark Personality Traits and Conspiracy Beliefs"
+- Phang et al. (2025). "Investigating Affective Use and Emotional Well-being on ChatGPT"
+- Hauser (2024). "Dark Chatbots - Investigating the Existence and Emergence of Dark Patterns in Conversational Agents"
