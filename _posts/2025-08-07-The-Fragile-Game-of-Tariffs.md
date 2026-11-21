@@ -45,8 +45,6 @@ Global trade volumes are contracting. Manufacturing, the sector most exposed to 
 
 A full quarter has passed since implementation. Corporations have had time to run their numbers and revise plans, and the results are showing up in earnings calls and revised forecasts. The projections from six months ago don’t match the balance-sheet damage you can verify in a 10-Q filing. The way American businesses operate in the global market has shifted, and the filings make that plain.
 
-Thanks for reading! Subscribe for free, to receive new posts and support my work.
-
 Trump’s tariff measures cover hundreds of billions of dollars in imports. The duties hit Chinese tech products and European automobiles, and they extend to Latin American raw commodities. Most links in the American supply chain feel the pressure. And the corporate response has gone past raising shelf prices. Companies are reworking sourcing agreements and cutting headcount, and the whole operating model for doing business globally is getting rewritten.
 
 The layoffs came fast. Microsoft announced 6,000 global cuts. Disney is trimming hundreds of roles across its business units. CrowdStrike, the cybersecurity firm, eliminated 500 jobs and framed the move as an AI-driven operational shift, though the tariff pressure on their margins is hard to miss.
