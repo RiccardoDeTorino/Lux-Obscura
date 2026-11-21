@@ -2,7 +2,7 @@
 title: "Zero-Knowledge Proofs and the Future of Age Verification"
 tagline: "How Cryptography Is Redefining Privacy, Compliance, and Trust in the Digital Identity Age"
 date: 2025-08-06
-tags: [Government]
+tags: [zero-knowledge proofs, ZKP, age verification, digital identity, privacy, cryptography, zk-SNARKs, zk-STARKs, zkPassport, Anon Aadhaar, Aleo zPass, "Google Longfellow", Dock, "selective disclosure", "digital ID", "data minimization", surveillance, unlinkability, "range proofs", "regulatory compliance", CNIL, "Online Safety Bill", "eIDAS 2.0", "data brokers", "Electronic Frontier Foundation", EFF, "digital exclusion", "digital ID", inclusion, interoperability, eIDAS, Aadhaar, "data brokers", "shadow profiles", "device fingerprinting", "IP tracking", "compliance theater", exclusion, "digital gatekeeping", unbanked, usability]
 
 header:
   image: /assets/images/Zero-Knowledge-Proofs.jpg
