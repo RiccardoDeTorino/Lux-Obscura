@@ -2,7 +2,7 @@
 title: "The Fragile Game of Tariffs: How Protectionism Risks Stepping the Global Economy into Recession"
 tagline: "An Analysis of Recent U.S. Trade Policies, Economic Costs, and the Looming Threat of Economic Downturns"
 date: 2025-08-07
-tags: [Government]
+tags: [tariffs, protectionism, trade war, trade policy, economic recession, supply chain, supply chain fragmentation, reshoring, nearshoring, GDP impact, inflation, consumer prices, regressive tax, unemployment, trade deficit, retaliatory tariffs, WTO, multilateral trade, bilateral trade, regional blocs, supply chain resilience, efficiency, trade Cold War, geopolitical rivalry, decoupling, de-risking, semiconductor tariffs, auto tariffs, steel tariffs, aluminum tariffs, copper tariffs, IEEPA, CBO, Tax Foundation, JPMorgan, Goldman Sachs, global recession risk]
 
 header:
   image: /assets/images/The-Fragile-Game-of-Tariffs.jpg
