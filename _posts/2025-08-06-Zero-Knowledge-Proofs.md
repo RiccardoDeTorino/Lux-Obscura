@@ -83,39 +83,41 @@ Cryptographers built zero-knowledge proofs to solve a specific math problem and 
 
 References:
 
-- The Knowledge Complexity of Interactive Proof Systems (Goldwasser, Micali, Rackoff, 1985)
+- [The Knowledge Complexity of Interactive Proof Systems (Goldwasser, Micali, Rackoff, 1985)](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
 Seminal paper introducing zero-knowledge proofs, interactive proofs, and knowledge complexity.
 
-- ZKProof Community Reference (2022)
+- [ZKProof Community Reference (2022)](https://docs.zkproof.org/reference.pdf)
 Comprehensive community-driven reference document for zero-knowledge proof technology, blending theory and practical implementation guidance.
 
-- Systematic review: Comparing zk‐SNARK, zk‐STARK, and other ZK schemes (Wiley, 2024)
+- [Systematic review: Comparing zk‐SNARK, zk‐STARK, and other ZK schemes (Wiley, 2024)](https://onlinelibrary.wiley.com/doi/full/10.1002/spy2.401)
 In-depth comparison of leading zero-knowledge proof constructions with modern use cases.
 
-- zk-creds: Flexible Anonymous Credentials from zkSNARKs
+- [zk-creds: Flexible Anonymous Credentials from zkSNARKs](https://obj.umiacs.umd.edu/ieeesp23/zk-creds.pdf)
 Describes the use of ZKPs for anonymous, credential-based proof-of-attributes, including age.
 
-- VERFICATION DILEMMAS IN LAW AND THE PROMISE OF ZKPs (UC Berkeley, 2022)
+- [VERFICATION DILEMMAS IN LAW AND THE PROMISE OF ZKPs (UC Berkeley, 2022)](https://btlj.org/wp-content/uploads/2023/04/0001-37-1-Wexler.pdf)
 A legal and policy analysis of how ZKPs interact with regulatory regimes and real-world compliance.
 
-- Zero-Knowledge Proofs Origination and Early Twenty-First Century Advances (ProQuest, 2023)
+- [Zero-Knowledge Proofs Origination and Early Twenty-First Century Advances (ProQuest, 2023)](https://search.proquest.com/openview/c6fd32a7e5bfc94003bd1a802685c0f9/1?pq-origsite=gscholar&cbl=18750&diss=y)
 A review of ZKP evolution, foundational concepts, and their coming-of-age in applied cryptography.
 
-- Zero-Knowledge Proofs: The Privacy Tech That Lets You Prove Everything Without Revealing Anything (Hackernoon, 2025)
+- [Zero-Knowledge Proofs: The Privacy Tech That Lets You Prove Everything Without Revealing Anything (Hackernoon, 2025)](https://hackernoon.com/zero-knowledge-proofs-the-privacy-tech-that-lets-you-prove-everything-without-revealing-anything)
 Modern primer explaining how ZKPs enable privacy-first claims in digital environments, tailored for non-expert audiences.
 
-- How do I explain zero knowledge proof to my 7 year old cousin? (Crypto Stack Exchange)
+- [How do I explain zero knowledge proof to my 7 year old cousin? (Crypto Stack Exchange)](https://crypto.stackexchange.com/questions/57674/how-do-i-explain-zero-knowledge-proof-to-my-7-year-old-cousin)
 Educational resource breaking down ZKPs in plain language, making the math accessible.
 
-- Example ZK Projects - Fundamentals of Zero-Knowledge Proofs (Cyfrin Academy, 2025)
+- [Example ZK Projects - Fundamentals of Zero-Knowledge Proofs (Cyfrin Academy, 2025)](https://updraft.cyfrin.io/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/examples-zk-projects)
 Survey of real-world projects using ZKPs, including identity, age verification, and privacy-preserving authentication.
 
-- Programming Zero Knowledge Proofs: From Zero to Hero (Hacker News, 2024)
+- [Programming Zero Knowledge Proofs: From Zero to Hero (Hacker News, 2024)](https://news.ycombinator.com/item?id=41398092)
 Explains the programming mindset and building blocks behind ZKPs with links to noteworthy open-source work.
 
-- Zero-Knowledge Proofs: A Beginner's Guide (Dock)
+- [Zero-Knowledge Proofs: A Beginner's Guide (Dock)](https://www.dock.io/post/zero-knowledge-proofs)
 Walks through selective disclosure for proof of age and how ZKPs are being embedded in next-gen digital identity systems.
 
-- EFF: Zero Knowledge Proofs Alone Are Not a Digital ID Solution
+- [EFF: Zero Knowledge Proofs Alone Are Not a Digital ID Solution](https://www.eff.org/deeplinks/2025/07/zero-knowledge-proofs-alone-are-not-digital-id-solution-protecting-user-privacy)
 Advocacy and critical analysis on both the potential and limitations of ZKPs in privacy law and policy.
+
+- [Google open-sources privacy tech for age verification (Help Net Security, 2025)](https://www.helpnetsecurity.com/2025/07/03/google-zero-knowledge-proofs-zkp/)
 
