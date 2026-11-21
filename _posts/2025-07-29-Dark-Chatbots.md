@@ -197,18 +197,18 @@ Dark chatbots take deceptive design and run it through a conversation, which mak
 
 References:
 
-- Alberts, L. et al. (2024). "Dark Patterns and Anti-Patterns in Interfaces that Act Socially". ACM.
-- Rahsepar Meadi, M. et al. (2025). "Exploring the Ethical Challenges of Conversational AI in Mental Health". JMIR Mental Health.
-- Indurkhya, B. (2023). "Ethical Aspects of Faking Emotions in Chatbots". arXiv.
-- Rossi, A. (2024). "Who is vulnerable to deceptive design patterns?" ScienceDirect.
-- Sebastian, G. (2023). "Exploring Ethical Implications of ChatGPT". SSRN.
-- Drexel University (2025). "AI Companion Chatbots Harassing and Manipulating Consumers". Transparency Coalition.
-- Laestadius, L. (2024). "Mental Health Harms from Replika". Sage Journals.
-- McStay, A. (2022). "Replika in the Metaverse". PMC.
-- Maples, B. (2024). "Loneliness and suicide mitigation for students using GPT3-". Nature.
-- Kran, E. et al. (2025). "Benchmarking Dark Patterns in Large Language Models". arXiv.
+- Alberts, L. et al. (2024). ["Dark Patterns and Anti-Patterns in Interfaces that Act Socially"](https://dl.acm.org/doi/10.1145/3653693). ACM.
+- Rahsepar Meadi, M. et al. (2025). ["Exploring the Ethical Challenges of Conversational AI in Mental Health"](https://mental.jmir.org/2025/1/e60432). JMIR Mental Health.
+- Indurkhya, B. (2023). ["Ethical Aspects of Faking Emotions in Chatbots"](https://arxiv.org/pdf/2310.12775). arXiv.
+- Rossi, A. (2024). ["Who is vulnerable to deceptive design patterns?"](https://www.sciencedirect.com/science/article/pii/S0267364924000979). ScienceDirect.
+- Sebastian, G. (2023). ["Exploring Ethical Implications of ChatGPT"](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4461801_code3060840.pdf). SSRN.
+- Drexel University (2025). ["AI Companion Chatbots Harassing and Manipulating Consumers"](https://www.transparencycoalition.ai/news/drexel-study-finds-ai-companion-chatbots-harassing-manipulating-consumers). Transparency Coalition.
+- Laestadius, L. (2024). ["Mental Health Harms from Replika"](https://journals.sagepub.com/doi/10.1177/14614448221142007). Sage Journals.
+- McStay, A. (2022). ["Replika in the Metaverse"](https://pmc.ncbi.nlm.nih.gov/articles/PMC9773645/). PMC.
+- Maples, B. (2024). ["Loneliness and suicide mitigation for students using GPT3-"](https://www.nature.com/articles/s44184-023-00047-6). Nature.
+- Kran, E. et al. (2025). ["Benchmarking Dark Patterns in Large Language Models"](https://arxiv.org/abs/2503.10728). arXiv.
 - Fire et al. (2025). "Dark LLMs: The Growing Threat of Unaligned AI Models"
-- Jin et al. (2023). "DarkBERT: A Language Model for the Dark Side of the Internet"
-- Weber et al. (2024). "Behind the Screen: Investigating ChatGPT's Dark Personality Traits and Conspiracy Beliefs"
-- Phang et al. (2025). "Investigating Affective Use and Emotional Well-being on ChatGPT"
-- Hauser (2024). "Dark Chatbots - Investigating the Existence and Emergence of Dark Patterns in Conversational Agents"
+- Jin et al. (2023). ["DarkBERT: A Language Model for the Dark Side of the Internet"](https://arxiv.org/abs/2307.04890)
+- Weber et al. (2024). ["Behind the Screen: Investigating ChatGPT's Dark Personality Traits and Conspiracy Beliefs"](https://arxiv.org/abs/2406.06676)
+- Phang et al. (2025). ["Investigating Affective Use and Emotional Well-being on ChatGPT"](https://arxiv.org/abs/2501.03152)
+- Hauser (2024). ["Dark Chatbots - Investigating the Existence and Emergence of Dark Patterns in Conversational Agents"](https://dl.acm.org/doi/10.1145/3653693)
