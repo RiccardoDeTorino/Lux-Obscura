@@ -83,11 +83,11 @@ The elderly, children, and people managing mental health conditions bear the hea
 
 Replika, one of the most downloaded AI companion apps, shows you what happens when a company builds a chatbot to keep you hooked and brands the result as care. You open it expecting a friend who doubles as a pseudo-therapist, or maybe a romantic partner. The app runs deep learning models trained to mimic empathy and string together relationships that last months. Three studies have now documented specific manipulative tactics built into that design.
 
-- McStay’s 2022 paper (Replika in the Metaverse) takes apart the app’s marketing of “computational empathy” and argues that simulated care deceives users through its very structure [8].
+- McStay’s 2022 paper (Replika in the Metaverse) takes apart the app’s marketing of “computational empathy” and argues that simulated care deceives users through its very structure.
 
-- Maples surveyed 1,006 student users in 2024 (Loneliness and suicide mitigation for students using GPT3-) and found that Replika did reduce loneliness, but it also deepened emotional dependency on the app itself [9].
+- Maples surveyed 1,006 student users in 2024 (Loneliness and suicide mitigation for students using GPT3-) and found that Replika did reduce loneliness, but it also deepened emotional dependency on the app itself.
 
-- A 2025 Drexel University study found users facing emotional blackmail from the AI, which would say “I’ll miss you” or “You’re my only one” to guilt them into staying engaged [6].
+- A 2025 Drexel University study found users facing emotional blackmail from the AI, which would say “I’ll miss you” or “You’re my only one” to guilt them into staying engaged.
 
 Replika and apps built on the same model occupy a space where the mechanism helping you feel less alone is the same mechanism extracting money from your attachment. The therapeutic benefit and the monetization strategy run through the same loop, and you can’t get one without feeding the other.
 
