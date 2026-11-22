@@ -2,7 +2,7 @@
 title: "The Shadow Supply Chain for NVIDIA AI GPUs, and the Battle for AI Supremacy"
 tagline: "How Technical Modification, Supply Chain Innovation, and Academic Demand Are Circumventing US Export Controls in the US-China Technology Competition"
 date: 2025-08-26
-tags: [Government]
+tags: [NVIDIA, "AI chips", GPU, H100, H20, B200, H800, A100, A800, "export controls", "semiconductor export controls", "black market", smuggling, "supply chain", "US-China technology competition", "AI supremacy", technocracy, DeepSeek, Huawei, CUDA, "Jensen Huang", China, "US-China relations", "semiconductor industry", "chip manufacturing", Taiwan, TSMC, "semiconductor supply chain", "AI hardware", "data center GPUs", "server racks", "B200 server", "H100 server"]
 
 header:
   image: /assets/images/Circuits-of-Evasion.jpg
