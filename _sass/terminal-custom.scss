@@ -313,7 +313,7 @@ article.page,
 .grid__item .archive__item-teaser {
   overflow: hidden;
   border-radius: $border-radius;
-  aspect-ratio: 4 / 3;  // 4:3 ratio - better for thumbnails
+  aspect-ratio: 3 / 2;  // 3:2 ratio - good balance for thumbnails
   
   .archive__item-teaser-link {
     display: block;
