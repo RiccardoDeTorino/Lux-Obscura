@@ -1422,6 +1422,42 @@ tags:
   - "B200 server"
   - "H100 server"
 
+  # === AI SAFETY & LLM SECURITY ===
+  - "sleeper agents"
+  - "large language models"
+  - LLM
+  - "AI safety"
+  - "AI alignment"
+  - "backdoor attacks"
+  - "data poisoning"
+  - deception
+  - "emergent deception"
+  - "theory of mind"
+  - "GPT-4"
+  - "chain-of-thought"
+  - "Machiavellian prompting"
+  - "safety training"
+  - "adversarial training"
+  - interpretability
+  - "linear artificial tomography"
+  - "residual stream"
+  - "deception vectors"
+  - "model poisoning"
+  - ShadowLogic
+  - "supply chain security"
+  - "AI supply chain"
+  - transformers
+  - "attention mechanisms"
+  - "feed-forward networks"
+  - "residual stream analysis"
+  - "interpretability research"
+  - "AI safety benchmarks"
+  - "AI governance"
+  - "AI policy"
+  - "red teaming"
+  - "AI security"
+  - "emergent capabilities"
+
   # === WOKE CULTURE & DEI POLITICS ===
   - woke
   - "stay woke"
