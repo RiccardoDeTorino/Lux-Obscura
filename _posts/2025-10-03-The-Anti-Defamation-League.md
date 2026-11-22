@@ -2,7 +2,7 @@
 title: "The Anti-Defamation League: Architecture of Surveillance, Advocacy, and Institutional Crisis"
 tagline: "An Examination of Espionage, Political Realignment, and the Erosion of Credibility"
 date: 2025-10-03
-tags: [Government]
+tags: [Anti-Defamation League, ADL, Jonathan Greenblatt, Abraham Foxman, "Roy Bullock", "Thomas Gerard", espionage, surveillance, "domestic spying", counterintelligence, "Operation Eavesdrop", BOSS, Mossad, "Israeli intelligence", spying, "spy ring", FBI, "FBI partnership", "James Comey", "Kash Patel", COINTELPRO, "IHRA definition", "antisemitism definition", "anti-Zionism", antisemitism, Wikipedia, "Wikipedia reliability", "Jonathan Greenblatt", "ADL Foundation", "executive compensation", "Paycheck Protection Program", "PPP loan", "Kash Patel", "civil rights", "hate crimes"]
 
 header:
   image: /assets/images/The-Anti-Defamation-League.jpg
