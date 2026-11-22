@@ -2,7 +2,7 @@
 title: "The Dark Woke Mutation: When Vigilance Becomes Violence"
 tagline: 'How "Stay Woke" Transformed from a Call for Racial Justice into a Tool of Coercion and Fear'
 date: 2025-09-16
-tags: [Government]
+tags: [woke, "stay woke", "Black Lives Matter", "Critical Race Theory", intersectionality, "Kimberlé Crenshaw", "Derrick Bell", "interest convergence", "standpoint theory", "social construction of race", DEI, "corporate DEI", ESG, "woke-washing", "DEI backlash", "anti-woke legislation", "Stop W.O.K.E. Act", "executive orders", "corporate DEI rollback", "performative activism", "Dark Woke", coercion, intimidation, authoritarianism, "cancel culture", deplatforming, "free speech", "performative allegiance", burnout, "democratic debate", "pluralistic society", "civic trust", "authoritarian tendencies"]
 
 header:
   image: /assets/images/The-Dark-Woke-Mutation.jpg
