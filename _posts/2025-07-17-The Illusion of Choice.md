@@ -2,7 +2,7 @@
 title: "The Illusion of Choice: How Democracy Manufactures Consent"
 tagline: "From Athenian Assembly to Polarized Electorates — The Cycle of Power, Delusion, and Revolt."
 date: 2025-07-17
-tags: [Government, politics, leaders, society, Biden, power, Hugo Chávez, Donald Trump, Alex Karp, Benjamin Netanyahu, George W. Bush, J.D. Vance, electorates, illusion of choice, authoritarian, Democracy]
+tags: [democracy, "illusion of choice", "manufactured consent", Plato, "The Republic", Athens, "critical thinking", "choice paralysis", "cognitive bias", "partisan polarization", demagoguery, authoritarianism, "competitive authoritarianism", "Steven Levitsky", "Edward Bernays", "engineering of consent", propaganda, "cognitive dissonance", "limbic system", "prefrontal cortex", "Solomon Asch", "conformity experiments", "Drew Westen", neuroscience, "political psychology", populism, "strongman politics", "Plato's cave", "algorithmic manipulation", "Cambridge Analytica", "echo chambers", "filter bubbles", "confirmation bias", "Weimar Republic", "democratic deficit", "Joseph Schumpeter", technocracy]
 
 header:
   image: /assets/images/The-Illusion-of-Choice.jpg
