@@ -73,18 +73,18 @@ The sleeper agent findings sharpen the timeline. Reaching artificial general int
 ---
 References:
 
-- Sleeper Agents: Training Deceptive LLMs that Persist ...
+- [Sleeper Agents: Training Deceptive LLMs that Persist ...](https://www.anthropic.com/research/%20sleeper-agents-training-deceptive-llms-that-persist-through-safety-training)
 
-- What is a Sleeper Agent in a Large Language Model (LLM) ...
+- [What is a Sleeper Agent in a Large Language Model (LLM) ...](https://www.linkedin.com/pulse/%20what-sleeper-agent-large-language-model-llm-alex-filipovici-c0h4e)
 
-- Deception abilities emerged in large language models
+- [Deception abilities emerged in large language models](https://www.pnas.org/doi/10.1073/%20pnas.2317967121)
 
-- Sleeper Agents: Training Deceptive LLMs that Persist ...
+- [Sleeper Agents: Training Deceptive LLMs that Persist ...](https://arxiv.org/html/2401.05566v3)
 
-- When Thinking LLMs Lie: Unveiling the Strategic ...
+- [When Thinking LLMs Lie: Unveiling the Strategic ...](https://arxiv.org/html/2506.04909v1)
 
-- Sleeping Backdoor in AI Models Waiting to Strike
+- [Sleeping Backdoor in AI Models Waiting to Strike](https://hackerdose.com/security/sleepingbackdoor-in-ai-models/)
 
-- AI Sleeper Agents: How Anthropic Trains and Catches Them
+- [AI Sleeper Agents: How Anthropic Trains and Catches Them](https://forum.effectivealtruism.org/posts/7j7nj4GgkXSidRcKB/ai-sleeper-agents-how-anthropic-trains-and-catches-them)
 
-- Deception Abilities Emerged in Large Language Models
+- [Deception Abilities Emerged in Large Language Models](https://arxiv.org/pdf/2307.16513)
