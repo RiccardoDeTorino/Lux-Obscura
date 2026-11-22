@@ -126,7 +126,7 @@ References:
 
 - [FBI ends partnership with Anti-Defamation League as Patel calls it ‘political front’](https://ktul.com/news/nation-world/fbi-ends-partnership-with-anti-defamation-league-as-patel-calls-it-political-front-adl-charlie-kirk-turning-point-usa-hate-groups-speech)
 
-- [HEAT Map™ | ADL](https://www.adl.org/resources/tools-to-track-hate/heat-map)
+- [HEAT Map™ ADL](https://www.adl.org/resources/tools-to-track-hate/heat-map)
 
 - [The Anti-Defamation League’s (ADL) FBI File](https://www.israellobby.org/adl-ca/)
 
