@@ -236,8 +236,7 @@ body {
 
 .page__hero-image {
   width: 100%;
-  aspect-ratio: 5 / 4;
-  object-fit: cover;
+  height: auto;
   -ms-interpolation-mode: bicubic;
 }
 
