@@ -2,7 +2,7 @@
 title: "Pathocracy, The Narcissistic Power"
 tagline: "The 1%…"
 date: 2025-05-28
-tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump, Musk, Alex Karp, Biden, Benjamin Netanyahu, " Bibi " , authoritarian, corruption, corporate power, Democracy ]
+tags: [society, power, Pathocracy, CEOs, narcissism, leaders, Government, Trump, Musk, Alex Karp, Biden, Benjamin Netanyahu, " Bibi " , authoritarian, corruption, corporate power, Democracy, Andrzej Lobaczewski, Political Ponerology, psychopathy, narcissistic personality disorder, personality disorders, Dark Triad, Machiavellianism, corporate psychopathy, totalitarianism, propaganda, empathy, corporate governance, ethical leadership, sortition, ancient Athens, oligarchy ]
 
 header:
   image: /assets/images/Pathocracy.jpg
