@@ -332,9 +332,9 @@ article.page,
 
 // Widen teaser images beyond content width
 .grid__item .archive__item-teaser {
-  margin-left: -2rem;
-  margin-right: -2rem;
-  width: calc(100% + 4rem);
+  margin-left: -3rem;
+  margin-right: -3rem;
+  width: calc(100% + 6rem);
 }
 
 // Make grid items full width - single column
