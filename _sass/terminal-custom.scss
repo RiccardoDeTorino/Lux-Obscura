@@ -313,7 +313,8 @@ article.page,
 .grid__item .archive__item-teaser {
   overflow: hidden;
   border-radius: $border-radius;
-  aspect-ratio: 5 / 4;  // 5:4 ratio - even taller for more vertical space
+  aspect-ratio: 5 / 4;  // 5:4 ratio - taller for more vertical space
+  max-height: none !important;  // override theme max-height constraints
   
   .archive__item-teaser-link {
     display: block;
