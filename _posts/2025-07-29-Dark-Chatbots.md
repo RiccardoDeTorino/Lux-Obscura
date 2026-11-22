@@ -6,7 +6,7 @@ tags: [dark patterns, dark chatbots, conversational agents, chatbots, malicious 
 
 header:
   image: /assets/images/Dark-Chatbots.jpg
-  teaser: /assets/images/Dark-Chatbots.jpg
+  teaser: /assets/images/Dark-Chatbots-Teaser.jpg
 ---
 
 ### **Introduction**
