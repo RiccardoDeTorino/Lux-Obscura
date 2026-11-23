@@ -2,7 +2,7 @@
 title: "The Anti-Defamation League: An Instrument of Coercion, Surveillance, and Political Subversion"
 tagline: "A Comprehensive Examination of Structure, Strategy, and Global Operations"
 date: 2025-10-12
-tags: []
+tags: ["Anti-Defamation League", "Political Subversion", "Surveillance State", "Intelligence Apparatus", "Ideological Conformity", "Coercion Tactics", "Media Manipulation", "Lobbying Influence", "Domestic Fact-Finding", "Liberty Lobby Case", "Church-State Litigation", "McCollum v. Board", "Everson v. Board", "Junk Bond Era", "Corporate Takeovers", "Money Laundering", "Narcotics Trade", "Medellín Cartel", "Mossad", "Jonathan Pollard", "Stern Gang", "Kach Party", "B'nai B'rith", "American System", "Henry Carey", "Abraham Lincoln", "Free Trade", "Usury", "Confederacy", "Civil Rights Language", "Legal Obfuscation", "Grassroots Illusion", "Internet Censorship"]
 header:
   image: /assets/images/ADL-Political-Subversion.jpg
   teaser: /assets/images/ADL-Political-Subversion-Teaser.jpg
