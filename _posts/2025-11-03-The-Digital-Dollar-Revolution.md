@@ -3,6 +3,10 @@ title: "The Digital Dollar Revolution: How the GENIUS Act Is Reshaping Global Fi
 tagline: "From Stablecoin Backing to Strategic Debt Management — The U.S. Strategy for Financial Dominance in the 21st Century"
 date: 2025-11-03
 tags: []
+
+header:
+  image: /assets/images/The-Digital-Dollar-Revolution.jpg
+  teaser: /assets/images/The-Digital-Dollar-Revolution.jpg
 ---
 
 ### **Introduction**
