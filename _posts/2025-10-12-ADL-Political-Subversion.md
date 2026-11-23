@@ -6,7 +6,7 @@ tags: [Government]
 
 header:
   image: /assets/images/ADL-Political-Subversion.jpg
-  teaser: /assets/images/ADL-Political-Subversion.jpg
+  teaser: /assets/images/ADL-Political-Subversion-Teaser.jpg
 ---
 
 Leaders of the Anti-Defamation League of B’nai B’rith sell a polished public image. It’s all civil rights branding and promises about fighting anti-Semitism. They run an extensive intelligence apparatus. Directors embed this machinery inside American institutions to suppress dissent. Staff members execute transnational lobbying for Israeli state interests and deploy surveillance to silence critics. Lawyers apply economic pressure. They orchestrate media campaigns to shape public discourse with absolute certainty. You find their operatives inside schools and police departments. And they’re sitting in broadcasting booths. Administrators enforce ideological conformity across the country and censor free expression.
