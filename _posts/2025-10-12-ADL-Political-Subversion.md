@@ -2,8 +2,7 @@
 title: "The Anti-Defamation League: An Instrument of Coercion, Surveillance, and Political Subversion"
 tagline: "A Comprehensive Examination of Structure, Strategy, and Global Operations"
 date: 2025-10-12
-tags: [Government]
-
+tags: []
 header:
   image: /assets/images/ADL-Political-Subversion.jpg
   teaser: /assets/images/ADL-Political-Subversion-Teaser.jpg
