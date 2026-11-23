@@ -2,7 +2,7 @@
 title: "Antifa: The Rise Of The Alt-Left And Its Ideological Foundations"
 tagline: "An Analysis of America's Most Dangerous Domestic Terrorist Group"
 date: 2025-10-28
-tags: []
+tags: ["Antifa", "Alt-Left", "Anti-fascist", "Domestic terrorist", "Black Bloc", "Doxing", "ACAB", "Herbert Marcuse", "Mark Bray", "No Platform", "Spanish Civil War", "No Pasaran", "Marxist thought", "Class struggle", "Anti-police", "White supremacy", "George Soros", "Deep State", "Trilateral Commission", "Legal defense funds", "Safe houses", "Housing stipends", "Psychological profile", "Educational frustration", "Substance abuse", "Revolutionary romanticism", "BLM relationship", "DSA relationship", "Anarchism", "Democratic Party", "Free speech", "Economic damage", "Street confrontation"]
 
 header:
   image: /assets/images/Antifa-The-Rise-Of-The-Alt-Left.jpg
