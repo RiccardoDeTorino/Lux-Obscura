@@ -2,7 +2,7 @@
 title: "Poisoned by Design: How Political Influence Has Corrupted SNAP"
 tagline: "The Corporate Siege on America's Food Safety Net"
 date: 2025-10-30
-tags: []
+tags: ["SNAP", "Lobbying", "Corporate influence", "Soda", "Processed food", "Junk food", "Diabetes", "Heart disease", "Campaign donations", "Farm Bill", "Ultra-processed food", "Eligibility rules", "Coca-Cola", "PepsiCo", "General Mills", "Tyson Foods", "Cargill", "Kraft Heinz", "Campaign finance", "Politicians", "Nutrition", "Food deserts", "Obesity", "Type 2 diabetes", "Mortality risk", "Healthcare costs", "Income support", "Policy reform", "Waiver requests", "Work requirements", "Benefit cuts", "Thrifty Food Plan", "SNAP-Ed"]
 
 header:
   image: /assets/images/SNAP-Poisoned-by-Design.jpg
