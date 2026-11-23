@@ -2,7 +2,7 @@
 title: "The Strategic Creation and Endurance of Hamas: A Historical Analysis of Israeli State Policy"
 tagline: "From Patronage to Pariah in the Israeli-Palestinian Conflict"
 date: 2025-10-21
-tags: ["Israeli support for Hamas", "Golem metaphor", "Strategic asset", "Divide and rule", "Qatari funding", "Mossad operations", "Palestinian Authority division", "Oslo Accords", "Blockade policy", "Humanitarian consequences", "External actors", "Terrorist designation", "Netanyahu policy", "Sectarian division", "Faction management", "Military infrastructure", "Social welfare network", "Intelligence operations", "Border closures", "Collective punishment", "October 7 attacks", "Political fragmentation", "Proxy management", "Security apparatus", "Funding mechanisms", "Resistance dynamics", "Regional implications", "Policy legacy", "Blowback effects", "First Intifada", "1988 charter", "2007 Battle of Gaza", "Two-state solution"]
+tags: []
 
 header:
   image: /assets/images/Israeli-Policy-Built-Hamas.jpg
