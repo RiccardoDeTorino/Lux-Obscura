@@ -2,7 +2,7 @@
 title: "When Machines Take the Wheel: Global Basic Income as Economic Lifeline and Social Control Mechanism"
 tagline: "An Analysis of Implementation Pathways and Credit Scoring Implications in the Age of AI-Driven Unemployment"
 date: 2025-11-14
-tags: []
+tags: ["Global Basic Income", "Universal Basic Income", "AI-Driven Unemployment", "Automation", "Job Displacement", "Social Credit System", "Digital ID", "Surveillance", "Behavioral Scoring", "Credit Scoring", "Alternative Credit Scoring", "Digital Footprint", "FICO", "Age Discrimination", "Algorithmic Hiring", "AI Hiring Bias", "Workday Lawsuit", "Robot Tax", "Sovereign Wealth Fund", "VAT", "Child Tax Credit", "Social Security", "Inflation", "Wealth Inequality", "Corporate Layoffs", "Tech Giants", "Elon Musk", "Mark Zuckerberg", "Bill Gates", "Behavioral Nudges", "Digital Pipeline", "Financial Inclusion", "Social Control"]
 
 header:
   image: /assets/images/When-Machines-Take-the-Wheel.jpg
