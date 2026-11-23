@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/SNAP-Poisoned-by-Design.jpg
 ---
 
-### **Introduction**
+ **Introduction**
 
 U.S. Congress built SNAP to keep people from going hungry. Food and beverage lobbyists spent decades writing the rules that let billions in taxpayer dollars flow toward soda and frozen pizza dinners instead of fresh produce or lean protein. The families collecting those benefits get diabetes and heart disease, the slow damage of a diet of what’s cheap and shelf-stable. The companies funding those lobbyists shaped the program’s design, and elected officials signed off because the donations kept arriving. Reversing that means naming the policy choices that got us here and the ones that could pull SNAP back toward the job Congress gave it.
 
