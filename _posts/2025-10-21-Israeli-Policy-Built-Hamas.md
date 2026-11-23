@@ -122,64 +122,64 @@ Israeli politicians traded long-term safety for short-term political wins and un
 
 References:
 
-- Hamas: origins, evolution and future prospects.
+- [Hamas: origins, evolution and future prospects.](https://www.dni.gov/nctc/groups/hamas.html?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Israeli support for Hamas.
+- [Israeli support for Hamas.](https://en.wikipedia.org/wiki/Israeli_support_for_Hamas?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Did Israel support Hamas? From the 1980s to 2025.
+- [Did Israel support Hamas? From the 1980s to 2025.](https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- The not-so-secret history of Netanyahu’s support for Hamas.
+- [The not-so-secret history of Netanyahu’s support for Hamas.](https://www.blockclubchicago.org/2023/10/11/the-not-so-secret-history-of-netanyahus-support-for-hamas/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- “Divide and Rule”: How Israel Helped Start Hamas to.
+- [“Divide and Rule”: How Israel Helped Start Hamas to.](https://www.securityincontext.com/posts/hamas-the-islamist-golem?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- How Israel’s government midwifed the birth of Hamas.
+- [How Israel’s government midwifed the birth of Hamas.](https://www.tbsnews.net/hamas-israel-war/how-israel-went-helping-create-hamas-bombing-it-718378?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Blowback: How Israel Went From Helping Create Hamas to…
+- [Blowback: How Israel Went From Helping Create Hamas to…](https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- History Illustrated: The story of Hamas and its fight for.
+- [History Illustrated: The story of Hamas and its fight for.](https://www.aljazeera.com/gallery/2023/10/11/history-illustrated-the-story-of-hamas-and-its-fight-for-palestine?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Israeli Policy toward the Gaza Strip- INSS.
+- [Israeli Policy toward the Gaza Strip- INSS.](https://www.inss.org.il/wp-content/uploads/2018/01/GazaCrisis_ENG-115-128.pdf?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT&file=GazaCrisis_ENG-115-128.pdf)
 
-- Hamas, The Islamic Wing of Palestinian Resistance.
+- [Hamas, The Islamic Wing of Palestinian Resistance.](https://dergipark.org.tr/en/download/article-file/1143750?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Islamic Fundamentalism in the West Bank and Gaza.
+- [Islamic Fundamentalism in the West Bank and Gaza.](https://yplus.ps/wp-content/uploads/2021/01/Abu-Amr-Ziad-Islamic-Fundamentalism-in-the-West-Bank-and-Gaza.pdf?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT&file=Abu-Amr-Ziad-Islamic-Fundamentalism-in-the-West-Bank-and-Gaza.pdf)
 
-- Hamas: Studies of Thought & Experience.
+- [Hamas: Studies of Thought & Experience.](https://www.alzaytouna.net/english/books/Eng-Book_Hamas_Thought_Experience/Book_Hamas_Thought_Experience_Full.pdf?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT&file=Book_Hamas_Thought_Experience_Full.pdf)
 
-- Hamas: The Islamist Golem?
+- [Hamas: The Islamist Golem?](https://www.securityincontext.com/posts/hamas-the-islamist-golem?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Israel’s historical role in the rise of Hamas.
+- [Israel’s historical role in the rise of Hamas.](https://www.japantimes.co.jp/commentary/2023/11/21/world/israel-failed-policy/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- The Blogs: Hamas Israel’s own creation | Shlomo Alegra.
+- [The Blogs: Hamas Israel’s own creation - Shlomo Alegra.](https://blogs.timesofisrael.com/hamas-israels-own-creation/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- Blowback: How Israel Helped Create Hamas | Transcript.
+- [Blowback: How Israel Helped Create Hamas - Transcript.](https://scrapsfromtheloft.com/history/blowback-how-israel-helped-create-hamas-transcript/?spm=a2ty_o01.29997173.0.0.5922c921kjbGnT)
 
-- “Hamas, to my great regret, is Israel’s creation,” Avner...
+- [“Hamas, to my great regret, is Israel’s creation,” Avner...](https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict/)
 
-- How and why Israel helped create Hamas?
+- [How and why Israel helped create Hamas?](https://tribune.com.pk/story/2302309/how-and-why-israel-helped-create-hamas?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- The Origins of Hamas: Militant Legacy or Israeli Tool?
+- [The Origins of Hamas: Militant Legacy or Israeli Tool?](https://ciaotest.cc.columbia.edu/journals/jps/v41i3/f_0025591_20939.pdf?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq&file=f_0025591_20939.pdf)
 
-- Hamas: The Organizations, Goals and Tactics of a Militant...
+- [Hamas: The Organizations, Goals and Tactics of a Militant...](https://irp.fas.org/crs/931014-hamas.htm?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- 1989 and the rise of Hamas.
+- [1989 and the rise of Hamas.](https://www.jpost.com/opinion/1989-and-the-rise-of-hamas-611745?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- The Origins of Hamas: An Israeli Creation.
+- [The Origins of Hamas: An Israeli Creation.](https://www.researchgate.net/publication/385780041_The_Origins_of_Hamas_An_Israeli_Creation?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- Israel’s role in the creation of Hamas.
+- [Israel’s role in the creation of Hamas.](https://www.mmegi.bw/blogs/african-politics/israels-role-in-the-creation-of-hamas?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- How The Israeli Mossad Created And Financed Hamas As...
+- [How The Israeli Mossad Created And Financed Hamas As...](https://christiansfortruth.com/how-the-israeli-mossad-created-and-financed-hamas-as-controlled-opposition/?spm=a2ty_o01.29997173.0.0.5922c921GNz4Kq)
 
-- For years, Netanyahu propped up Hamas.
+- [For years, Netanyahu propped up Hamas.](https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/)
 
-- ‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas.
+- [‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas.](https://www.nytimes.com/2023/12/10/world/middleeast/israel-qatar-money-prop-up-hamas.html)
 
-- The Greater Israel Ideology of Bezalel Smotrich Has Already Lost.
+- [The Greater Israel Ideology of Bezalel Smotrich Has Already Lost.](https://www.haaretz.com/opinion/2024-02-04/ty-article-opinion/.premium/the-greater-israel-ideology-of-bezalel-smotrich-has-already-lost/0000018d-6fe9-d971-a38f-7ffbc5910000)
 
-- ‘Hamas is an asset’ is the Israeli consensus.
+- [‘Hamas is an asset’ is the Israeli consensus.](https://mondoweiss.net/2015/10/hamas-israeli-consensus/)
 
-- Hamas Leader Yahya Sinwar’s Strategic Assets: Ben-Gvir and Smotrich.
+- [Hamas Leader Yahya Sinwar’s Strategic Assets: Ben-Gvir and Smotrich.](https://www.haaretz.com/opinion/2024-05-01/ty-article-opinion/.premium/hamas-leader-yahya-sinwars-strategic-assets-ben-gvir-and-smotrich/0000018f-34e5-d0b5-a59f-35e5c3050000)
 
-- How Israel helped prop up Hamas for decades.
+- [How Israel helped prop up Hamas for decades.](https://www.analystnews.org/posts/how-israel-helped-prop-up-hamas-for-decades)
 
-- Smotrich touts revival of Gaza settlements after war.
+- [Smotrich touts revival of Gaza settlements after war.](https://www.timesofisrael.com/smotrich-touts-revival-of-gaza-settlements-after-war-says-no-innocents-in-strip/)
