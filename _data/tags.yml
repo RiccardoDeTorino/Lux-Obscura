@@ -277,6 +277,19 @@ tags:
   - Tyson Foods
   - Cargill
   - Kraft Heinz
+  - Tech Giants
+  - Big Tech
+  - "AI Regulation"
+  - "CHIPS Act"
+  - "State Preemption"
+  - "Dark Money"
+  - "Tax Policy"
+  - "Labor Market"
+  - "Non-Compete"
+  - "Wage Suppression"
+  - "Data Privacy"
+  - "Judicial Capture"
+  - "Democratic Governance"
   - Campaign finance
   - Politicians
   - Nutrition
@@ -440,6 +453,9 @@ tags:
   - "nationally recognized"
   - "statistical rating organization"
   - SEC
+  - "Federal Trade Commission"
+  - "Department of Justice"
+  - Antitrust
   - "Securities Act"
   - "Exchange Act"
   - "Investment Company Act"
@@ -997,6 +1013,9 @@ tags:
   - "nationally recognized"
   - "statistical rating organization"
   - SEC
+  - "Federal Trade Commission"
+  - "Department of Justice"
+  - Antitrust
   - "Securities Act"
   - "Exchange Act"
   - "Investment Company Act"
@@ -1486,6 +1505,7 @@ tags:
 
   # === SEMICONDUCTOR & AI TECHNOLOGY ===
   - NVIDIA
+  - Intel
   - "AI chips"
   - GPU
   - H100
@@ -1518,6 +1538,12 @@ tags:
   - "server racks"
   - "B200 server"
   - "H100 server"
+  - Meta
+  - Google
+  - Apple
+  - Amazon
+  - Microsoft
+  - BlackRock
 
   # === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"

@@ -2,7 +2,7 @@
 title: "Corporate Power and the Erosion of Democratic Governance in America"
 tagline: "How Tech Titans and Financial Giants Reshape Policy Beyond Public Scrutiny"
 date: 2025-11-12
-tags: []
+tags: ["Corporate Power", "Democratic Governance", "Lobbying", "Campaign Finance", "Revolving Door", "Regulatory Capture", "Tech Giants", "Big Tech", "Antitrust", "Federal Trade Commission", "Department of Justice", "SEC", "BlackRock", "Meta", "Google", "Apple", "Amazon", "Microsoft", "NVIDIA", "Intel", "CHIPS Act", "AI Regulation", "State Preemption", "Dark Money", "Tax Policy", "FDIC", "Federal Reserve", "Labor Market", "Non-Compete", "Wage Suppression", "Data Privacy", "China", "Judicial Capture"]
 
 header:
   image: /assets/images/The-Silent-Corporate-Power.jpg
@@ -200,7 +200,7 @@ Legislators don’t hide this bias in their daily work. The 116th Congress passe
 
 Voters don’t trust the government. Gallup interviewers asked citizens about their faith in the system. You check the November 2025 poll and see confidence in Congress sitting at 12%. Gallup recorded a 22% confidence level in 2016. So you read the November 6 Gallup release and see the freefall printed in black ink. Young adults harbor deep alienation and give Congress a miserable 6% approval rating.
 
-### *The Personnel Pipeline in Detail**
+### **The Personnel Pipeline in Detail**
 
 The depth of corporate infiltration is best seen in granular personnel data.
 
