@@ -143,7 +143,7 @@ analytics:
     anonymize_ip         : # true, false (default)
   umami:
     website_id           : 00939e4c-2a8d-4ca9-af34-59c0f712c734
-    script_url           : <script defer src="https://cloud.umami.is/script.js" data-website-id="00939e4c-2a8d-4ca9-af34-59c0f712c734"></script>
+    script_url           : "https://cloud.umami.is/script.js"
 
 
 # Site Author
