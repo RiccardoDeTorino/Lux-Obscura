@@ -83,8 +83,6 @@ tags:
   - resilience
   - antifragility
   - "United States"
-  - "Southeast Asia"
-  - EU
   - "Russia"
   - China
   - "Dollar Dominance"
@@ -162,7 +160,7 @@ tags:
   - "American Samoa"
   - "Northern Mariana Islands"
 
-# === PATHOCRACY & PSYCHOLOGY ===
+  # === PATHOCRACY & PSYCHOLOGY ===
   - Pathocracy
   - ponerology
   - psychopathy
@@ -190,7 +188,7 @@ tags:
   - sortition
   - "ancient Athens"
 
-# === ECONOMICS & MONETARY POLICY ===
+  # === ECONOMICS & MONETARY POLICY ===
   - markets
   - currency
   - "debt monetization"
@@ -218,7 +216,6 @@ tags:
   - "quantitative easing"
   - "quantitative tightening"
   - recession
-  - stagflation
   - "currency war"
   - gold
   - "safe haven"
@@ -320,7 +317,6 @@ tags:
   - "Child Tax Credit"
   - "Wealth Inequality"
   - "Corporate Layoffs"
-  - "Tech Giants"
   - "Elon Musk"
   - "Mark Zuckerberg"
   - "Bill Gates"
@@ -362,7 +358,6 @@ tags:
   - "JPMorgan"
   - "SoftBank"
   - "Sovereign Wealth Funds"
-  - "Sovereign Wealth Fund"
 
   # === CENTRAL BANKS & BANKING ===
   - BOJ
@@ -425,12 +420,10 @@ tags:
   - ZIRP
   - NIRP
   - "negative rates"
-  - "Federal Reserve"
   - "U.S. Treasury Securities"
   - "Treasury Bills"
   - "Reserve Requirements"
   - "Financial Stability"
-  - "Quantitative Easing"
 
   # === CRYPTO & BITCOIN ===
   - crypto
@@ -454,15 +447,6 @@ tags:
   - "medium of exchange"
   - Gresham's Law
   - Thier's Law
-  - hyperbitcoinization
-  - consensus
-  - "proof of work"
-  - mining
-  - "hash rate"
-  - "difficulty adjustment"
-  - halving
-  - "stock to flow"
-  - "plan B"
   - "Satoshi Nakamoto"
   - Nakamoto
   - consensus
@@ -555,7 +539,6 @@ tags:
   - Experian
   - TransUnion
   - "consumer reporting agency"
-  - CRA
   - "adverse action"
   - "risk-based pricing"
   - "credit denial"
@@ -610,7 +593,6 @@ tags:
   - foreclosure
   - REO
   - "real estate owned"
-  - "short sale"
   - "deficiency judgment"
   - "anti-deficiency law"
   - "non-recourse"
@@ -780,7 +762,6 @@ tags:
   - "Pandemic Fund"
   - PANDEM-2
   - "global health"
-  - "One Health"
   - AI
   - forecasting
   - simulation
@@ -818,18 +799,6 @@ tags:
   - trust
   - will
   - probate
-  - "tax planning"
-  - "estate tax"
-  - "gift tax"
-  - "generation skipping tax"
-  - GST
-  - "step up basis"
-  - "carryover basis"
-  - "like-kind exchange"
-  - "1031 exchange"
-  - "qualified opportunity zone"
-  - QOZ
-  - "Opportunity Zone"
   - "social security"
   - Medicare
   - Medicaid
@@ -1025,211 +994,8 @@ tags:
   - trust
   - will
   - probate
-  - "capital gains"
-  - "dividend tax"
-  - "income tax"
-  - "payroll tax"
-  - "corporate tax"
-  - "pass-through"
-  - "S corp"
-  - "C corp"
-  - LLC
-  - partnership
-  - "sole proprietorship"
-  - nonprofit
-  - 501c3
-  - "donor advised fund"
-  - DAF
-  - "private foundation"
-  - "public charity"
-  - "charitable deduction"
-  - "itemized deduction"
-  - "standard deduction"
-  - SALT
-  - "mortgage interest"
-  - "property tax"
-  - "state tax"
-  - "local tax"
-  - "federal tax"
-  - "tax bracket"
-  - "marginal rate"
-  - "effective rate"
-  - "tax credit"
-  - "tax deduction"
-  - "tax exemption"
-  - "tax deferral"
-  - "tax free"
-  - "tax advantaged"
-  - "municipal bond"
-  - "treasury bond"
-  - "corporate bond"
-  - "high yield"
-  - "junk bond"
-  - "investment grade"
-  - "credit rating"
-  - AAA
-  - AA
-  - A
-  - BBB
-  - BB
-  - B
-  - CCC
-  - CC
-  - C
-  - D
-  - default
-  - "Moody's"
-  - "S&P"
-  - Fitch
-  - "rating agency"
-  - "conflict of interest"
-  - "issuer pays"
-  - "investor pays"
-  - "subscription model"
-  - "regulatory capture"
-  - NRSRO
-  - "nationally recognized"
-  - "statistical rating organization"
-  - SEC
-  - "Federal Trade Commission"
-  - "Department of Justice"
-  - Antitrust
-  - "Securities Act"
-  - "Exchange Act"
-  - "Investment Company Act"
-  - "Investment Advisers Act"
-  - "Dodd-Frank"
-  - "Volcker Rule"
-  - "Glass-Steagall"
-  - "Bank Holding Company Act"
-  - "Gramm-Leach-Bliley"
-  - "Community Reinvestment Act"
-  - CRA
-  - redlining
-  - "fair lending"
-  - "equal credit opportunity"
-  - ECOA
-  - "Fair Housing Act"
-  - FHAct
-  - "Home Mortgage Disclosure Act"
-  - HMDA
-  - "Truth in Lending Act"
-  - TILA
-  - "Real Estate Settlement Procedures Act"
-  - RESPA
-  - "Fair Credit Reporting Act"
-  - FCRA
-  - "Fair Debt Collection Practices Act"
-  - FDCPA
-  - "Telephone Consumer Protection Act"
-  - TCPA
-  - "CAN-SPAM"
-  - "Do Not Call"
-  - "robocall"
-  - "spam"
-  - phishing
-  - "identity theft"
-  - "credit freeze"
-  - "fraud alert"
-  - "credit monitoring"
-  - "credit score"
-  - FICO
-  - VantageScore
-  - "credit report"
-  - "credit bureau"
-  - Equifax
-  - Experian
-  - TransUnion
-  - "consumer reporting agency"
-  - CRA
-  - "adverse action"
-  - "risk-based pricing"
-  - "credit denial"
-  - "credit limit"
-  - utilization
-  - "payment history"
-  - "credit mix"
-  - "new credit"
-  - "length of history"
-  - inquiry
-  - "hard inquiry"
-  - "soft inquiry"
-  - "rate shopping"
-  - "mortgage inquiry"
-  - "auto loan inquiry"
-  - "credit card inquiry"
-  - "personal loan inquiry"
-  - "student loan inquiry"
-  - "authorized user"
-  - "joint account"
-  - "co-signer"
-  - guarantor
-  - "secured card"
-  - "unsecured card"
-  - "credit builder loan"
-  - "secured loan"
-  - "unsecured loan"
-  - "personal loan"
-  - "debt consolidation"
-  - "balance transfer"
-  - "cash advance"
-  - "payday loan"
-  - "title loan"
-  - "pawn loan"
-  - "installment loan"
-  - "revolving credit"
-  - "line of credit"
-  - HELOC
-  - "home equity loan"
-  - "cash-out refinance"
-  - "rate and term refinance"
-  - "streamline refinance"
-  - HARP
-  - HAMP
-  - "making home affordable"
-  - "principal reduction"
-  - forbearance
-  - deferment
-  - modification
-  - "short sale"
-  - "deed in lieu"
-  - foreclosure
-  - REO
-  - "real estate owned"
-  - "short sale"
-  - "deficiency judgment"
-  - "anti-deficiency law"
-  - "non-recourse"
-  - recourse
-  - "personal liability"
-  - "asset protection"
-  - "homestead exemption"
-  - bankruptcy
-  - "Chapter 7"
-  - "Chapter 13"
-  - "Chapter 11"
-  - "Chapter 12"
-  - "Chapter 9"
-  - "means test"
-  - "automatic stay"
-  - discharge
-  - reaffirmation
-  - redemption
-  - surrender
-  - exemption
-  - "wildcard exemption"
-  - homestead
-  - vehicle
-  - "tools of trade"
-  - "retirement account"
-  - "life insurance"
-  - wages
-  - "public benefits"
-  - "Social Security"
-  - disability
-  - unemployment
-  - "workers comp"
-  - "veterans benefits"# === TECHNOLOGY & SOCIETY ===
+
+  # === TECHNOLOGY & SOCIETY ===
   - technology
   - "Jacques Ellul"
   - "Theodore Kaczynski"
@@ -1256,7 +1022,6 @@ tags:
   - "gene drives"
   - "synthetic biology"
   - "digital vaccine passports"
-  - surveillance
   - "social control"
   - "co-option of dissent"
   - universities
@@ -1294,7 +1059,6 @@ tags:
   - "leftist identity politics"
   - multiculturalism
   - "irreversibility"
-  - "illusion of choice"
   - "consumer choice"
   - grid
   - "microchip fabrication"
@@ -1304,69 +1068,64 @@ tags:
   - "thinking machines"
   - "human brain"
   - "predict purchase"
-  - "absolute efficiency"
-  - "black box effect"
-  - autonomization
-  - ubiquity
+  - "self-driving quality"
+  - "green technology"
+  - "sustainable development"
+  - "unintended consequences"
+  - hubris
+  - forecasting
+  - chaos
+  - "political labels"
   - infrastructure
-  - "power process"
-  - "surrogate activities"
+  - "social management of dissent"
+  - "system's neatest trick"
+  - "animal rights"
+  - "environmental justice"
+  - "anti-discrimination policies"
+  - "integration propaganda"
+  - "agitation propaganda"
+  - "power brokers"
+  - "leftist identity politics"
+  - multiculturalism
+  - "irreversibility"
+  - "consumer choice"
+  - grid
+  - "microchip fabrication"
+  - "global shipping"
+  - "camera networks"
+  - DNA
+  - "thinking machines"
+  - "human brain"
+  - "predict purchase"
   - boredom
   - "existential unease"
-  - CRISPR
-  - "gene editing"
-  - "gene drives"
   - "synthetic viruses"
   - "protein misfolds"
   - "soil microbiomes"
   - "government scientists"
   - "root networks"
   - "state apparatuses"
-  - "social control"
   - "molecular level"
   - databases
-  - "digital vaccine passports"
   - "genetic code"
   - "boarding pass"
-  - "co-option of dissent"
   - "ethical AI"
   - "tech firms"
   - "predictive policing"
   - "health monitoring"
   - "public safety"
-  - surveillance
-  - dependency
-  - compliance
   - "system norms"
   - "AI and biotechnology merge"
   - "self-reinforcing web"
   - "machine learning"
-  - "synthetic biology"
   - "social engineering"
   - monoculture
   - "measurable elements"
   - choices
-  - efficiency
-  - freedom
-  - revolution
   - "industrial system"
-  - "technical domination"
   - "utopian blueprints"
-  - "sustainable development"
-  - "primitive life"
-  - "nomadic hunting and gathering"
   - "face-to-face units"
   - "autonomous units"
-  - "ecological sustainability"
-  - "technical domination"
-  - reform
-  - "technical momentum"
-  - "mainstream political opinion"
-  - catastrophist
-  - Luddite
-  - "weight of evidence"
-  - "historical experience"
-  - "lived reality"
   - "technical society"
   - "self-stabilizing"
   - "absorbing opposition"
@@ -1374,11 +1133,8 @@ tags:
   - "technology as systemic environment"
   - "technical expansion"
   - "human dignity"
-  - autonomy
   - wildness
-  - "technical system"
   - "self-perpetuating"
-  - collapse
   - "environmental ruin"
   - "social anomie"
   - "engineered docility"
@@ -1391,9 +1147,6 @@ tags:
   - outdated
   - "realities of technique"
   - "deepest resistance"
-  - autonomy
-  - wildness
-  - freedom
   - marginal
   - obsolete
   - "Edward Bellamy"
@@ -1706,47 +1459,6 @@ tags:
   - "surveillance reform"
   - "predictive policing"
   - "pre-crime"
-  - "digital forensics"
-  - "biometric identification"
-  - "counter-surveillance"
-  - "surveillance failure"
-  - "law enforcement technology"
-  - "police investigation"
-  - "digital evidence"
-  - "investigative journalism"
-  - woke
-  - "stay woke"
-  - "Black Lives Matter"
-  - "Critical Race Theory"
-  - intersectionality
-  - "Kimberlé Crenshaw"
-  - "Derrick Bell"
-  - "interest convergence"
-  - "standpoint theory"
-  - "social construction of race"
-  - DEI
-  - "corporate DEI"
-  - ESG
-  - "woke-washing"
-  - "DEI backlash"
-  - "anti-woke legislation"
-  - "Stop W.O.K.E. Act"
-  - "executive orders"
-  - "corporate DEI rollback"
-  - "performative activism"
-  - "Dark Woke"
-  - coercion
-  - intimidation
-  - authoritarianism
-  - "cancel culture"
-  - deplatforming
-  - "free speech"
-  - "performative allegiance"
-  - burnout
-  - "democratic debate"
-  - "pluralistic society"
-  - "civic trust"
-  - "authoritarian tendencies"
 
   # === DEMOCRACY & POLITICAL PSYCHOLOGY ===
   - democracy
@@ -1827,7 +1539,6 @@ tags:
   - "Roy Bullock"
   - "Thomas Gerard"
   - espionage
-  - surveillance
   - "domestic spying"
   - counterintelligence
   - "Operation Eavesdrop"
