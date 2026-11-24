@@ -2,7 +2,7 @@
 title: "Fifty Years of Failure: U.S. Intervention in Venezuela"
 tagline: "How America Waged Economic Warfare and Covert Operations in Caracas"
 date: 2025-11-21
-tags: []
+tags: ["U.S. Intervention", "Venezuela", "Economic Warfare", "Sanctions", "Regime Change", "Oil Politics", "Monroe Doctrine", "Covert Operations", "CIA", "Maximum Pressure", "PDVSA", "Hugo Chavez", "Nicolas Maduro", "Juan Guaido", "Humanitarian Crisis", "Migration", "Cuba", "Russia", "China", "Iran", "National Endowment for Democracy", "USAID", "FLORIDA Lobby", "Marco Rubio", "International Law", "War Powers", "Secondary Sanctions", "Asset Seizure", "Blockade", "Economic Embargo", "Human Rights", "Democracy Promotion", "Petrocaribe", "ALBA"]
 
 header:
   image: /assets/images/Venezuela-Fifty-Years-of-Failure.jpg
@@ -199,4 +199,180 @@ The policy broke the people it claimed to help. Washington promised a “democra
 ---
 
 References:
+
+### **Part One (1919/2016)**
+
+- Cambridge University Press. (2019). US Economic and Financial Sanctions Against the Bolivarian Republic of Venezuela.
+
+- Canadian Dimension. (n.d.). The United States and Venezuela: Decades of Defeats and Destabilization.
+
+- Council on Foreign Relations. (2025). Timeline: Oil Dependence and U.S. Foreign Policy.
+
+- Council on Foreign Relations. (2025). Venezuela and the Rise of Chávez: A Background Discussion Paper.
+
+- Drake Law School, Vanderbilt University. (n.d.). The Transition from Private to Public Control in the Venezuelan Oil Industry.
+
+- Harvard University, David Rockefeller Center for Latin American Studies. (n.d.). Venezuela Before Chávez: Anatomy of an Economic Collapse.
+
+- History.com (U.S. State Department). (1940). Foreign Relations of the United States, 1940, Volume V.
+
+- History.com (U.S. State Department). (1946). Foreign Relations of the United States, 1946, Volume XI.
+
+- History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.
+
+- History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.
+
+- History.com (U.S. State Department). (1961). Foreign Relations of the United States, 1961-1963.
+
+- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.
+
+- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.
+
+- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976.
+
+- History.com (U.S. State Department). (1977). Foreign Relations of the United States, 1977-1980, Volume XXIV.
+
+- International Monetary Fund. (1999). Fads and Fashion in Economic Reforms: Washington Consensus.
+
+- Los Angeles Times. (2010). New Cables Reveal Frank U.S. Views on Latin America.
+
+- Majalla. (n.d.). From Friends to Foes: The Unravelling of US-Venezuela Ties.
+
+- People’s World. (n.d.). Venezuela 2002: The Coup Heard Around the World.
+
+- Penn Program on Regulation. (n.d.). Acknowledged Covert Activity and Regime Change Plans for Venezuela.
+
+- Salon. (2000). Venezuela’s President Is Playing With Fire.
+
+- ScienceDirect. (n.d.). The US-Venezuela-Cuba Triangle.
+
+- Stimson Center. (2025). The Quiet Demise of the Rio Treaty.
+
+- The Black Agenda Report. (n.d.). The Venezuela Coup 20 Years Later.
+
+- The World. (2019). Why US-Backed Aid to Venezuela Harkens Back to a Dark History of Covert Operation.
+
+- TriContinental: Institute for Social Research. (n.d.). They Are Making Venezuela’s Economy Scream.
+
+- U.S. Department of State. (1946). Historical Documents: Relations Between the United States and Venezuela.
+
+- U.S. Department of State. (1961). Kennedy Task Force on Latin America.
+
+- U.S. Department of State. (1969). Foreign Relations of the United States, 1969-1976.
+
+- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+
+- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+
+- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+
+- U.S. Department of State. (2015). Fact Sheet: Venezuela Executive Order.
+
+- U.S. Department of State. (n.d.). United States–Venezuela Relations.
+
+- Venezuelanalysis. (n.d.). A National, Popular, and Revolutionary Oil Policy for Venezuela.
+
+- Venezuelanalysis. (n.d.). Sanctions Kill.
+
+- Wikipedia. (2025). Foreign Policy of the Carter Administration.
+
+- Wikipedia. (2025). Sanctions During the Venezuelan Crisis.
+
+- Wikipedia. (2025). United States Involvement in Regime Change in Latin America.
+
+- Wikipedia. (2025). United States–Venezuela Relations.
+
+- Wilson Center. (n.d.). Caracas Is Not Warsaw: Lessons from Rafael Caldera for Solving Venezuela’s Political Crisis.
+
+### **Part Two (2017/2021)**
+
+- Al Jazeera. (2025). Timeline: 26 Years of Fraught U.S.-Venezuela Relations.
+
+- Argus Media. (n.d.). Venezuela Sanctions: Market Analysis & Energy Policy.
+
+- Center for Economic and Policy Research. (2019). Sanctions Caused 40,000 Deaths in Venezuela.
+
+- Council on Foreign Relations. (2020). Do U.S. Sanctions on Venezuela Work?
+
+- Congressional Research Service. (2020). Venezuela: Political Crisis and U.S. Policy.
+
+- Congressional Research Service. (2021). Venezuela: Overview of U.S. Sanctions Policy.
+
+- Office of Public Affairs. (2020). Justice Department Indicts Maduro on Narco-Terrorism Charges.
+
+- Foreign Policy. (2019). Venezuela’s Failed Coup, the U.S.’ Role, and the Future of Chávez.
+
+- Global Sanctions. (n.d.). Venezuela Sanctions.
+
+- HKLAW. (2019). U.S. Imposes Comprehensive Sanctions Blocking Property of the Venezuelan Government.
+
+- New York Times. (2019). U.S. Targets Venezuela With Tough Oil Sanctions.
+
+- PBS NewsHour. (2019). The Growing Tension Between Venezuela and the United States.
+
+- PBS NewsHour. (2021). Trump in Final Parting Shot Hits Venezuela With Sanctions.
+
+- Treasury Department. (2019). Treasury Sanctions Venezuela’s State-Owned Oil Company.
+
+- Treasury Department. (2025). Venezuela-Related Sanctions FAQs.
+
+- Treasury Department. (2025). Venezuela-Related Sanctions Program.
+
+- Trump White House. (2019). Statement from President Trump Recognizing Juan Guaidó.
+
+- U.S. Department of State. (2017-2021). A Democratic Crisis in Venezuela.
+
+- U.S. Department of State. (2017-2021). Sanctions Against PDVSA and Venezuela Oil Sector.
+
+- U.S. Department of State. (2017-2021). U.S. and International Community Actions on Venezuela.
+
+- U.S. Department of State. (2017-2021). Venezuela-Related Sanctions.
+
+- Venezuelanalysis. (n.d.). Sanctions Kill.
+
+- Washington Post. (2024). How Four U.S. Presidents Unleashed Economic Warfare.
+
+- White House. (2019). Fact Sheet: Venezuela Executive Order.
+
+- World Bank. (2020). Venezuela Economic Monitor.
+
+### **Part Three (2021/2025)**
+
+- Atlantic Council. (2023). Getting Venezuela’s Historic Humanitarian Accord Up and Running.
+
+- BBC News. (2025). Trump Authorises CIA in Venezuela as Maduro Asks for Dialogue.
+
+- Center for a New American Security. (2025). Sanctions by the Numbers: Spotlight on Venezuela.
+
+- Council on Foreign Relations. (2025). New U.S. National Security Strategy Prioritizes Western Hemisphere.
+
+- Council on Foreign Relations. (2025). Two US Policy Options for Venezuela: Shaping Reform vs. Regime Change.
+
+- Democracy Now. (2004). CIA Documents Show Bush Knew of 2002 Coup in Venezuela.
+
+- El País. (2025). CIA Activity Against Venezuelan Leaders Revives Specter of US Interventionism in Latin America.
+
+- Global Affairs. (2025). Trump’s Approach to Latin America Is Not Such an Outlier.
+
+- Guardian. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.
+
+- Just Security. (2025). Intelligence Committees and the CIA Covert Action in Venezuela.
+
+- New York Times. (2025). Trump Administration Authorizes Covert CIA Action in Venezuela.
+
+- PBS NewsHour. (2025). The Growing Tension Between Venezuela and the United States.
+
+- Progressive International. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.
+
+- Sycamore Institute. (2025). The Future of the U.S.-Venezuela Foreign Relations.
+
+- The Dialogue. (2025). Evolution or Revolution? U.S. Policy on Venezuela from Obama to Trump.
+
+- U.S. Department of State. (2021-2025). 2025 National Security Strategy.
+
+- U.S. Department of State. (2021-2025). Venezuela: Background and U.S. Relations.
+
+- U.S. Department of State. (2025). Venezuela-Related Sanctions.
+
+- White House. (2025). Imposing Tariffs on Countries Importing Venezuelan Oil.
 

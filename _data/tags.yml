@@ -39,9 +39,18 @@ tags:
   - "participatory democracy"
   - "direct democracy"
   - representation
-  - accountability
+- accountability
   - transparency
-# === WORLD LEADERS & FIGURES ===
+  - "U.S. Foreign Policy"
+  - "Covert Action"
+  - "Regime Change"
+  - "Nation Building"
+  - "Election Interference"
+  - "Sovereignty"
+  - "Non-Intervention"
+  - "Self-Determination"
+
+  # === WORLD LEADERS & FIGURES ===
   - Trump
   - "Donal Trump"
   - Musk
@@ -55,8 +64,20 @@ tags:
   - "Lynn Alden"
   - "Clive Boddy"
   - "Andrzej Lobaczewski"
-  - "Strategy Inc."
-# === GEOPOLITICS & REGIONS ===
+- "Strategy Inc."
+  - "Hugo Chavez"
+  - "Nicolas Maduro"
+  - "Juan Guaido"
+  - "Marco Rubio"
+  - "Elliott Abrams"
+  - "Maria Corina Machado"
+  - "Leopoldo Lopez"
+  - "Rómulo Betancourt"
+  - "Juan Pablo Pérez Alfonzo"
+  - "Carlos Andrés Pérez"
+  - "Richard Grenell"
+  - "Alena Douhan"
+  # === GEOPOLITICS & REGIONS ===
   - Japan
   - "Japan's Economic crisis"
   - "Southeast Asia"
@@ -86,11 +107,38 @@ tags:
   - "Dollar Dominance"
   - "Global Finance"
   - "Digital Yuan"
-  - Sanctions
+- Sanctions
   - Geopolitics
   - "Dollar Hegemony"
   - "International Finance"
-# === COUNTRIES (HYPERINFLATION EXAMPLES) ===
+  - "U.S. Intervention"
+  - "Economic Warfare"
+  - "Regime Change"
+  - "Covert Operations"
+  - "Maximum Pressure"
+  - "Humanitarian Crisis"
+  - "Migration"
+  - "Petrocaribe"
+  - "ALBA"
+  - "Monroe Doctrine"
+  - "International Law"
+  - "War Powers"
+  - "Secondary Sanctions"
+  - "Asset Seizure"
+  - "Economic Embargo"
+  - "Blockade"
+  - "Democracy Promotion"
+  - "Human Rights"
+  - "Oil Politics"
+  - "Cuba"
+  - "Iran"
+  - "Foreign Policy"
+  - "Latin America"
+  - "Hemispheric Dominance"
+  - "Resource Control"
+  - "Strategic Fiasco"
+
+  # === COUNTRIES (HYPERINFLATION EXAMPLES) ===
   - Weimar
   - Zimbabwe
   - Venezuela
