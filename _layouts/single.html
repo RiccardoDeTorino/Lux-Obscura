@@ -75,6 +75,13 @@ layout: default
         {% endif %}
         {% include page__taxonomy.html locale=locale %}
         {% include page__date.html locale=locale %}
+
+        <!-- View counter badge -->
+        <div class="page__views" style="margin-top: 1rem;">
+          <img src="https://views.vercel.app/?user=RiccardoDeTorino&repo=Lux-Obscura&page={{ page.url }}" 
+               alt="Page views" 
+               style="vertical-align: middle; border-radius: 4px;">
+        </div>
       </footer>
 
       {% if page.share %}{% include social-share.html locale=locale %}{% endif %}
