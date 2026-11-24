@@ -2,7 +2,7 @@
 title: "The Quiet Grid: How Automatic License Plate Readers Built America’s Largest Surveillance Network Without a Vote"
 tagline: "A System That Watches Everyone, All the Time"
 date: 2025-11-23
-tags: []
+tags: ["ALPR", "Surveillance", "Privacy", "Fourth Amendment", "Carpenter v. United States", "United States v. Jones", "Flock Safety", "Motorola Solutions", "Vigilant", "Rekor", "PIPS Technology", "LEARN Platform", "Public-Private Partnership", "Warrant Requirement", "Hot List", "Data Retention", "Mass Surveillance", "Constitutional Law", "ACLU", "EFF", "New Hampshire", "Virginia", "California", "HOA", "Homeowners Association", "ICE", "Protest Surveillance", "Self-Censorship", "Freedom of Association", "Anonymous Travel", "Third-Party Doctrine", "Location Tracking", "Vehicle Tracking"]
 
 header:
   image: /assets/images/The-Quiet-Grid.jpg
