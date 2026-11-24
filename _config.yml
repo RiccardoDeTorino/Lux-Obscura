@@ -141,6 +141,9 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
+  umami:
+    website_id           : # e.g., "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    script_url           : # e.g., "https://eu.umami.is/script.js" (or your self-hosted URL)
 
 
 # Site Author

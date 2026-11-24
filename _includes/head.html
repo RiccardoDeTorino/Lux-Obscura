@@ -27,3 +27,7 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+{% if site.analytics.umami.website_id and site.analytics.umami.script_url %}
+  <script defer src="{{ site.analytics.umami.script_url }}" data-website-id="{{ site.analytics.umami.website_id }}"></script>
+{% endif %}
