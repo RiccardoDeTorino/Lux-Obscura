@@ -49,8 +49,7 @@ tags:
   - "Sovereignty"
   - "Non-Intervention"
   - "Self-Determination"
-
-  # === WORLD LEADERS & FIGURES ===
+# === WORLD LEADERS & FIGURES ===
   - Trump
   - "Donal Trump"
   - Musk
@@ -77,7 +76,7 @@ tags:
   - "Carlos Andrés Pérez"
   - "Richard Grenell"
   - "Alena Douhan"
-  # === GEOPOLITICS & REGIONS ===
+# === GEOPOLITICS & REGIONS ===
   - Japan
   - "Japan's Economic crisis"
   - "Southeast Asia"
@@ -113,7 +112,6 @@ tags:
   - "International Finance"
   - "U.S. Intervention"
   - "Economic Warfare"
-  - "Regime Change"
   - "Covert Operations"
   - "Maximum Pressure"
   - "Humanitarian Crisis"
@@ -137,8 +135,7 @@ tags:
   - "Hemispheric Dominance"
   - "Resource Control"
   - "Strategic Fiasco"
-
-  # === COUNTRIES (HYPERINFLATION EXAMPLES) ===
+# === COUNTRIES (HYPERINFLATION EXAMPLES) ===
   - Weimar
   - Zimbabwe
   - Venezuela
@@ -146,7 +143,7 @@ tags:
   - Turkey
   - Lebanon
   - Sri Lanka
-  # === US STATES ===
+# === US STATES ===
   - Alaska
   - Alabama
   - Arizona
@@ -870,7 +867,7 @@ tags:
   - "Surveillance Infrastructure"
   - "Privacy Erosion"
   - "Surveillance Creep"
-  # === TAX & LEGAL ===
+# === TAX & LEGAL ===
   - "tax planning"
   - "estate tax"
   - "gift tax"
@@ -896,7 +893,7 @@ tags:
   - "Search and Seizure"
   - "Probable Cause"
   - "Exclusionary Rule"
-  # === TECHNOLOGY & SOCIETY ===
+# === TECHNOLOGY & SOCIETY ===
   - technology
   - "Jacques Ellul"
   - "Theodore Kaczynski"
@@ -1141,11 +1138,8 @@ tags:
   - equality
   - discrimination
   - "Arabic language"
-  - "self-determination"
-  - "constitutional law"
   - "constitutional paradox"
   - "judicial review"
-  - "Supreme Court"
   - "Druze community"
   - "military service"
   - "social cohesion"
@@ -1153,8 +1147,6 @@ tags:
   - "identity politics"
   - "ethnocratic urbanism"
   - "residential segregation"
-  - "international law"
-  - "human rights"
   - ICCPR
   - "European Union"
   - "diplomatic relations"
@@ -1285,7 +1277,6 @@ tags:
   - "red teaming"
   - "AI security"
 - "emergent capabilities"
-1259: # === SURVEILLANCE & BIOMETRIC TECHNOLOGY ===
   - "mass surveillance"
   - "surveillance state"
   - "facial recognition"
@@ -1324,14 +1315,8 @@ tags:
   - "Hot List"
   - "Data Retention"
   - "License Plate Recognition"
-  - "Vehicle Tracking"
-  - "Camera Networks"
-  - "Cloud Surveillance"
-  - "Machine Vision"
-  - "Infrared Cameras"
   - "Public-Private Partnership"
   - "Warrantless Search"
-  - "Third-Party Doctrine"
   - "Police Abuse"
   - "Protest Surveillance"
   - "Mosque Surveillance"
