@@ -202,177 +202,177 @@ References:
 
 ### **Part One (1919/2016)**
 
-- Cambridge University Press. (2019). US Economic and Financial Sanctions Against the Bolivarian Republic of Venezuela.
+- [Cambridge University Press. (2019). US Economic and Financial Sanctions Against the Bolivarian Republic of Venezuela.](https://www.cambridge.org/core/books/economic-and-financial-sanctions-of-the-united-states/us-economic-and-financial-sanctions-against-the-bolivarian-republic-of-venezuela/1D9434D7CF1E6645DD18F17578AF574C)
 
-- Canadian Dimension. (n.d.). The United States and Venezuela: Decades of Defeats and Destabilization.
+- [Canadian Dimension. (n.d.). The United States and Venezuela: Decades of Defeats and Destabilization.](https://canadiandimension.com/articles/view/the-united-states-and-venezuela-decades-of-defeats-and-destabilization)
 
-- Council on Foreign Relations. (2025). Timeline: Oil Dependence and U.S. Foreign Policy.
+- [Council on Foreign Relations. (2025). Timeline: Oil Dependence and U.S. Foreign Policy.](https://www.cfr.org/timeline/oil-dependence-and-us-foreign-policy)
 
-- Council on Foreign Relations. (2025). Venezuela and the Rise of Chávez: A Background Discussion Paper.
+- [Council on Foreign Relations. (2025). Venezuela and the Rise of Chávez: A Background Discussion Paper.](https://www.cfr.org/backgrounder/venezuela-and-rise-chavez-background-discussion-paper)
 
-- Drake Law School, Vanderbilt University. (n.d.). The Transition from Private to Public Control in the Venezuelan Oil Industry.
+- [Drake Law School, Vanderbilt University. (n.d.). The Transition from Private to Public Control in the Venezuelan Oil Industry.](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2516&context=vjtl)
 
-- Harvard University, David Rockefeller Center for Latin American Studies. (n.d.). Venezuela Before Chávez: Anatomy of an Economic Collapse.
+- [Harvard University, David Rockefeller Center for Latin American Studies. (n.d.). Venezuela Before Chávez: Anatomy of an Economic Collapse.](https://revista.drclas.harvard.edu/venezuela-before-chavez-anatomy-of-an-economic-collapse/)
 
-- History.com (U.S. State Department). (1940). Foreign Relations of the United States, 1940, Volume V.
+- [History.com (U.S. State Department). (1940). Foreign Relations of the United States, 1940, Volume V.](https://history.state.gov/historicaldocuments/frus1940v05/d236)
 
-- History.com (U.S. State Department). (1946). Foreign Relations of the United States, 1946, Volume XI.
+- [History.com (U.S. State Department). (1946). Foreign Relations of the United States, 1946, Volume XI.](https://history.state.gov/historicaldocuments/frus1946v11/d1122)
 
-- History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.
+- [History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.](https://history.state.gov/historicaldocuments/frus1948v09/comp19)
 
-- History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.
+- [History.com (U.S. State Department). (1948). Foreign Relations of the United States, 1948, Volume IX.](https://history.state.gov/historicaldocuments/frus1948v09/d113)
 
-- History.com (U.S. State Department). (1961). Foreign Relations of the United States, 1961-1963.
+- [History.com (U.S. State Department). (1961). Foreign Relations of the United States, 1961-1963.](https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/d222)
 
-- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.
+- [History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.](https://history.state.gov/historicaldocuments/frus1969-76v36/d36)
 
-- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.
+- [History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976, Volume XXXVI.](https://history.state.gov/historicaldocuments/frus1969-76v36/d103)
 
-- History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976.
+- [History.com (U.S. State Department). (1969). Foreign Relations of the United States, 1969-1976.](https://history.state.gov/historicaldocuments/frus1969-76ve11p2/d389)
 
-- History.com (U.S. State Department). (1977). Foreign Relations of the United States, 1977-1980, Volume XXIV.
+- [History.com (U.S. State Department). (1977). Foreign Relations of the United States, 1977-1980, Volume XXIV.](https://history.state.gov/historicaldocuments/frus1977-80v24/d334)
 
-- International Monetary Fund. (1999). Fads and Fashion in Economic Reforms: Washington Consensus.
+- [International Monetary Fund. (1999). Fads and Fashion in Economic Reforms: Washington Consensus.](https://www.imf.org/external/pubs/ft/seminar/1999/reforms/naim.htm)
 
-- Los Angeles Times. (2010). New Cables Reveal Frank U.S. Views on Latin America.
+- [Los Angeles Times. (2010). New Cables Reveal Frank U.S. Views on Latin America.](https://www.latimes.com/archives/blogs/la-plaza/story/2010-12-02/new-cables-reveal-frank-u-s-views-on-latin-america-from-argentina-to-venezuela)
 
-- Majalla. (n.d.). From Friends to Foes: The Unravelling of US-Venezuela Ties.
+- [Majalla. (n.d.). From Friends to Foes: The Unravelling of US-Venezuela Ties.](https://en.majalla.com/node/327588/politics/friends-foes-unravelling-us-venezuela-ties)
 
-- People’s World. (n.d.). Venezuela 2002: The Coup Heard Around the World.
+- [People’s World. (n.d.). Venezuela 2002: The Coup Heard Around the World.](https://peoplesworld.org/article/venezuela-2002-the-coup-heard-around-the-world/)
 
-- Penn Program on Regulation. (n.d.). Acknowledged Covert Activity and Regime Change Plans for Venezuela.
+- [Penn Program on Regulation. (n.d.). Acknowledged Covert Activity and Regime Change Plans for Venezuela.](https://www.penncerl.org/the-rule-of-law-post/acknowledged-covert-activity-and-regime-change-plans-for-venezuela/)
 
-- Salon. (2000). Venezuela’s President Is Playing With Fire.
+- [Salon. (2000). Venezuela’s President Is Playing With Fire.](https://www.salon.com/2000/08/17/venezuela_2/)
 
-- ScienceDirect. (n.d.). The US-Venezuela-Cuba Triangle.
+- [ScienceDirect. (n.d.). The US-Venezuela-Cuba Triangle.](https://theconversation.com/the-us-venezuela-cuba-triangle-35745)
 
-- Stimson Center. (2025). The Quiet Demise of the Rio Treaty.
+- [Stimson Center. (2025). The Quiet Demise of the Rio Treaty.](https://www.stimson.org/2025/the-quiet-demise-of-the-rio-treaty/)
 
-- The Black Agenda Report. (n.d.). The Venezuela Coup 20 Years Later.
+- [The Black Agenda Report. (n.d.). The Venezuela Coup 20 Years Later.](https://www.blackagendareport.com/venezuela-coup-20-years-later)
 
-- The World. (2019). Why US-Backed Aid to Venezuela Harkens Back to a Dark History of Covert Operation.
+- [The World. (2019). Why US-Backed Aid to Venezuela Harkens Back to a Dark History of Covert Operation.](https://theworld.org/stories/2019/02/22/why-us-backed-aid-venezuela-harkens-back-dark-history-covert-operations)
 
-- TriContinental: Institute for Social Research. (n.d.). They Are Making Venezuela’s Economy Scream.
+- [TriContinental: Institute for Social Research. (n.d.). They Are Making Venezuela’s Economy Scream.](https://thetricontinental.org/newsletterissue/us-sanctions-venezuela-chile/)
 
-- U.S. Department of State. (1946). Historical Documents: Relations Between the United States and Venezuela.
+- [U.S. Department of State. (1946). Historical Documents: Relations Between the United States and Venezuela.](https://history.state.gov/historicaldocuments/frus1946v11/d1122)
 
-- U.S. Department of State. (1961). Kennedy Task Force on Latin America.
+- [U.S. Department of State. (1961). Kennedy Task Force on Latin America.](https://history.state.gov/historicaldocuments/frus1961-63v10-12mSupp/d222)
 
-- U.S. Department of State. (1969). Foreign Relations of the United States, 1969-1976.
+- [U.S. Department of State. (1969). Foreign Relations of the United States, 1969-1976.](https://history.state.gov/historicaldocuments/frus1969-76ve10/ch20)
 
-- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+- [U.S. Department of State. (2009). Historical Documents: Johnson Administration.](https://2001-2009.state.gov/r/pa/ho/frus/johnsonlb/xxxi/36270.htm)
 
-- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+- [U.S. Department of State. (2009). Historical Documents: Johnson Administration.](https://2001-2009.state.gov/r/pa/ho/frus/johnsonlb/xxxi/36337.htm)
 
-- U.S. Department of State. (2009). Historical Documents: Johnson Administration.
+- [U.S. Department of State. (2009). Historical Documents: Johnson Administration.](https://2001-2009.state.gov/r/pa/ho/frus/johnsonlb/xxxii/44734.htm)
 
-- U.S. Department of State. (2015). Fact Sheet: Venezuela Executive Order.
+- [U.S. Department of State. (2015). Fact Sheet: Venezuela Executive Order.](https://obamawhitehouse.archives.gov/the-press-office/2015/03/09/fact-sheet-venezuela-executive-order)
 
-- U.S. Department of State. (n.d.). United States–Venezuela Relations.
+- [U.S. Department of State. (n.d.). United States–Venezuela Relations.](https://2009-2017.state.gov/r/pa/ei/bgn/35766.htm)
 
-- Venezuelanalysis. (n.d.). A National, Popular, and Revolutionary Oil Policy for Venezuela.
+- [Venezuelanalysis. (n.d.). A National, Popular, and Revolutionary Oil Policy for Venezuela.](https://venezuelanalysis.com/analysis/1182/)
 
-- Venezuelanalysis. (n.d.). Sanctions Kill.
+- [Venezuelanalysis. (n.d.). Sanctions Kill.](https://venezuelanalysis.com/sanctions-kill/)
 
-- Wikipedia. (2025). Foreign Policy of the Carter Administration.
+- [Wikipedia. (2025). Foreign Policy of the Carter Administration.](https://en.wikipedia.org/wiki/Foreign_policy_of_the_Carter_administration)
 
-- Wikipedia. (2025). Sanctions During the Venezuelan Crisis.
+- [Wikipedia. (2025). Sanctions During the Venezuelan Crisis.](https://en.wikipedia.org/wiki/Sanctions_during_the_Venezuelan_crisis)
 
-- Wikipedia. (2025). United States Involvement in Regime Change in Latin America.
+- [Wikipedia. (2025). United States Involvement in Regime Change in Latin America.](https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change_in_Latin_America)
 
-- Wikipedia. (2025). United States–Venezuela Relations.
+- [Wikipedia. (2025). United States–Venezuela Relations.](https://en.wikipedia.org/wiki/United_States%E2%80%93Venezuela_relations)
 
-- Wilson Center. (n.d.). Caracas Is Not Warsaw: Lessons from Rafael Caldera for Solving Venezuela’s Political Crisis.
+- [Wilson Center. (n.d.). Caracas Is Not Warsaw: Lessons from Rafael Caldera for Solving Venezuela’s Political Crisis.](https://www.wilsoncenter.org/article/caracas-not-warsaw-lessons-rafael-caldera-solving-venezuelas-political-crisis)
 
 ### **Part Two (2017/2021)**
 
-- Al Jazeera. (2025). Timeline: 26 Years of Fraught U.S.-Venezuela Relations.
+- [Al Jazeera. (2025). Timeline: 26 Years of Fraught U.S.-Venezuela Relations.](https://www.aljazeera.com/news/2025/11/25/timeline-26-years-of-fraught-us-venezuela-relations)
 
-- Argus Media. (n.d.). Venezuela Sanctions: Market Analysis & Energy Policy.
+- [Argus Media. (n.d.). Venezuela Sanctions: Market Analysis & Energy Policy.](https://www.argusmedia.com/en/news-and-insights/topical-market-themes/venezuela-sanctions-spotlight)
 
-- Center for Economic and Policy Research. (2019). Sanctions Caused 40,000 Deaths in Venezuela.
+- [Center for Economic and Policy Research. (2019). Sanctions Caused 40,000 Deaths in Venezuela.](https://cepr.net/newsroom/report-finds-us-sanctions-on-venezuela-are-responsible-for-tens-of-thousands-of-deaths/)
 
-- Council on Foreign Relations. (2020). Do U.S. Sanctions on Venezuela Work?
+- [Council on Foreign Relations. (2020). Do U.S. Sanctions on Venezuela Work?](https://www.cfr.org/in-brief/do-us-sanctions-venezuela-work)
 
-- Congressional Research Service. (2020). Venezuela: Political Crisis and U.S. Policy.
+- [Congressional Research Service. (2020). Venezuela: Political Crisis and U.S. Policy.](https://www.congress.gov/crs-product/IF10230)
 
-- Congressional Research Service. (2021). Venezuela: Overview of U.S. Sanctions Policy.
+- [Congressional Research Service. (2021). Venezuela: Overview of U.S. Sanctions Policy.](https://www.congress.gov/crs-product/R44841)
 
-- Office of Public Affairs. (2020). Justice Department Indicts Maduro on Narco-Terrorism Charges.
+- [Office of Public Affairs. (2020). Justice Department Indicts Maduro on Narco-Terrorism Charges.](https://www.justice.gov/archives/opa/pr/nicol-s-maduro-moros-and-14-current-and-former-venezuelan-officials-charged-narco-terrorism)
 
-- Foreign Policy. (2019). Venezuela’s Failed Coup, the U.S.’ Role, and the Future of Chávez.
+- [Foreign Policy. (2019). Venezuela’s Failed Coup, the U.S.’ Role, and the Future of Chávez.](https://fpif.org/venezuelas_failed_coup_the_us_role_and_the_future_of_hugo_chaacutevez/)
 
-- Global Sanctions. (n.d.). Venezuela Sanctions.
+- [Global Sanctions. (n.d.). Venezuela Sanctions.](https://globalsanctions.com/region/venezuela/)
 
-- HKLAW. (2019). U.S. Imposes Comprehensive Sanctions Blocking Property of the Venezuelan Government.
+- [HKLAW. (2019). U.S. Imposes Comprehensive Sanctions Blocking Property of the Venezuelan Government.](https://www.hklaw.com/en/insights/publications/2019/08/us-imposes-comprehensive-sanctions-blocking-property-of-the-government)
 
-- New York Times. (2019). U.S. Targets Venezuela With Tough Oil Sanctions.
+- [New York Times. (2019). U.S. Targets Venezuela With Tough Oil Sanctions.](https://www.nytimes.com/2019/01/28/us/politics/venezuela-sanctions-trump-oil.html)
 
-- PBS NewsHour. (2019). The Growing Tension Between Venezuela and the United States.
+- [PBS NewsHour. (2019). The Growing Tension Between Venezuela and the United States.](https://www.pbs.org/newshour/show/the-growing-tension-between-venezuela-and-the-united-states)
 
-- PBS NewsHour. (2021). Trump in Final Parting Shot Hits Venezuela With Sanctions.
+- [PBS NewsHour. (2021). Trump in Final Parting Shot Hits Venezuela With Sanctions.](https://www.pbs.org/newshour/politics/trump-in-final-parting-shot-hits-venezuela-with-sanctions)
 
-- Treasury Department. (2019). Treasury Sanctions Venezuela’s State-Owned Oil Company.
+- [Treasury Department. (2019). Treasury Sanctions Venezuela’s State-Owned Oil Company.](https://home.treasury.gov/news/press-releases/sm594)
 
-- Treasury Department. (2025). Venezuela-Related Sanctions FAQs.
+- [Treasury Department. (2025). Venezuela-Related Sanctions FAQs.](https://ofac.treasury.gov/faqs/topic/1581)
 
-- Treasury Department. (2025). Venezuela-Related Sanctions Program.
+- [Treasury Department. (2025). Venezuela-Related Sanctions Program.](https://ofac.treasury.gov/sanctions-programs-and-country-information/venezuela-related-sanctions)
 
-- Trump White House. (2019). Statement from President Trump Recognizing Juan Guaidó.
+- [Trump White House. (2019). Statement from President Trump Recognizing Juan Guaidó.](https://trumpwhitehouse.archives.gov/briefings-statements/statement-president-donald-j-trump-recognizing-venezuelan-national-assembly-president-juan-guaido-interim-president-venezuela/)
 
-- U.S. Department of State. (2017-2021). A Democratic Crisis in Venezuela.
+- [U.S. Department of State. (2017-2021). A Democratic Crisis in Venezuela.](https://2017-2021.state.gov/a-democratic-crisis-in-venezuela/)
 
-- U.S. Department of State. (2017-2021). Sanctions Against PDVSA and Venezuela Oil Sector.
+- [U.S. Department of State. (2017-2021). Sanctions Against PDVSA and Venezuela Oil Sector.](https://2017-2021.state.gov/sanctions-against-pdvsa-and-venezuela-oil-sector/)
 
-- U.S. Department of State. (2017-2021). U.S. and International Community Actions on Venezuela.
+- [U.S. Department of State. (2017-2021). U.S. and International Community Actions on Venezuela.](https://2017-2021.state.gov/u-s-and-international-community-actions-on-venezuela/)
 
-- U.S. Department of State. (2017-2021). Venezuela-Related Sanctions.
+- [U.S. Department of State. (2017-2021). Venezuela-Related Sanctions.](https://2017-2021.state.gov/venezuela-related-sanctions/)
 
-- Venezuelanalysis. (n.d.). Sanctions Kill.
+- [Venezuelanalysis. (n.d.). Sanctions Kill.](https://venezuelanalysis.com/sanctions-kill/)
 
-- Washington Post. (2024). How Four U.S. Presidents Unleashed Economic Warfare.
+- [Washington Post. (2024). How Four U.S. Presidents Unleashed Economic Warfare.](https://www.washingtonpost.com/business/interactive/2024/us-sanction-countries-work/)
 
-- White House. (2019). Fact Sheet: Venezuela Executive Order.
+- [White House. (2019). Fact Sheet: Venezuela Executive Order.](https://obamawhitehouse.archives.gov/the-press-office/2015/03/09/fact-sheet-venezuela-executive-order)
 
-- World Bank. (2020). Venezuela Economic Monitor.
+- [World Bank. (2020). Venezuela Economic Monitor.](https://data.worldbank.org/country/venezuela-rb)
 
 ### **Part Three (2021/2025)**
 
-- Atlantic Council. (2023). Getting Venezuela’s Historic Humanitarian Accord Up and Running.
+- [Atlantic Council. (2023). Getting Venezuela’s Historic Humanitarian Accord Up and Running.](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/getting-venezuelas-historic-humanitarian-accord-up-and-running/)
 
-- BBC News. (2025). Trump Authorises CIA in Venezuela as Maduro Asks for Dialogue.
+- [BBC News. (2025). Trump Authorises CIA in Venezuela as Maduro Asks for Dialogue.](https://www.bbc.com/news/articles/c0ex1jq9pdvo)
 
-- Center for a New American Security. (2025). Sanctions by the Numbers: Spotlight on Venezuela.
+- [Center for a New American Security. (2025). Sanctions by the Numbers: Spotlight on Venezuela.](https://www.cnas.org/publications/reports/sanctions-by-the-numbers-3)
 
-- Council on Foreign Relations. (2025). New U.S. National Security Strategy Prioritizes Western Hemisphere.
+- [Council on Foreign Relations. (2025). New U.S. National Security Strategy Prioritizes Western Hemisphere.](https://www.cfr.org/article/new-us-national-security-strategy-prioritizes-western-hemisphere)
 
-- Council on Foreign Relations. (2025). Two US Policy Options for Venezuela: Shaping Reform vs. Regime Change.
+- [Council on Foreign Relations. (2025). Two US Policy Options for Venezuela: Shaping Reform vs. Regime Change.](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/two-us-policy-options-for-venezuela/)
 
-- Democracy Now. (2004). CIA Documents Show Bush Knew of 2002 Coup in Venezuela.
+- [Democracy Now. (2004). CIA Documents Show Bush Knew of 2002 Coup in Venezuela.](https://www.democracynow.org/2004/11/29/cia_documents_show_bush_knew_of)
 
-- El País. (2025). CIA Activity Against Venezuelan Leaders Revives Specter of US Interventionism in Latin America.
+- [El País. (2025). CIA Activity Against Venezuelan Leaders Revives Specter of US Interventionism in Latin America.](https://english.elpais.com/international/2025-10-20/cia-activity-against-venezuelan-leaders-revives-specter-of-us-interventionism-in-latin-america.html)
 
-- Global Affairs. (2025). Trump’s Approach to Latin America Is Not Such an Outlier.
+- [Global Affairs. (2025). Trump’s Approach to Latin America Is Not Such an Outlier.](https://globalaffairs.org/commentary/analysis/trumps-approach-latin-america-not-such-outlier)
 
-- Guardian. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.
+- [Guardian. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.](https://www.theguardian.com/us-news/2025/oct/15/trump-venezuela-cia-maduro)
 
-- Just Security. (2025). Intelligence Committees and the CIA Covert Action in Venezuela.
+- [Just Security. (2025). Intelligence Committees and the CIA Covert Action in Venezuela.](https://www.justsecurity.org/123701/intelligence-committees-cia-venezuela/)
 
-- New York Times. (2025). Trump Administration Authorizes Covert CIA Action in Venezuela.
+- [New York Times. (2025). Trump Administration Authorizes Covert CIA Action in Venezuela.](https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html)
 
-- PBS NewsHour. (2025). The Growing Tension Between Venezuela and the United States.
+- [PBS NewsHour. (2025). The Growing Tension Between Venezuela and the United States.](https://www.pbs.org/newshour/show/the-growing-tension-between-venezuela-and-the-united-states)
 
-- Progressive International. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.
+- [Progressive International. (2025). Trump Approves Lethal Covert CIA Operations in Venezuela.](https://progressive.international/wire/2025-10-17-trump-approves-lethal-covert-cia-operations-in-venezuela-as-another-strike-in-the-caribbean-kills-six/en/)
 
-- Sycamore Institute. (2025). The Future of the U.S.-Venezuela Foreign Relations.
+- [Sycamore Institute. (2025). The Future of the U.S.-Venezuela Foreign Relations.](https://www.sycamoreinstitute.org/post/the-future-of-the-u-s-venezuela-foreign-relations)
 
-- The Dialogue. (2025). Evolution or Revolution? U.S. Policy on Venezuela from Obama to Trump.
+- [The Dialogue. (2025). Evolution or Revolution? U.S. Policy on Venezuela from Obama to Trump.](https://thedialogue.org/analysis/evolution-or-revolution-u-s-policy-on-venezuela-from-obama-to-trump)
 
-- U.S. Department of State. (2021-2025). 2025 National Security Strategy.
+- [U.S. Department of State. (2021-2025). 2025 National Security Strategy.](https://www.whitehouse.gov/wp-content/uploads/2025/12/2025-National-Security-Strategy.pdf)
 
-- U.S. Department of State. (2021-2025). Venezuela: Background and U.S. Relations.
+- [U.S. Department of State. (2021-2025). Venezuela: Background and U.S. Relations.](https://www.congress.gov/crs-product/R44841)
 
-- U.S. Department of State. (2025). Venezuela-Related Sanctions.
+- [U.S. Department of State. (2025). Venezuela-Related Sanctions.](https://2021-2025.state.gov/division-for-counter-threat-finance-and-sanctions/venezuela-related-sanctions/)
 
-- White House. (2025). Imposing Tariffs on Countries Importing Venezuelan Oil.
+- [White House. (2025). Imposing Tariffs on Countries Importing Venezuelan Oil.](https://www.whitehouse.gov/presidential-actions/2025/03/imposing-tariffs-on-countries-importing-venezuelan-oil/)
 
