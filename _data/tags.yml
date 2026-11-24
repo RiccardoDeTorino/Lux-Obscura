@@ -1,8 +1,8 @@
-# Curated tag list - organized by topic
+﻿# Curated tag list - organized by topic
 # Add new tags in appropriate section
 
 tags:
-  # === POLITICS & GOVERNANCE ===
+# === POLITICS & GOVERNANCE ===
   - Government
   - politics
   - Democracy
@@ -41,8 +41,7 @@ tags:
   - representation
   - accountability
   - transparency
-
-  # === WORLD LEADERS & FIGURES ===
+# === WORLD LEADERS & FIGURES ===
   - Trump
   - "Donal Trump"
   - Musk
@@ -57,8 +56,7 @@ tags:
   - "Clive Boddy"
   - "Andrzej Lobaczewski"
   - "Strategy Inc."
-
-  # === GEOPOLITICS & REGIONS ===
+# === GEOPOLITICS & REGIONS ===
   - Japan
   - "Japan's Economic crisis"
   - "Southeast Asia"
@@ -92,8 +90,7 @@ tags:
   - Geopolitics
   - "Dollar Hegemony"
   - "International Finance"
-
-  # === COUNTRIES (HYPERINFLATION EXAMPLES) ===
+# === COUNTRIES (HYPERINFLATION EXAMPLES) ===
   - Weimar
   - Zimbabwe
   - Venezuela
@@ -101,8 +98,7 @@ tags:
   - Turkey
   - Lebanon
   - Sri Lanka
-
-  # === US STATES ===
+# === US STATES ===
   - Alaska
   - Alabama
   - Arizona
@@ -159,8 +155,7 @@ tags:
   - "Virgin Islands"
   - "American Samoa"
   - "Northern Mariana Islands"
-
-  # === PATHOCRACY & PSYCHOLOGY ===
+# === PATHOCRACY & PSYCHOLOGY ===
   - Pathocracy
   - ponerology
   - psychopathy
@@ -173,22 +168,16 @@ tags:
   - screening
   - assessment
   - "Political Ponerology"
-  - "Andrzej Lobaczewski"
-  - "Clive Boddy"
   - CEOs
   - leaders
   - power
   - society
-  - totalitarianism
-  - oligarchy
   - propaganda
   - empathy
   - "corporate governance"
   - "ethical leadership"
-  - sortition
   - "ancient Athens"
-
-  # === ECONOMICS & MONETARY POLICY ===
+# === ECONOMICS & MONETARY POLICY ===
   - markets
   - currency
   - "debt monetization"
@@ -197,7 +186,6 @@ tags:
   - "digital dolar"
   - FIAT
   - "digital ecosystem"
-  - "De-dollarization"
   - "corporate power"
   - "currency reserves"
   - consumer
@@ -216,7 +204,6 @@ tags:
   - "quantitative easing"
   - "quantitative tightening"
   - recession
-  - "currency war"
   - gold
   - "safe haven"
   - "risk premium"
@@ -246,8 +233,6 @@ tags:
   - Thier's Law
   - hyperbitcoinization
   - "Bitcoin standard"
-  - "Satoshi Nakamoto"
-  - Nakamoto
   - consensus
   - "proof of work"
   - mining
@@ -257,7 +242,6 @@ tags:
   - "stock to flow"
   - "plan B"
   - SNAP
-  - Lobbying
   - Corporate influence
   - Soda
   - Processed food
@@ -304,10 +288,7 @@ tags:
   - SNAP-Ed
   - "Digital Dollar"
   - "National Debt"
-  - "Monetary Policy"
-  - "Debt Monetization"
   - "Private-Public Partnership"
-  - "Quantitative Easing"
   - "Global Basic Income"
   - "Universal Basic Income"
   - "AI-Driven Unemployment"
@@ -329,7 +310,6 @@ tags:
   - "AI Bubble"
   - "Circular Financing"
   - "Vendor Financing"
-  - "Financial Engineering"
   - "Off-Balance-Sheet Accounting"
   - "Collateralized Loan Obligations"
   - "Rating Agencies"
@@ -358,15 +338,12 @@ tags:
   - "JPMorgan"
   - "SoftBank"
   - "Sovereign Wealth Funds"
-
-  # === CENTRAL BANKS & BANKING ===
+# === CENTRAL BANKS & BANKING ===
   - BOJ
   - "Bank of Japan"
   - "U.S. Treasury"
   - "yield curve"
   - bonds
-  - "quantitative easing"
-  - "quantitative tightening"
   - QE
   - QT
   - "balance sheet"
@@ -388,7 +365,6 @@ tags:
   - SRF
   - "discount window"
   - "lender of last resort"
-  - "too big to fail"
   - moral hazard
   - bailout
   - bail-in
@@ -424,40 +400,17 @@ tags:
   - "Treasury Bills"
   - "Reserve Requirements"
   - "Financial Stability"
-
-  # === CRYPTO & BITCOIN ===
-  - crypto
+# === CRYPTO & BITCOIN ===
   - Bitcoin
   - Metaplanet
   - "carry trade"
   - "short squeeze"
   - "corporate treasury"
-  - "Michael Saylor"
-  - "proof of work"
-  - mining
-  - "hash rate"
-  - "difficulty adjustment"
-  - halving
-  - "stock to flow"
-  - "plan B"
-  - "Bitcoin standard"
-  - hyperbitcoinization
-  - "store of value"
-  - "unit of account"
-  - "medium of exchange"
-  - Gresham's Law
-  - Thier's Law
-  - "Satoshi Nakamoto"
-  - Nakamoto
-  - consensus
   - Stablecoins
   - Cryptocurrency
   - "Blockchain Technology"
   - "Central Bank Digital Currencies"
-
-  # === FINANCIAL MARKETS & INSTRUMENTS ===
-  - "yield curve"
-  - bonds
+# === FINANCIAL MARKETS & INSTRUMENTS ===
   - "sovereign debt"
   - "credit risk"
   - "default risk"
@@ -484,7 +437,6 @@ tags:
   - "issuer pays"
   - "investor pays"
   - "subscription model"
-  - "regulatory capture"
   - NRSRO
   - "nationally recognized"
   - "statistical rating organization"
@@ -633,12 +585,9 @@ tags:
   - "Know Your Customer"
   - "Bankruptcy Law"
   - "Regulatory Framework"
-
-  # === INVESTING & FINANCE ===
-  - "financial engineering"
+# === INVESTING & FINANCE ===
   - hedge fund
   - "private equity"
-  - "venture capital"
   - "angel investing"
   - "seed stage"
   - "Series A"
@@ -732,8 +681,7 @@ tags:
   - indexing
   - ETF
   - "mutual fund"
-
-  # === HEALTH & PANDEMIC ===
+# === HEALTH & PANDEMIC ===
   - "infectious disease"
   - biocontainment
   - "high-consequence infectious diseases"
@@ -758,10 +706,6 @@ tags:
   - ERHMS
   - CEPS
   - "World Bank"
-  - OECD
-  - "Pandemic Fund"
-  - PANDEM-2
-  - "global health"
   - AI
   - forecasting
   - simulation
@@ -777,9 +721,6 @@ tags:
   - "National Special Pathogen System"
   - "Regional Emerging Special Pathogen Treatment Centers"
   - "Hospital Preparedness Program"
-  - "FIFA World Cup"
-  - diabetes
-  - obesity
   - "heart disease"
   - cancer
   - "Alzheimer's"
@@ -799,7 +740,6 @@ tags:
   - trust
   - will
   - probate
-  - "social security"
   - Medicare
   - Medicaid
   - "Obamacare"
@@ -811,7 +751,6 @@ tags:
   - "individual mandate"
   - "employer mandate"
   - subsidy
-  - "tax credit"
   - penalty
   - "Cadillac tax"
   - "medical loss ratio"
@@ -820,8 +759,7 @@ tags:
   - EHB
   - "preventive care"
   - wellness
-
-  # === RISK & UNCERTAINTY ===
+# === RISK & UNCERTAINTY ===
   - "black swan"
   - "gray rhino"
   - "tail risk"
@@ -843,73 +781,11 @@ tags:
   - discounting
   - NPV
   - IRR
-  - "capital budgeting"
-  - "cost of capital"
-  - WACC
-  - "risk free rate"
-  - "equity risk premium"
-  - beta
-  - alpha
-  - CAPM
-  - "Fama-French"
-  - "factor investing"
-  - "smart beta"
-  - "passive investing"
-  - "active investing"
-  - indexing
-  - ETF
-  - "mutual fund"
-  - "private equity"
-  - "venture capital"
-  - "angel investing"
-  - "seed stage"
-  - "Series A"
-  - "Series B"
-  - "Series C"
-  - IPO
-  - SPAC
-  - "direct listing"
-  - "dual class shares"
-  - governance
-  - "board of directors"
-  - "shareholder activism"
-  - "proxy fight"
-  - "hostile takeover"
-  - "poison pill"
-  - "golden parachute"
-  - "say on pay"
-  - "executive compensation"
-  - "stock options"
-  - RSU
-  - "performance shares"
-  - clawback
-  - "long term incentive"
-  - LTIP
-  - "short term incentive"
-  - STIP
-  - bonus
-  - salary
-  - "deferred compensation"
   - forecast
   - prediction
   - scenario
-  - "stress test"
-  - "war game"
-  - simulation
   - model
-
-  # === TECHNOLOGY & CYBER ===
-  - cybersecurity
-  - "digital ID"
-  - surveillance
-  - privacy
-  - blockchain
-  - decentralization
-  - "digital ecosystem"
-  - "digital currency"
-  - CBDC
-  - "digital dolar"
-  - FIAT
+# === TECHNOLOGY & CYBER ===
   - "Digital Footprint"
   - "Social Credit System"
   - "Behavioral Scoring"
@@ -936,8 +812,7 @@ tags:
   - "Shoshana Zuboff"
   - "Stanford Research"
   - "Yale Research"
-
-  # === TAX & LEGAL ===
+# === TAX & LEGAL ===
   - "tax planning"
   - "estate tax"
   - "gift tax"
@@ -950,52 +825,7 @@ tags:
   - "qualified opportunity zone"
   - QOZ
   - "Opportunity Zone"
-  - "capital gains"
-  - "dividend tax"
-  - "income tax"
-  - "payroll tax"
-  - "corporate tax"
-  - "pass-through"
-  - "S corp"
-  - "C corp"
-  - LLC
-  - partnership
-  - "sole proprietorship"
-  - nonprofit
-  - 501c3
-  - "donor advised fund"
-  - DAF
-  - "private foundation"
-  - "public charity"
-  - "charitable deduction"
-  - "itemized deduction"
-  - "standard deduction"
-  - SALT
-  - "mortgage interest"
-  - "property tax"
-  - "state tax"
-  - "local tax"
-  - "federal tax"
-  - "tax bracket"
-  - "marginal rate"
-  - "effective rate"
-  - "tax credit"
-  - "tax deduction"
-  - "tax exemption"
-  - "tax deferral"
-  - "tax free"
-  - "tax advantaged"
-  - "municipal bond"
-  - "treasury bond"
-  - "corporate bond"
-  - "high yield"
-  - "junk bond"
-  - "investment grade"
-  - trust
-  - will
-  - probate
-
-  # === TECHNOLOGY & SOCIETY ===
+# === TECHNOLOGY & SOCIETY ===
   - technology
   - "Jacques Ellul"
   - "Theodore Kaczynski"
@@ -1008,13 +838,11 @@ tags:
   - anarcho-primitivism
   - autonomy
   - dignity
-  - freedom
   - "power process"
   - "surrogate activities"
   - "black box effect"
   - autonomization
   - ubiquity
-  - AI
   - "artificial intelligence"
   - biotechnology
   - CRISPR
@@ -1022,7 +850,6 @@ tags:
   - "gene drives"
   - "synthetic biology"
   - "digital vaccine passports"
-  - "social control"
   - "co-option of dissent"
   - universities
   - "domesticated dissent"
@@ -1044,36 +871,6 @@ tags:
   - "sustainable development"
   - "unintended consequences"
   - hubris
-  - forecasting
-  - chaos
-  - "political labels"
-  - infrastructure
-  - "social management of dissent"
-  - "system's neatest trick"
-  - "animal rights"
-  - "environmental justice"
-  - "anti-discrimination policies"
-  - "integration propaganda"
-  - "agitation propaganda"
-  - "power brokers"
-  - "leftist identity politics"
-  - multiculturalism
-  - "irreversibility"
-  - "consumer choice"
-  - grid
-  - "microchip fabrication"
-  - "global shipping"
-  - "camera networks"
-  - DNA
-  - "thinking machines"
-  - "human brain"
-  - "predict purchase"
-  - "self-driving quality"
-  - "green technology"
-  - "sustainable development"
-  - "unintended consequences"
-  - hubris
-  - forecasting
   - chaos
   - "political labels"
   - infrastructure
@@ -1155,13 +952,11 @@ tags:
   - "We"
   - Jiang
   - "The Technological Society as Paradise and Dystopia"
-
-  # === CRYPTOGRAPHY & ZERO-KNOWLEDGE PROOFS ===
+# === CRYPTOGRAPHY & ZERO-KNOWLEDGE PROOFS ===
   - "zero-knowledge proofs"
   - ZKP
   - "age verification"
   - "digital identity"
-  - privacy
   - cryptography
   - "zk-SNARKs"
   - "zk-STARKs"
@@ -1171,9 +966,7 @@ tags:
   - "Google Longfellow"
   - Dock
   - "selective disclosure"
-  - "digital ID"
   - "data minimization"
-  - surveillance
   - unlinkability
   - "range proofs"
   - "regulatory compliance"
@@ -1191,22 +984,18 @@ tags:
   - unbanked
   - usability
   - "recursive SNARKs"
-
-  # === TRADE & TARIFFS ===
+# === TRADE & TARIFFS ===
   - tariffs
   - protectionism
   - "trade war"
   - "trade policy"
   - "economic recession"
-  - "supply chain"
   - "supply chain fragmentation"
   - reshoring
   - nearshoring
   - "GDP impact"
-  - inflation
   - "consumer prices"
   - "regressive tax"
-  - unemployment
   - "trade deficit"
   - "retaliatory tariffs"
   - WTO
@@ -1214,7 +1003,6 @@ tags:
   - "bilateral trade"
   - "regional blocs"
   - "supply chain resilience"
-  - efficiency
   - "trade Cold War"
   - "geopolitical rivalry"
   - decoupling
@@ -1230,8 +1018,7 @@ tags:
   - JPMorgan
   - "Goldman Sachs"
   - "global recession risk"
-
-  # === JEWISH ANTI-ZIONISM & LEFT HISTORY ===
+# === JEWISH ANTI-ZIONISM & LEFT HISTORY ===
   - "Jewish anti-Zionism"
   - "Jewish left"
   - "Communist Party USA"
@@ -1265,14 +1052,12 @@ tags:
   - "Howard Fast"
   - "Jewish Voice for Peace"
   - "DSA Jewish Solidarity Caucus"
-
-  # === ISRAEL & MIDDLE EAST ===
+# === ISRAEL & MIDDLE EAST ===
   - Israel
   - "Nation-State Law"
   - "Basic Law"
   - ethnonationalism
   - "Jewish state"
-  - democracy
   - "Palestinian citizens"
   - "Arab citizens"
   - "minority rights"
@@ -1333,8 +1118,7 @@ tags:
   - 1988 charter
   - 2007 Battle of Gaza
   - Two-state solution
-
-  # === SEMICONDUCTOR & AI TECHNOLOGY ===
+# === SEMICONDUCTOR & AI TECHNOLOGY ===
   - NVIDIA
   - Intel
   - "AI chips"
@@ -1349,15 +1133,12 @@ tags:
   - "semiconductor export controls"
   - "black market"
   - smuggling
-  - "supply chain"
   - "US-China technology competition"
   - "AI supremacy"
-  - technocracy
   - DeepSeek
   - Huawei
   - CUDA
   - "Jensen Huang"
-  - China
   - "US-China relations"
   - "semiconductor industry"
   - "chip manufacturing"
@@ -1381,7 +1162,6 @@ tags:
   - CoreWeave
   - Oracle
   - Stargate
-  - "CHIPS Act"
   - "GPU Rental Market"
   - "AI Sputnik Moment"
   - "Military AI"
@@ -1393,8 +1173,7 @@ tags:
   - "Gas Turbines"
   - "DRAM Prices"
   - "Memory Prices"
-
-  # === AI SAFETY & LLM SECURITY ===
+# === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"
   - "large language models"
   - LLM
@@ -1429,8 +1208,7 @@ tags:
   - "red teaming"
   - "AI security"
   - "emergent capabilities"
-
-  # === SURVEILLANCE & BIOMETRIC TECHNOLOGY ===
+# === SURVEILLANCE & BIOMETRIC TECHNOLOGY ===
   - "mass surveillance"
   - "surveillance state"
   - "facial recognition"
@@ -1457,27 +1235,20 @@ tags:
   - "mass surveillance state"
   - "surveillance capitalism"
   - "surveillance reform"
-  - "predictive policing"
   - "pre-crime"
-
-  # === DEMOCRACY & POLITICAL PSYCHOLOGY ===
-  - democracy
-  - "illusion of choice"
+# === DEMOCRACY & POLITICAL PSYCHOLOGY ===
   - "manufactured consent"
   - Plato
   - "The Republic"
-  - Athens
   - "critical thinking"
   - "choice paralysis"
   - "cognitive bias"
   - "partisan polarization"
   - demagoguery
-  - authoritarianism
   - "competitive authoritarianism"
   - "Steven Levitsky"
   - "Edward Bernays"
   - "engineering of consent"
-  - propaganda
   - "cognitive dissonance"
   - "limbic system"
   - "prefrontal cortex"
@@ -1497,7 +1268,6 @@ tags:
   - "Weimar Republic"
   - "democratic deficit"
   - "Joseph Schumpeter"
-  - technocracy
   - Antifa
   - Alt-Left
   - Anti-fascist
@@ -1530,8 +1300,7 @@ tags:
   - Free speech
   - Economic damage
   - Street confrontation
-
-  # === ANTI-DEFAMATION LEAGUE & CIVIL RIGHTS ===
+# === ANTI-DEFAMATION LEAGUE & CIVIL RIGHTS ===
   - "Anti-Defamation League"
   - ADL
   - "Jonathan Greenblatt"
@@ -1550,7 +1319,6 @@ tags:
   - FBI
   - "FBI partnership"
   - "James Comey"
-  - "Kash Patel"
   - COINTELPRO
   - "IHRA definition"
   - "antisemitism definition"
@@ -1559,13 +1327,11 @@ tags:
   - Wikipedia
   - "Wikipedia reliability"
   - "ADL Foundation"
-  - "executive compensation"
   - "Paycheck Protection Program"
   - "PPP loan"
   - "civil rights"
   - "hate crimes"
   - "Political Subversion"
-  - "Surveillance State"
   - "Intelligence Apparatus"
   - "Ideological Conformity"
   - "Coercion Tactics"
@@ -1580,7 +1346,7 @@ tags:
   - "Corporate Takeovers"
   - "Money Laundering"
   - "Narcotics Trade"
-  - "Medellín Cartel"
+  - "MedellÃ­n Cartel"
   - "Jonathan Pollard"
   - "Stern Gang"
   - "Kach Party"
