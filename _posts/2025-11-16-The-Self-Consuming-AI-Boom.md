@@ -2,7 +2,7 @@
 title: "The Self-Consuming AI Boom"
 tagline: "How circular financing, government guarantees, and behavioral dependency inflated a trillion-dollar bubble that threatens markets, minds, and national security"
 date: 2025-11-16
-tags: []
+tags: ["AI Bubble", "Circular Financing", "NVIDIA", "OpenAI", "CoreWeave", "Microsoft", "Oracle", "Anthropic", "Scale AI", "Stargate", "CHIPS Act", "DeepSeek", "Vendor Financing", "GPU Rental Market", "Financial Engineering", "Off-Balance-Sheet Accounting", "Collateralized Loan Obligations", "Rating Agencies", "Too Big to Fail", "AI Sputnik Moment", "Military AI", "Pentagon", "Data Centers", "Energy Consumption", "Behavioral Surplus", "Data Extraction", "Neural Interfaces", "Brain-Computer Interfaces", "Merge Labs", "Sam Altman", "Jensen Huang", "Sovereign Wealth Funds", "Regulatory Capture"]
 
 header:
   image: /assets/images/The-Self-Consuming-AI-Boom.jpg

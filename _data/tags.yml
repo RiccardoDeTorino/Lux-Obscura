@@ -330,6 +330,39 @@ tags:
   - "Automation"
   - "Job Displacement"
   - "Credit Scoring"
+  - "AI Bubble"
+  - "Circular Financing"
+  - "Vendor Financing"
+  - "Financial Engineering"
+  - "Off-Balance-Sheet Accounting"
+  - "Collateralized Loan Obligations"
+  - "Rating Agencies"
+  - "Too Big to Fail"
+  - "Market Concentration"
+  - "Overcapacity"
+  - "Valuation Multiples"
+  - "Dot-com Bubble"
+  - "2008 Financial Crisis"
+  - "Vibe Revenue"
+  - "Secondary Market Trading"
+  - "Deferred Revenue"
+  - "Enterprise Contracts"
+  - "Free Tier"
+  - "Subsidized Usage"
+  - "GAAP"
+  - "Wall Street"
+  - "Venture Capital"
+  - "GDP Growth"
+  - "Margin Calls"
+  - "401(k)"
+  - "Federal Reserve"
+  - "Jerome Powell"
+  - "Warren Buffett"
+  - "Michael Burry"
+  - "JPMorgan"
+  - "SoftBank"
+  - "Sovereign Wealth Funds"
+  - "Sovereign Wealth Fund"
 
   # === CENTRAL BANKS & BANKING ===
   - BOJ
@@ -918,6 +951,22 @@ tags:
   - "Alternative Credit Scoring"
   - "Compliance"
   - "Social Control"
+  - "Behavioral Surplus"
+  - "Data Extraction"
+  - "Neural Interfaces"
+  - "Brain-Computer Interfaces"
+  - "Merge Labs"
+  - "Sam Altman"
+  - "Censorship"
+  - "Behavioral Modification"
+  - "Dependency"
+  - "Atlas Browser"
+  - "Biometric ID"
+  - "Adult Content"
+  - "Job Augmentation"
+  - "Shoshana Zuboff"
+  - "Stanford Research"
+  - "Yale Research"
 
   # === TAX & LEGAL ===
   - "tax planning"
@@ -1573,6 +1622,24 @@ tags:
   - Amazon
   - Microsoft
   - BlackRock
+  - OpenAI
+  - Anthropic
+  - "Scale AI"
+  - CoreWeave
+  - Oracle
+  - Stargate
+  - "CHIPS Act"
+  - "GPU Rental Market"
+  - "AI Sputnik Moment"
+  - "Military AI"
+  - Pentagon
+  - "Data Centers"
+  - "Energy Consumption"
+  - "Semiconductor Manufacturing"
+  - "Environmental Impact"
+  - "Gas Turbines"
+  - "DRAM Prices"
+  - "Memory Prices"
 
   # === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"
