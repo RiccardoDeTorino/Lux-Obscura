@@ -892,8 +892,17 @@ tags:
   - "Reasonable Expectation of Privacy"
   - "Search and Seizure"
   - "Probable Cause"
-  - "Exclusionary Rule"
-# === TECHNOLOGY & SOCIETY ===
+- "Exclusionary Rule"
+  - "Tax Incentives"
+  - "Corporate Subsidies"
+  - "Property Tax Abatement"
+  - "Renewable Energy Certificates"
+  - "Net Zero"
+  - "Greenwashing"
+  - "Environmental Justice"
+  - "Community Impact"
+  - "Water Wars"
+  # === TECHNOLOGY & SOCIETY ===
   - technology
   - "Jacques Ellul"
   - "Theodore Kaczynski"
@@ -911,7 +920,6 @@ tags:
   - "black box effect"
   - autonomization
   - ubiquity
-  - "artificial intelligence"
   - biotechnology
   - CRISPR
   - "gene editing"
@@ -945,7 +953,6 @@ tags:
   - "social management of dissent"
   - "system's neatest trick"
   - "animal rights"
-  - "environmental justice"
   - "anti-discrimination policies"
   - "integration propaganda"
   - "agitation propaganda"
@@ -1232,7 +1239,7 @@ tags:
   - Oracle
   - Stargate
   - "GPU Rental Market"
-  - "AI Sputnik Moment"
+- "AI Sputnik Moment"
   - "Military AI"
   - Pentagon
   - "Data Centers"
@@ -1242,7 +1249,24 @@ tags:
   - "Gas Turbines"
   - "DRAM Prices"
   - "Memory Prices"
-# === AI SAFETY & LLM SECURITY ===
+  - "AI Infrastructure"
+  - "Artificial Intelligence"
+  - "Electricity Consumption"
+  - "Power Grid"
+  - "Utility Rate Increases"
+  - "Water Consumption"
+  - "Water Stress"
+  - "Aquifer Depletion"
+  - "Air Pollution"
+  - "Public Health"
+  - "Noise Pollution"
+  - "Low-Frequency Noise"
+  - "Cooling Systems"
+  - "Backup Generators"
+  - "Diesel Exhaust"
+  - xAI
+  - "Community Opposition"
+  # === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"
   - "large language models"
   - LLM

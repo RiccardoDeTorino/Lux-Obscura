@@ -2,7 +2,7 @@
 title: "The American Data Center Paradox"
 tagline: "How Artificial Intelligence Infrastructure Is Reshaping U.S. Communities, Utilities, and Regulatory Landscapes"
 date: 2025-12-01
-tags: []
+tags: ["Data Centers", "AI Infrastructure", "Artificial Intelligence", "Electricity Consumption", "Power Grid", "Utility Rate Increases", "Water Consumption", "Water Stress", "Aquifer Depletion", "Air Pollution", "Public Health", "Noise Pollution", "Low-Frequency Noise", "Tax Incentives", "Corporate Subsidies", "Property Tax Abatement", "Environmental Justice", "Community Impact", "Water Wars", "Renewable Energy Certificates", "Net Zero", "Greenwashing", "Cooling Systems", "Backup Generators", "Diesel Exhaust", "Virginia", "Georgia", "Arizona", "Meta", "Google", "Microsoft", "Amazon", "xAI", "Community Opposition"]
 header:
   image: /assets/images/The-American-Data-Center-Paradox.jpg
   teaser: /assets/images/The-American-Data-Center-Paradox.jpg
