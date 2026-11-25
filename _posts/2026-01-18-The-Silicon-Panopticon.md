@@ -3,6 +3,10 @@ title: "The Algorithmic Kill Chain: Did Palantir Engineered the Operating System
 tagline: "How America's Data Lords Built a Surveillance Machine That Watches Everyone and Answers to No One"
 date: 2026-01-18
 tags: []
+
+header:
+  image: /assets/images/The-Silicon-Panopticon.jpg
+  teaser: /assets/images/The-Silicon-Panopticon.jpg
 ---
 
 ### **Introduction**
