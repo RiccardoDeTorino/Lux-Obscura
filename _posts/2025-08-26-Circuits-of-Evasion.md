@@ -8,10 +8,10 @@ header:
   image: /assets/images/Circuits-of-Evasion.jpg
   teaser: /assets/images/Circuits-of-Evasion.jpg
 
-  body_video:
-  id: "2l0nXNSMSbo"
-  provider: "youtube"
-  title: "The NVIDIA AI GPU Black Market"  
+body_video:
+ id: "2l0nXNSMSbo"
+ provider: "youtube"
+ title: "The NVIDIA AI GPU Black Market"  
 ---
 
 ### **Introduction**
