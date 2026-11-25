@@ -62,6 +62,11 @@ The implications extend beyond privacy. A society in which every trip to a thera
 The United States runs a surveillance apparatus that would leave the East German Stasi envious. Suburban city councils and homeowners associations built this sprawling network to chase small reductions in property crime. Judges are starting to resist. Voters blocked camera expansion in dozens of cities, and a few states restored basic safeguards. This network can collapse. Police chiefs sign contracts that expire. And regulators can pull funding. We skipped a national conversation before installing these lenses. You have to decide if you want to live in a country where police reconstruct your movements for the past year without a warrant. Delaying this debate makes tracking cars feel ordinary. You will struggle to dismantle the system every day you wait.
 
 And remember, Clippy is always watching you… ;)
+---
+body_video:
+  id: "Pp9MwZkHiMQ"      
+  provider: "youtube"
+---    
 
 ### **Thanks for reading! Subscribe for free, to receive new posts and support my work.**
 ---
