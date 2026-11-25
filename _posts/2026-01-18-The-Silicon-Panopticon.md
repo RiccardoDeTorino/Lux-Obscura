@@ -2,7 +2,7 @@
 title: "The Algorithmic Kill Chain: Did Palantir Engineered the Operating System for Twenty-First Century State Power?"
 tagline: "How America's Data Lords Built a Surveillance Machine That Watches Everyone and Answers to No One"
 date: 2026-01-18
-tags: []
+tags: ["Palantir Technologies", "Peter Thiel", "Alex Karp", "In-Q-Tel", "CIA", "Founder Voting Trust", "Dual-Class Shares", "ICE", "ImmigrationOS", "Immigration Lifecycle Operating System", "Investigative Case Management", "FALCON", "Predictive Policing", "Gaza", "Israeli Military", "TITAN", "Habsora", "Project Nimbus", "Digital Kill Chain", "Ukraine", "Starlink", "NSA", "Unit 8200", "NHS Federated Data Platform", "US Army", "NVIDIA", "AI Factory", "Insider Selling", "French Intelligence", "Revolving Door", "DOGE", "Mega-API", "Surveillance", "Algorithmic Warfare"]
 
 header:
   image: /assets/images/The-Silicon-Panopticon.jpg

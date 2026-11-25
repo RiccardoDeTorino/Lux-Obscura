@@ -76,6 +76,16 @@ tags:
   - "Carlos Andrés Pérez"
   - "Richard Grenell"
   - "Alena Douhan"
+  - "Peter Thiel"
+  - "Joe Lonsdale"
+  - "Stephen Cohen"
+  - "Nathan Gettings"
+  - "Shyam Sankar"
+  - "Doug Philippone"
+  - "Trae Stephens"
+  - "Michael Kratsios"
+  - "Kevin Harrington"
+  - "Louis Mosley"
 # === GEOPOLITICS & REGIONS ===
   - Japan
   - "Japan's Economic crisis"
@@ -101,7 +111,14 @@ tags:
   - resilience
   - antifragility
   - "United States"
-  - "Russia"
+  - Israel
+  - Palestine
+  - Gaza
+  - Ukraine
+  - Russia
+  - "United Kingdom"
+  - France
+  - Germany
   - China
   - "Dollar Dominance"
   - "Global Finance"
@@ -878,6 +895,39 @@ tags:
   - "VPN"
   - "Digital Disenfranchisement"
   - "Vulnerable Populations"
+  - "Algorithmic Warfare"
+  - "Digital Kill Chain"
+  - "Palantir Gotham"
+  - "Palantir Foundry"
+  - "Palantir AIP"
+  - "TITAN Targeting"
+  - "Habsora"
+  - "Lavender"
+  - "Where Is Daddy"
+  - "Project Nimbus"
+  - "AI Factory"
+  - "NVIDIA CUDA"
+  - "Nemotron"
+  - "Omniverse DSX"
+  - "Starlink"
+  - "Unit 8200"
+  - "NSA"
+  - "In-Q-Tel"
+  - "Founder Voting Trust"
+  - "Dual-Class Shares"
+  - "ImmigrationOS"
+  - "ICM"
+  - "FALCON"
+  - "Predictive Policing"
+  - "DOGE"
+  - "Mega-API"
+  - "Insider Selling"
+  - "French Intelligence"
+  - "NHS Federated Data Platform"
+  - "US Army"
+  - "French DGSI"
+  - "Anduril"
+  - "Anduril Industries"
 # === TAX & LEGAL ===
   - "tax planning"
   - "estate tax"
@@ -915,6 +965,18 @@ tags:
   - "Water Wars"
   - "COPPA"
   - "FTC"
+  - "Sole-Source Contract"
+  - "Limiting Sources Justification"
+  - "Federal Acquisition Regulation"
+  - "Congressional Oversight"
+  - "Civil Rights"
+  - "ICC"
+  - "Genocide"
+  - "War Crimes"
+  - "Arms Export Control Act"
+  - "Export Control"
+  - "ITAR"
+  - "CFIUS"
   - "First Amendment"
   - "Intermediate Scrutiny"
   - "Strict Scrutiny"
@@ -1007,7 +1069,6 @@ tags:
   - "boarding pass"
   - "ethical AI"
   - "tech firms"
-  - "predictive policing"
   - "health monitoring"
   - "public safety"
   - "system norms"
@@ -1152,7 +1213,6 @@ tags:
   - "Mike Gold"
   - "Jews Without Money"
   - "bi-national state"
-  - Palestine
   - Zionism
   - "Cold War"
   - McCarthyism
@@ -1161,7 +1221,6 @@ tags:
   - "Jewish Voice for Peace"
   - "DSA Jewish Solidarity Caucus"
 # === ISRAEL & MIDDLE EAST ===
-  - Israel
   - "Nation-State Law"
   - "Basic Law"
   - ethnonationalism
@@ -1293,6 +1352,16 @@ tags:
   - "Diesel Exhaust"
   - xAI
   - "Community Opposition"
+  - "AI Factory for Government"
+  - "Chain Reaction"
+  - "Palantir Ontology"
+  - "Blackwell Architecture"
+  - "Vera Rubin"
+  - "Argonne National Laboratory"
+  - "Los Alamos National Laboratory"
+  - "Digital Twin"
+  - "Supply Chain Optimization"
+  - "Lowe's"
 # === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"
   - "large language models"
@@ -1474,7 +1543,6 @@ tags:
   - "ADL Foundation"
   - "Paycheck Protection Program"
   - "PPP loan"
-  - "civil rights"
   - "hate crimes"
   - "Political Subversion"
   - "Intelligence Apparatus"
