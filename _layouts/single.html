@@ -58,7 +58,11 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.body_video %}
+          <div class="body-video" style="margin: 2rem 0;">
+            {% include video id=page.body_video.id provider=page.body_video.provider title=page.body_video.title %}
+          </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
@@ -88,12 +92,6 @@ layout: default
 
       {% include post_pagination.html locale=locale %}
     </div>
-
-    {% if page.body_video %}
-      <div class="body-video" style="margin: 2rem 0;">
-        {% include video id=page.body_video.id provider=page.body_video.provider title=page.body_video.title %}
-      </div>
-    {% endif %}
 
     {% if site.comments.provider and page.comments %}
       {% if jekyll.environment == 'production' %}
