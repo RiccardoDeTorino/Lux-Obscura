@@ -867,6 +867,17 @@ tags:
   - "Surveillance Infrastructure"
   - "Privacy Erosion"
   - "Surveillance Creep"
+  - "Biometric Data"
+  - "Facial Recognition"
+  - "Facial Age Estimation"
+  - "Digital Privacy"
+  - "Anonymous Speech"
+  - "Surveillance"
+  - "Data Brokers"
+  - "Deepfakes"
+  - "VPN"
+  - "Digital Disenfranchisement"
+  - "Vulnerable Populations"
 # === TAX & LEGAL ===
   - "tax planning"
   - "estate tax"
@@ -902,7 +913,20 @@ tags:
   - "Environmental Justice"
   - "Community Impact"
   - "Water Wars"
-  # === TECHNOLOGY & SOCIETY ===
+  - "COPPA"
+  - "FTC"
+  - "First Amendment"
+  - "Intermediate Scrutiny"
+  - "Strict Scrutiny"
+  - "Free Speech Coalition v. Paxton"
+  - "Texas House Bill 1181"
+  - "Louisiana Act 440"
+  - "South Carolina Child Online Safety Act"
+  - "GDPR"
+  - "Online Safety Act"
+  - "eSafety Commissioner"
+  - "Age Assurance"
+# === TECHNOLOGY & SOCIETY ===
   - technology
   - "Jacques Ellul"
   - "Theodore Kaczynski"
@@ -1048,7 +1072,6 @@ tags:
   - CNIL
   - "Online Safety Bill"
   - "eIDAS 2.0"
-  - "data brokers"
   - EFF
   - ACLU
   - "Electronic Frontier Foundation"
@@ -1065,6 +1088,10 @@ tags:
   - unbanked
   - usability
   - "recursive SNARKs"
+  - "Age Verification Laws"
+  - "Biometric Privacy"
+  - "Double-Blind Verification"
+  - "Privacy-Preserving Technology"
 # === TRADE & TARIFFS ===
   - tariffs
   - protectionism
@@ -1266,7 +1293,7 @@ tags:
   - "Diesel Exhaust"
   - xAI
   - "Community Opposition"
-  # === AI SAFETY & LLM SECURITY ===
+# === AI SAFETY & LLM SECURITY ===
   - "sleeper agents"
   - "large language models"
   - LLM
@@ -1303,7 +1330,6 @@ tags:
   - "emergent capabilities"
   - "mass surveillance"
   - "surveillance state"
-  - "facial recognition"
   - "gait recognition"
   - "biometric surveillance"
   - "facial recognition failure"
@@ -1418,6 +1444,7 @@ tags:
   - Free speech
   - Economic damage
   - Street confrontation
+  - NetChoice
 # === ANTI-DEFAMATION LEAGUE & CIVIL RIGHTS ===
   - "Anti-Defamation League"
   - ADL

@@ -2,7 +2,7 @@
 title: "The Era of Age Verification Laws Have Reshaped Digital Rights"
 tagline: "How Intermediate Scrutiny Replaced Privacy Protections and Created a Surveillance Infrastructure"
 date: 2025-12-06
-tags: []
+tags: ["Age Verification Laws", "Free Speech Coalition v. Paxton", "Texas House Bill 1181", "Supreme Court", "Intermediate Scrutiny", "Strict Scrutiny", "First Amendment", "Digital Privacy", "Anonymous Speech", "Surveillance", "Biometric Data", "Facial Recognition", "Zero-Knowledge Proofs", "COPPA", "FTC", "Age Assurance", "Online Safety Act", "eSafety Commissioner", "Vulnerable Populations", "Digital Disenfranchisement", "VPN", "Data Brokers", "Identity Theft", "Deepfakes", "NetChoice", "Electronic Frontier Foundation", "Louisiana Act 440", "South Carolina Child Online Safety Act", "GDPR", "Facial Age Estimation", "Biometric Privacy", "Digital ID", "Chilling Effect", "Self-Censorship"]
 
 header:
   image: /assets/images/The-Era-of-Age-Verification.jpg
