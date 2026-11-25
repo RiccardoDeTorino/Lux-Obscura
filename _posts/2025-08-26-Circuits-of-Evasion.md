@@ -7,6 +7,11 @@ tags: [NVIDIA, "AI chips", GPU, H100, H20, B200, H800, A100, A800, "export contr
 header:
   image: /assets/images/Circuits-of-Evasion.jpg
   teaser: /assets/images/Circuits-of-Evasion.jpg
+
+  body_video:
+  id: "2l0nXNSMSbo"
+  provider: "youtube"
+  title: "The NVIDIA AI GPU Black Market"  
 ---
 
 ### **Introduction**
