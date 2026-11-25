@@ -89,6 +89,12 @@ layout: default
       {% include post_pagination.html locale=locale %}
     </div>
 
+    {% if page.body_video %}
+      <div class="body-video" style="margin: 2rem 0;">
+        {% include video id=page.body_video.id provider=page.body_video.provider %}
+      </div>
+    {% endif %}
+
     {% if site.comments.provider and page.comments %}
       {% if jekyll.environment == 'production' %}
         {% include comments.html locale=locale %}
