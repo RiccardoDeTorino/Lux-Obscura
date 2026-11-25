@@ -119,7 +119,7 @@ You can’t dismantle the network until you reject the men who built it.
 ---
 References:
 
-- [The Jerusalem Post. (n.d.). Ehud Barak responds to Epstein Files recording | The Jerusalem Post.](https://www.jpost.com/israel-news/article-886519)
+- [The Jerusalem Post. (n.d.). Ehud Barak responds to Epstein Files recording - The Jerusalem Post.](https://www.jpost.com/israel-news/article-886519)
 
 - [The Jerusalem Post. (n.d.). Peres announces the Hoopoe as Israel’s national bird.](https://www.jpost.com/israel/peres-announces-the-hoopoe-as-israels-national-bird/article-102781)
 
