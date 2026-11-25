@@ -2,7 +2,7 @@
 title: "The Valar Loophole"
 tagline: "How Epstein Engineered the Alliance Between Silicon Valley and the Israeli Defense Establishment"
 date: 2026-02-12
-tags: []
+tags: ["epstein", "peter-thiel", "valar-ventures", "founders-fund", "ehud-barak", "shimon-peres", "carbyne", "palantir", "surveillance", "emergency-response", "venture-capital", "offshore-accounts", "limited-partner", "world-economic-forum", "bilderberg-conference", "unit-8200", "government-contracts", "data-analysis", "intelligence-agencies", "geopolitical-interests", "venture-diplomacy", "mass-observation", "police-technology", "911-system", "axon", "israeli-tech", "israeli-security", "israeli-defense", "israeli-intelligence", "israeli-startup", "israeli-venture", "israeli-investment", "sec-filings"]
 
 header:
   image: /assets/images/The-Valar-Loophole.jpg
