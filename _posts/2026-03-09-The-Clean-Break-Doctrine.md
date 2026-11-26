@@ -3,6 +3,10 @@ title: "The Clean Break Doctrine"
 tagline: "How a 1996 Policy Memo Written for BiBi Became the Blueprint for Over Two Decades of Middle East Catastrophe"
 date: 2026-03-09
 tags: []
+
+header:
+  image: /assets/images/The-Clean-Break-Doctrine.jpg
+  teaser: /assets/images/The-Clean-Break-Doctrine.jpg
 ---
 
 ### **Introduction**
