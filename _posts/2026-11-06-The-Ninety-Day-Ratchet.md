@@ -90,6 +90,7 @@ The EU guidelines mention measuring public trust. A government that tracks wheth
 ### **Conclusion**
 
 Higgs spent six years documenting a pattern that now reads like a live feed. The preparedness campaigns, the freezer hacks, the fake alerts, the digital euro mentioned in passing alongside canned beans. These are not separate events converging by accident. They are the conditioning phase, the demonstration phase, and the infrastructure phase of the same sequence Higgs traced through two world wars and a depression. The ratchet clicks forward when the public accepts that the state must do something, and the seventy-two-hour backpack is the acceptance made physical. The ninety-day stockpile at the military base is what the state does with the acceptance once it has been granted. The next request will be larger. The request after that will be framed as smaller by comparison. And the emergency, as it has since 2001, will be renewed again before anyone remembers to let it expire.
+
 ---
 
 This exposé is dedicated to Milton William "Bill" Cooper, for the inspiration for my project.
