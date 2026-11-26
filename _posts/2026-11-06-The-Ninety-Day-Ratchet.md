@@ -21,7 +21,8 @@ Then you get Fortress America. Officials spelled the acronym out as Federal Oper
 
 Grant all of that. And you still have to set the civilian instruction next to the military one. They ask your family for three days and give the bases ninety.
 
-The Freezers and the Blood
+### **The Freezers and the Blood**
+
 The cyberattacks on cold storage are absurd, sure, but the absurdity is the least interesting part of them. Supermarkets in Belgium, Sweden, Ireland, Estonia, and Luxembourg all reported the same thing: freezers and refrigerators overheating, millions of pounds of food rotting on shelves. A couple of weeks before that, over five hundred French supermarkets went through the identical failure. Some of the fridges got hot enough to catch fire. Then the attacks hit six grocery stores on U.S. military bases, same mechanism, same result. The Pentagon confirmed it was investigating.
 
 The French blood service incident is where the picture gets uglier. Hackers went after Cool World, a contractor that maintains cold storage for blood supplies. They accessed a monitoring system and changed a number. Temperature settings for units holding blood samples shifted from -30 °C to 110 °C. The blood spoiled. Nobody died in that specific case, and I think the restraint matters as much as the act. Someone demonstrated they could reach into the system and adjust a setting that keeps human tissue viable, and they left the proof sitting in a spoiled inventory. Your food supply runs on a network. Your blood supply runs on the same kind of network. And a person with access showed they can change the numbers on those networks the way you’d adjust a thermostat in your kitchen.
