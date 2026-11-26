@@ -2,7 +2,7 @@
 title: "The Clean Break Doctrine"
 tagline: "How a 1996 Policy Memo Written for BiBi Became the Blueprint for Over Two Decades of Middle East Catastrophe"
 date: 2026-03-09
-tags: []
+tags: ["clean-break", "richard-perle", "douglas-feith", "david-wurmser", "paul-wolfowitz", "scooter-libby", "william-kristol", "robert-kagan", "benjamin-netanyahu", "brian-whitaker", "ahmad-chalabi", "AIPAC", "dick-cheney", "FBI", "CIA", "nine-eleven-commission", "oslo-accords", "BiBi-doctrine", "neoconservatism", "regime-change", "containment", "preemption", "office-of-special-plans", "weapons-of-mass-destruction", "iraq-war", "iran-nuclear-deal", "syrian-civil-war", "hezbollah", "saddam-hussein", "assad-regime", "libyan-intervention", "sykes-picot", "two-state-solution"]
 
 header:
   image: /assets/images/The-Clean-Break-Doctrine.jpg
