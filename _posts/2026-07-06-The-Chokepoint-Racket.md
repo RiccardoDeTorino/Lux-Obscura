@@ -2,7 +2,7 @@
 title: "The Chokepoint Racket"
 tagline: "How financial markets and state actors mask the structural death of global trade behind obsolete playbooks and currency illusions."
 date: 2026-07-06
-tags: []
+tags: ["strait-hormuz", "blockade", "oil-prices", "fertilizer", "agriculture", "helium", "jet-fuel", "sulfur", "war-risk-insurance", "freight-rates", "petrodollar", "currency-war", "yuan", "dollar", "central-bank", "stagflation", "global-south", "maritime", "insurance-premiums", "commodity-crisis", "maritime-blockade", "global-trade", "energy-crisis", "food-security", "maritime-security", "us-dollar", "chinese-yuan", "digital-currency", "sanctions", "global-supply-chain", "maritime-choke-point", "trade-routes", "ceasefire"]
 
 header:
   image: /assets/images/The-Chokepoint-Racket.jpg
