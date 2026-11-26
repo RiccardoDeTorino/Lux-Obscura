@@ -2,7 +2,7 @@
 title: "The Cantor Fitzgerald Tariff Play"
 tagline: "When Constitutional Ambiguity Became a Tradable Asset"
 date: 2026-02-24
-tags: []
+tags: ["supreme-court", "emergency-tariffs", "IEEPA", "cantor-fitzgerald", "howard-lutnick", "tariff-refunds", "secondary-market", "litigation-finance", "financial-industrial-complex", "commerce-department", "ethics-framework", "conflicts-of-interest", "$175-billion", "re-industrialization", "supply-chain-vulnerabilities", "critical-minerals", "friend-shoring", "chips-act", "inflation-reduction-act", "macroeconomics", "reserve-currency-curse", "gold-revaluation", "investment-implications", "legislative-oversight", "trade-policy", "executive-power", "judicial-branch", "trade-war", "importer-claims", "political-backlash", "market-speculation", "wall-street", "goldman-sachs"]
 
 header:
   image: /assets/images/The-Cantor-Fitzgerald-Tariff-Play.jpg
