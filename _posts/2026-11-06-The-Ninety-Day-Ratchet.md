@@ -1,0 +1,99 @@
+---
+title: "The Ninety-Day Ratchet"
+tagline: "How synchronized preparedness messaging, infrastructure sabotage, and a forty-year-old economic theory describe the same mechanism from three different angles"
+date: 2026-11-06
+tags: []
+
+header:
+  image: /assets/images/The-Ninety-Day-Ratchet.jpg
+  teaser: /assets/images/The-Ninety-Day-Ratchet.jpg
+---
+
+### **Introduction**
+
+Thirty-three countries told their citizens to stockpile three days of food, water, cash, and a radio within the same autumn. The Pentagon announced plans for two hundred military bases to operate off-grid for ninety days. Supermarket freezers across six European nations overheated in coordinated cyberattacks. Fake nuclear alerts hit phones in Ukraine and Russia at two in the morning. A power outage plunged the buildings housing the State Department and the World Bank into darkness. Robert Higgs published a book in 1987 explaining why governments expand during emergencies and never fully contract afterward. The preparedness campaigns condition populations to accept expanded state authority. The infrastructure attacks demonstrate vulnerability. You get the ratchet. You get the new normal. You get a population that remembers the fear longer than it remembers the specific threat.
+
+### **The Synchronization Problem**
+
+On October 22 the UK government launched Be Ready, a three-year campaign asking each household to hold 72 hours of supplies. Japan put out its own version. Germany asked for ten days. Sweden and Finland, along with the Baltic states, have handed out similar guidance for years because they sit next to Russia. But count the dates. European Commission officials published updated guidelines on November 3 that reach past canned goods and battery radios. They raise preparedness lessons beginning in preschool. They float an offline digital euro as a payment backup, and they describe tracking public trust through social media analysis. You can read a pamphlet telling you to keep water under the sink and move on. Somebody who writes down how the state will monitor compliance and introduce programmable currency during a crisis has handed you a different document, under the same cover.
+
+Then you get Fortress America. Officials spelled the acronym out as Federal Operations for Resilience, Troop Resources, Energy Supply, and Survivability, and they want about two hundred military installations running for ninety days on their own resources. They want battery storage and portable nuclear reactors, plus stockpiles of ammunition and fuel, and medicine. They’d convert factories to wartime production and move key leaders into Cheyenne Mountain. The cost in the billions and the work in years, and officials haven’t named a completion date. Reporters frame the threat around China as much as Iran.
+
+Grant all of that. And you still have to set the civilian instruction next to the military one. They ask your family for three days and give the bases ninety.
+
+The Freezers and the Blood
+The cyberattacks on cold storage are absurd, sure, but the absurdity is the least interesting part of them. Supermarkets in Belgium, Sweden, Ireland, Estonia, and Luxembourg all reported the same thing: freezers and refrigerators overheating, millions of pounds of food rotting on shelves. A couple of weeks before that, over five hundred French supermarkets went through the identical failure. Some of the fridges got hot enough to catch fire. Then the attacks hit six grocery stores on U.S. military bases, same mechanism, same result. The Pentagon confirmed it was investigating.
+
+The French blood service incident is where the picture gets uglier. Hackers went after Cool World, a contractor that maintains cold storage for blood supplies. They accessed a monitoring system and changed a number. Temperature settings for units holding blood samples shifted from -30 °C to 110 °C. The blood spoiled. Nobody died in that specific case, and I think the restraint matters as much as the act. Someone demonstrated they could reach into the system and adjust a setting that keeps human tissue viable, and they left the proof sitting in a spoiled inventory. Your food supply runs on a network. Your blood supply runs on the same kind of network. And a person with access showed they can change the numbers on those networks the way you’d adjust a thermostat in your kitchen.
+
+Someone had to decide, years ago, that industrial freezers needed an internet connection. Engineers built the infrastructure for convenience and remote monitoring, and they wired the vulnerability into the design from the start. The attacks made that existing exposure visible to everyone reading a newspaper. And the timing sits in a strange place. The same weeks these systems were failing, governments were telling citizens to prepare for disruptions, to stock up, to expect interruptions. You’re being asked to comply with new preparedness protocols at the exact moment a stranger demonstrated they can warm your freezer and spoil a blood bank by changing a number on a screen.
+
+### **The Fake Alerts and Their Function**
+
+On November 2, emergency alert apps in Ukraine and Russia shoved false warnings onto citizens’ phones. Ukraine got messages warning of radiation, chemical threats, street fighting, incoming missiles. Russia got one notification claiming nuclear warheads had launched across the country. The alerts went out in the middle of the night. You’re asleep, your phone goes off, and now you’re deciding whether to wake the kids, whether to drag everyone toward a basement. Then the correction lands. Someone hacked the app. Disregard.
+
+The 2018 Hawaii incident is the obvious comparison. Residents there got an incoming ballistic missile warning, and the correction took thirty-eight minutes. But the Ukraine-Russia case does something the Hawaii one didn’t.
+
+A false alert trains the population to doubt the next alert. You get the correction, you exhale, and you file away the fact that someone can breach the system. The next real threat arrives, and people hesitate. They check their phones twice. They wonder if someone’s done it again. The boy-who-cried-wolf metaphor holds because the real damage shows up afterward, in the hesitation you’ve now built into a population’s reflexes.
+
+Iran’s state media started airing instructions on surviving nuclear fallout around the same stretch of days. State media presented the instructions as a response to U.S. threats against nuclear sites, Pickaxe Mountain among them. Trump got on camera, said the sites had been blown up, said another one might need the same treatment. Tucker Carlson posted a warning about a potential nuclear strike within days of that. He’d made similar predictions before, and nothing came of them. That’s fair. But you stack the state media, the political figures on camera, the military posturing, and you get enough voices saying nuclear war is close, from enough directions, that no single correction can cut through it anymore.
+
+### **Higgs and the Mechanism Underneath**
+
+Robert Higgs spent six years writing Crisis and Leviathan. The book’s central argument is that American government doesn’t grow smoothly. It lurches forward during emergencies and then settles at a higher baseline. He calls this the ratchet. The government expands its effective authority over economic decision-making during a crisis. When the crisis ends, some powers recede. The income tax withholding introduced during World War II stayed. The national emergency declared after September 11, 2001, has been renewed every year by every subsequent president. The Patriot Act’s surveillance provisions persisted for nearly two decades. The federal public health emergency during the pandemic lasted over three years.
+
+But Higgs provides more than the ratchet metaphor. He provides the cost-concealment hypothesis, which explains why governments substitute command-and-control systems for market mechanisms during emergencies. If the government had to pay market wages to attract soldiers, the public would see the cost on a balance sheet and revolt. If the government drafts them at below-market pay, the cost disperses into individual lives and stays invisible in aggregate. The news mention the military emergency declaration used to fast-track a ketamine wafer past normal FDA approval. Secretary Hegseth declared the emergency in July. The Department of Health and Human Services opened an emergency use pathway. The company pushing the wafers got its shortcut. The mechanism Higgs described in 1987 was operating in 2025 with the same logic.
+
+The ideological component matters as much as the institutional one. Higgs argues that crises alter what people believe is appropriate for government to do. Before the New Deal, the dominant ideology held that federal work relief was unconstitutional overreach. Grover Cleveland vetoed a ten-thousand-dollar seed grain appropriation for Texas drought victims because he could find no warrant for it in the Constitution. Four decades later, the federal government was running the economy through the National Recovery Administration. The shift wasn’t in the text of the Constitution. The shift was in the public’s tolerance. The crisis broke the old ideology and installed a new one. Governments tell you to prepare. You prepare. The act of preparing changes your relationship to the state. You’ve accepted its premise. You’ve organized your household around its timeline. The next request will be easier to grant.
+
+### **The EU Guidelines as Blueprint**
+
+The European Commission published these documents on November 3, and they’re worth pulling apart because the preparedness messaging has an architecture underneath it. The guidelines treat cash as a backup alongside a future offline digital euro. Preparedness education starts in preschool. Social media monitoring appears as a tool for gauging public trust and behavior. And the documents flag that messaging could shift if the seventy-two-hour standard stretches to a full week.
+
+The digital euro mention is the detail that separates this from a canned goods pamphlet. Multiple jurisdictions have been developing central bank digital currencies. The EU requires member states to offer citizens a digital identity wallet by the end of 2026. The United Kingdom tried to make digital ID mandatory for proving the right to work. Those efforts connect to programmable money as infrastructure. The guidelines normalize the digital euro by slotting it in next to bottled water and a hand-crank radio. You absorb it as part of the survival kit. The state is telling you that in the disruption it’s preparing you for, the currency you’ll handle is one it controls at the transaction level.
+
+The preschool lessons and the social media monitoring provisions aim at the same thing. You condition compliance early, and then you check whether the conditioning took. A government planning to monitor your trust levels during an emergency has already decided your role in it. You’re the variable it manages.
+
+### **Three Theories Sharing a Skeleton**
+
+There are three explanations for the current climate. The first is algorithmic fear-mongering and profit. Fear drives engagement. Engagement drives advertising revenue. Fear also drives consumer purchases. The United Kingdom saw torch sales jump 284 percent after the Be Ready campaign launched. Tinned food sales rose 40 percent in a single weekend. In 1961, the Berlin crisis spawned an entire fallout shelter industry. Forty companies in July. One hundred and twenty by October. Six hundred bankrupt by 1962 when the crisis cooled. Defense contractors profit whether the war happens or not. The preparation is the business. The Fortress America initiative, with its microgrids and portable reactors for two hundred bases, represents billions in contracts over many years. The forty-one-million-dollar painkiller contract went out without competition.
+
+The second theory is the centralization play. Every crisis expands state authority. The expansions persist. The digital identity infrastructure, the programmable currency, the emergency powers that get renewed indefinitely. Agenda 2030, signed by all 193 UN member states in 2015. They note the timing of its adoption relative to the construction of digital identity and financial control systems. The G20 meeting produced a statement about a moment of choosing and collective solutions. If you’re inclined to see a pattern, finding one here requires minimal effort.
+
+The third theory is the darkest. A nuclear strike on Iran, targeting Pickaxe Mountain, followed by Iranian retaliation against undersea internet cables, data centers, and AI facilities across the Gulf. Trump said the U.S. would not strike Iran before the midterms on November 3. The Financial Times reported Netanyahu had a multi-day strike ready for October 10. Trump blocked it because of the election. A source told the paper that restarting the war after both American and Israeli elections was not an unreasonable scenario. The military emergency declaration Hegseth signed in July specifically cited heightened risk to U.S. forces of an attack with a chemical, biological, radiological, or nuclear agent. What would provoke Iran to use that kind of force?
+
+The three theories share a skeleton. They all require the same precondition: a population conditioned to accept extraordinary measures. The fear-mongering theory requires you scared enough to buy. The centralization theory requires you to be scared enough to comply. The escalation theory requires you scared enough to tolerate what comes next. The preparedness campaigns serve all three simultaneously. Recognize this overlap. They state it plainly. I don’t think of the theories as separate, I think they’re all happening to some extent.
+
+### **The Historical Rhyme**
+
+Higgs documents the pattern across multiple crises. During World War I, the Wilson administration conscripted soldiers, fixed prices, nationalized railroads, and built the machinery of a command economy. The draft boards were local and civilian, which diffused resentment. The Food Administration deployed thousands of volunteer enforcers at the neighborhood level. The propaganda machine called dissenters slackers. After the war, most controls lifted, the ideological residue stayed. The income tax structure stayed. The precedent for federal economic management stayed.
+
+During World War II, the same machinery returned at larger scale. Price controls. Rationing boards. Plant seizures. The military-industrial complex in its modern form. Higgs quotes a contemporary observer noting that the freedom of contract took the worst beating in the war. The Supreme Court upheld every emergency measure without exception. Not one. The pattern isn’t that emergencies create new powers, the pattern is that emergencies reveal powers the state already wanted, and the crisis provides the political cover to exercise them. The Overman Act of 1918 gave Wilson authority to reorganize executive departments. Congress resisted. In 1941, the First War Powers Act granted Roosevelt the same authority in days. The precedent existed.
+
+The New Deal operated on the same principle. Roosevelt’s inaugural address invoked war metaphors. He asked Congress for broad executive power to wage war against the emergency, as great as the power given if the nation were invaded by a foreign foe. The audience applauded. The framing of economic disruption as equivalent to military invasion. The request for extraordinary authority as a proportional response. The audience’s willingness to grant it because the fear has already done its work.
+
+### **The Problem with the Seventy-Two-Hour Standard**
+
+Three days of supplies for a family is reasonable. The military prepares for ninety. The gap between those numbers is the entire argument compressed into a ratio. You’re told to prepare for a weekend disruption. The state prepares for a season of autonomous operation. The implication is that the disruption, if it comes, will last longer than your backpack covers. The implication is that after your three days run out, you’ll need the state. The state will be ready. The state has been stockpiling. The state has its microgrids and its portable reactors and its wartime production protocols. You have your canned beans and your hand-crank radio.
+
+We can note the November 17 FEMA test and the Simpsons clip circulating online about a blackout on a cold November day, but we should treat both with appropriate skepticism. The show has run over seven hundred episodes. Some jokes land as predictions by volume alone. But the coincidence of the date with a scheduled nationwide alert test earns a mention.
+
+### **The Fear Itself**
+
+Fear gets attention, and attention converts to capital. That’s the engine. A politician stokes it for votes, and an algorithm promotes it for watch time. Corporations package it to move product, influencers ride it to build a following. I don’t. And each of them profits when the dose escalates. The defense contractor collects on the contract, the politician, and the content creator collect theirs in votes and views. You collect the cortisol. You pay in attention, in anxiety, in a shrinking ability to judge whether a threat matches the fear it triggers.
+
+Higgs saw this in 1987, decades before anyone had to name an algorithm. He wrote that governments expand during crises because citizens demand action and the state hides the cost of providing it. The demand comes from fear, the concealment from self-interest. You get frightened, you demand a response, the state responds in ways you can’t price because you lack the information to evaluate the response, and you stay frightened, and you demand more. The ratchet clicks forward. Higgs wrote in the language of constitutional law and fiscal policy, and the gears he described are the ones turning now under different costumes.
+
+The EU guidelines mention measuring public trust. A government that tracks whether you trust it during an emergency has decided your trust is a resource it manages. You’re the variable the government optimizes. The preparedness campaign conditions you. The gap between “we’re getting ready on your behalf” and “we’re getting you ready” is small. One reads as service, the other as conditioning.
+
+### **Conclusion**
+
+Higgs spent six years documenting a pattern that now reads like a live feed. The preparedness campaigns, the freezer hacks, the fake alerts, the digital euro mentioned in passing alongside canned beans. These are not separate events converging by accident. They are the conditioning phase, the demonstration phase, and the infrastructure phase of the same sequence Higgs traced through two world wars and a depression. The ratchet clicks forward when the public accepts that the state must do something, and the seventy-two-hour backpack is the acceptance made physical. The ninety-day stockpile at the military base is what the state does with the acceptance once it has been granted. The next request will be larger. The request after that will be framed as smaller by comparison. And the emergency, as it has since 2001, will be renewed again before anyone remembers to let it expire.
+
+
+This exposé is dedicated to Milton William "Bill" Cooper, for the inspiration for my project.
+
+William Cooper was an American radio broadcaster, author, and one of the most polarizing figures of the 1990s alternative media. After moving away from Ufology toward the militia and anti-government subculture in the late 1990s, he was killed on November 6, 2001, at his home in Eagar, Arizona, during an attempt by Apache County sheriff's deputies to serve allegedly outstanding warrants. He was 58.
+
+### **Thanks for reading! Subscribe for free, to receive new posts and support my work.**
+---
