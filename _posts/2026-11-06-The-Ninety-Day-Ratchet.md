@@ -2,7 +2,7 @@
 title: "The Ninety-Day Ratchet"
 tagline: "How synchronized preparedness messaging, infrastructure sabotage, and a forty-year-old economic theory describe the same mechanism from three different angles"
 date: 2026-11-06
-tags: []
+tags: ["ninety-day-ratchet", "preparedness", "stockpile", "cyberattacks", "freezers", "blood", "fake-alerts", "nuclear-alerts", "power-outage", "state-authority", "infrastructure-sabotage", "be-ready", "robert-higgs", "crisis-and-leviathan", "cost-concealment", "eu-guidelines", "digital-euro", "preschool-lessons", "social-media-monitoring", "three-theories", "algorithmic-fear-mongering", "centralization-play", "escalation-theory", "historical-rhyme", "hawaii-incident", "boy-who-cried-wolf", "iran-state-media", "pickaxe-mountain", "trump-nuclear-strike", "tucker-carlson", "seventy-two-hour-standard", "fear-itself", "milton-william-bill-cooper"]
 
 header:
   image: /assets/images/The-Ninety-Day-Ratchet.jpg
